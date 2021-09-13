@@ -1,0 +1,118 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 70 130 180 }
+revolutionary_colors = { 13 0 8 }
+historical_idea_groups = {
+	humanist_ideas
+	trade_ideas
+	quantity_ideas
+	offensive_ideas
+	expansion_ideas
+	economic_ideas
+	defensive_ideas
+	administrative_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	chinese_dragoon
+	chinese_footsoldier
+	chinese_longspear
+	chinese_steppe
+	eastern_bow
+	han_banner
+	manchu_banner
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+	reformed_manchu_rifle
+}
+monarch_names = {
+	"Adyana #0" = -1
+	"Bokut #0" = -1
+	"Bügü #1" = 10
+	"Darayisung #0" = 0
+	"Elbeg #1" = 10
+	"Gerelma #0" = -1
+	"Guangbi #0" = 0
+	"Guluun #1" = 10
+	"Khanda #0" = -1
+	"Kül #1" = 10
+	"Longxian #0" = -1
+	"Longyou #0" = 0
+	"Namgar #0" = -1
+	"Oyiradai #1" = 10
+	"Qayshan #0" = 0
+	"Shizhen #0" = -1
+	"Tayisung #1" = 10
+	"Temyulen #1" = -1
+	"Tseden #0" = -1
+	"Tsymzidma #1" = -1
+	"Tsyrendashi #2" = 10
+	"Tsyrendulma #0" = 0
+	"Tuyana #0" = -1
+	"Yaoying #0" = -1
+	"Yeldem #0" = -1
+	"Zorikto #1" = 10
+}
+leader_names = {
+	"Abaga"
+	"Abaganar"
+	"Ast"
+	"Borjigin"
+	"Chagaan"
+	"Chakhar"
+	"Darqan"
+	"Hohhot"
+	"Jurim"
+	"Karakorum"
+	"Khalkha"
+	"Kharachin"
+	"Khorchin"
+	"Noyan"
+	"Onriut"
+	"Ordos"
+	"Tümed"
+	"Ulanqab"
+	"Uriankhai"
+	"Wang"
+	"Xilingol"
+	"Yingchang"
+	"Yungshiyebu"
+}
+ship_names = {
+	"Adai"
+	"Batu"
+	"Bo'orchu"
+	"Borokhula"
+	"Böke"
+	"Chagaan"
+	"Chilaun"
+	"Dharmapala"
+	"Dörben Külü'üd"
+	"Dörben Noyas"
+	"Elbeg"
+	"Ghengis Khan"
+	"Hohhot"
+	"Hülegü"
+	"Jebe"
+	"Jelme"
+	"Jinggim"
+	"Jöchi"
+	"Kamala"
+	"Karakorum"
+	"Khar Khiruge"
+	"Khubilai"
+	"Mugali"
+	"Möngke"
+	"Qubilai"
+	"Shikhikhutug"
+	"Sorqan Shira"
+	"Subutai"
+	"Tolui"
+	"Yelü Chucai"
+	"Yingchang"
+	"Ögödei"
+	"Örüg Temür"
+}

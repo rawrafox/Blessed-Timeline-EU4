@@ -1,0 +1,7 @@
+
+
+************ -= The Paradox Game Converters Group =- *****************
+* Converter version 0.8H "Hellenic"
+* Compatible with CK3 [v1.3-v1.4] and EU4 [v1.31.5-v1.31]
+* Built on Thu Aug 26 14:05:47 2021
+*************************** + CK3 To EU4 + ***************************

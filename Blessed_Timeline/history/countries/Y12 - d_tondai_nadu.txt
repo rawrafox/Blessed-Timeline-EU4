@@ -1,0 +1,13 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = buddhism
+primary_culture = tamil
+capital = 2027
+add_accepted_culture = tamil
+add_accepted_culture = telegu
+1444.11.11= {
+	add_prestige = 75
+	add_treasury = 56
+}

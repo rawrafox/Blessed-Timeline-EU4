@@ -1,0 +1,20 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 58 83 133 }
+monarch_names = {
+	"Adesuwa #0" = -1
+	"Amadi #1" = 10
+	"Amenaghawon #1" = 10
+	"Chidiebere #0" = -1
+	"Eheneden #1" = 10
+	"Ehigiator #0" = 0
+	"Eki #2" = 10
+	"Enweleana #0" = -1
+	"Esosa #0" = -1
+	"Ikponmwonsa #1" = 10
+	"Nkem #0" = 0
+	"Obozuwa #1" = 10
+	"Okagbue #0" = 0
+	"Oshioke #1" = 10
+	"Uyi #0" = -1
+}

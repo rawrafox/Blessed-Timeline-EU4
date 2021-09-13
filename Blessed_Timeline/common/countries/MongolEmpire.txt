@@ -1,0 +1,127 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 130 180 240 }
+historical_idea_groups = {
+	humanist_ideas
+	trade_ideas
+	quantity_ideas
+	offensive_ideas
+	expansion_ideas
+	economic_ideas
+	defensive_ideas
+	administrative_ideas
+}
+historical_units = {
+	reformed_steppe_rifles
+	steppe_cavalry
+	steppe_footmen
+	steppe_infantry
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_musketeers
+	steppe_raiders
+	steppe_riders
+	steppe_rifles
+	steppe_uhlans
+}
+monarch_names = {
+	"Bawk #0" = -1
+	"Bhogavati #0" = -1
+	"Bo-Me #0" = -1
+	"Choden #0" = -1
+	"Durgaraja #0" = 0
+	"Ekari #0" = -1
+	"Htilominlo #0" = 0
+	"Htin #0" = 0
+	"Jeyya #1" = 10
+	"Jinmo #0" = -1
+	"Kalya #0" = -1
+	"Karnadevi #0" = -1
+	"Kjaw #0" = 0
+	"Kyaw #0" = 0
+	"Kyit #0" = 0
+	"Mra #0" = -1
+	"Myintzu #0" = -1
+	"Nadi #0" = -1
+	"Narathihapate #0" = 0
+	"Narathu #0" = 0
+	"Nwe #0" = -1
+	"Nyan #0" = -1
+	"Padmanava #0" = 0
+	"Puning #0" = -1
+	"Pyit #0" = 0
+	"Rajaraja #0" = 0
+	"Sholah #0" = -1
+	"Singgi #0" = -1
+	"Tara #0" = -1
+	"Thang #1" = 10
+	"Thihathu #1" = 10
+	"Thinzar #0" = -1
+	"Thiri #0" = -1
+	"Thura #1" = 10
+	"Vakula #0" = -1
+	"Vasumati #0" = -1
+	"Viravijaya #0" = 0
+	"Wittyi #0" = -1
+	"Yazathingyan #0" = 0
+}
+leader_names = {
+	"Abaga"
+	"Abaganar"
+	"Ast"
+	"Borjigin"
+	"Chagaan"
+	"Chakhar"
+	"Darqan"
+	"Hohhot"
+	"Jurim"
+	"Karakorum"
+	"Khalkha"
+	"Kharachin"
+	"Khorchin"
+	"Noyan"
+	"Onriut"
+	"Ordos"
+	"Tümed"
+	"Ulanqab"
+	"Uriankhai"
+	"Wang"
+	"Xilingol"
+	"Yingchang"
+	"Yungshiyebu"
+}
+ship_names = {
+	"Adai"
+	"Batu"
+	"Bo'orchu"
+	"Borokhula"
+	"Böke"
+	"Chagaan"
+	"Chilaun"
+	"Dharmapala"
+	"Dörben Külü'üd"
+	"Dörben Noyas"
+	"Elbeg"
+	"Ghengis Khan"
+	"Hohhot"
+	"Hülegü"
+	"Jebe"
+	"Jelme"
+	"Jinggim"
+	"Jöchi"
+	"Kamala"
+	"Karakorum"
+	"Khar Khiruge"
+	"Khubilai"
+	"Mugali"
+	"Möngke"
+	"Qubilai"
+	"Shikhikhutug"
+	"Sorqan Shira"
+	"Subutai"
+	"Tolui"
+	"Yelü Chucai"
+	"Yingchang"
+	"Ögödei"
+	"Örüg Temür"
+}

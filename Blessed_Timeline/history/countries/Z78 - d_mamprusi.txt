@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = western
+religion = ibadi
+primary_culture = dagomba
+capital = 2256
+add_accepted_culture = dagomba
+1444.11.11= {
+	monarch = {
+		name = "Bagula"
+		dynasty = "Toussiana"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 1405.4.20
+		religion = ibadi
+		culture = dagomba
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = well_connected_personality
+	queen = {
+		name = "Kusure"
+		dynasty = "Gbassi"
+		adm = 3
+		dip = 4
+		mil = 4
+		country_of_origin = Z78
+		birth_date = 1408.7.26
+		death_date = 1468.7.26
+		female = yes
+		religion = ibadi
+		culture = dagomba
+	}
+	add_queen_personality = cruel_personality
+	add_queen_personality = drunkard_personality
+	heir = {
+		name = "Gamambu"
+		monarch_name = "Gamambu"
+		dynasty = "Toussiana"
+		adm = 6
+		dip = 4
+		mil = 4
+		birth_date = 1433.10.30
+		death_date = 1498.10.30
+		claim = 89
+		religion = ibadi
+		culture = dagomba
+	}
+	add_heir_personality = bold_fighter_personality
+	add_heir_personality = cruel_personality
+}
+1444.11.11= {
+	add_prestige = 71
+	add_treasury = 58
+}

@@ -1,0 +1,20 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 180 180 250 }
+monarch_names = {
+	"Altan #1" = 10
+	"Dohna #0" = -1
+	"Gawhar #0" = -1
+	"Jetsan #0" = -1
+	"Jowojé #0" = -1
+	"Namgyel #1" = 10
+	"Oshypel #0" = -1
+	"Sarica #0" = -1
+	"Songul #0" = -1
+	"Sukhrab #1" = 10
+	"Thrisong #0" = -1
+	"Trashigön #0" = -1
+	"Tridé #0" = -1
+	"Tsangdé #0" = 0
+	"Özlem #0" = -1
+}

@@ -1,0 +1,100 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 16 142 49 }
+historical_idea_groups = {
+	defensive_ideas
+	maritime_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	economic_ideas
+	spy_ideas
+	diplomatic_ideas
+}
+historical_units = {
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_dragoon
+	muslim_mass_infantry
+	persian_cavalry_charge
+	persian_footsoldier
+	persian_rifle
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+}
+monarch_names = {
+	"Abdul #0" = 0
+	"Abdul-Wahab #0" = -1
+	"Alim #1" = 10
+	"Alitash #0" = -1
+	"Alp Yurek #0" = -1
+	"Aram #0" = 0
+	"Azam #1" = 10
+	"Bahir #0" = 0
+	"Davud #1" = 10
+	"Ghalib #0" = 0
+	"Hussayn #1" = 10
+	"Ibrahim #1" = 10
+	"Ipekel #0" = -1
+	"Isa #0" = 0
+	"Jahaira #0" = -1
+	"Kamala #0" = -1
+	"Mahdi #0" = -1
+	"Mahmud #0" = 0
+	"Maryam #0" = -1
+	"Najib #0" = -1
+	"Nasr #0" = 0
+	"Peksen #0" = -1
+	"Qamara #0" = -1
+	"Qawurd #1" = 10
+	"Rasa #0" = -1
+	"Sadiq #3" = 10
+	"Sagal #0" = -1
+	"Sheeftah #0" = -1
+	"Shola #0" = -1
+	"Sulayman #1" = 10
+	"Taliba #0" = -1
+	"Tamar #0" = -1
+	"Tawaret #0" = -1
+	"Ubayd #1" = 10
+	"Uways #0" = 0
+	"Yasmin #0" = -1
+	"Yusuf #0" = 0
+	"Zaynab #0" = -1
+}
+leader_names = {
+	"Ali"
+	"Ibrahim"
+	"Issa"
+	"Jomaa"
+	"Khalil"
+	"Mansour"
+	"Saab"
+	"Saad"
+	"Saleh"
+	"Shammas"
+}
+ship_names = {
+	"Al-Kawd"
+	"Ali ibn Rasul"
+	"At-Tubah"
+	"Dhubab"
+	"Ibb"
+	"Jabal Kharaz"
+	"Jabal Thamar"
+	"Jabal al-Hasha"
+	"Malik al-Mujahid"
+	"Mansur Umar"
+	"Mawiyah"
+	"Musaymir"
+	"Muzaffar Yusuf"
+	"Qa'tabah"
+	"Shaykh Uthman"
+	"Ta'izz"
+	"Wadi Bana"
+	"Whaqra"
+	"Zabid"
+	"Zaizz"
+}

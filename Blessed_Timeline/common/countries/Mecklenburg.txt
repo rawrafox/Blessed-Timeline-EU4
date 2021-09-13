@@ -1,0 +1,108 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 55 140 143 }
+revolutionary_colors = { 13 8 5 }
+historical_idea_groups = {
+	administrative_ideas
+	trade_ideas
+	defensive_ideas
+	innovativeness_ideas
+	diplomatic_ideas
+	offensive_ideas
+	economic_ideas
+	quality_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Agnes #0" = -1
+	"Albrecht #0" = 0
+	"Anund #1" = 10
+	"Arnold #1" = 10
+	"Athela #0" = -1
+	"Beatrix #0" = -1
+	"Benno #1" = 10
+	"Bernd #0" = 0
+	"Boddic #0" = 0
+	"Dàvi #0" = 0
+	"Edvard #1" = 10
+	"Egilmar #0" = 0
+	"Eilika #0" = -1
+	"Elisabeth #1" = -1
+	"Engelbert #0" = 0
+	"Frederuna #0" = -1
+	"Gerberga #0" = -1
+	"Guthskalco #1" = 10
+	"Ida #0" = -1
+	"Imma #1" = -1
+	"Jutta #0" = -1
+	"Krutoj #1" = 10
+	"Magnus #2" = 10
+	"Msciwoj #1" = 10
+	"Othelindis #1" = -1
+	"Richardis #1" = -1
+	"Rudolf #0" = 0
+	"Suanhilde #0" = -1
+	"Swietopelk #1" = 10
+	"Theodrada #0" = -1
+	"Thordis #2" = -1
+	"Unwan #0" = 0
+	"Withgils #0" = 0
+	"Þyri #1" = -1
+}
+leader_names = {
+	"Busekke"
+	"Bußacker"
+	"Gesiter"
+	"Gothan"
+	"Jacobs"
+	"Jauert"
+	"Klatt"
+	"Laudan"
+	"Meincke"
+	"Niemann"
+	"Panck"
+	"Porepp"
+	"Reinike"
+	"Sass"
+	"Schliechting"
+	"Schlien"
+	"Schuhr"
+	"Schultz"
+	"Seeland"
+	"Steinkopp"
+	"Theeß"
+	"Wacker"
+	"Warncke"
+	"Wilcke"
+}
+ship_names = {
+	"Fürst Borwin"
+	"Fürst Nikolaus"
+	"Herzog Adolf Friedrich"
+	"Herzog Albrecht"
+	"Herzog Balthasar"
+	"Herzog Erich"
+	"Herzog Heinrich"
+	"Herzog Johann Georg"
+	"Herzog Karl"
+	"Herzog Magnus"
+	"Mekelenborch"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+}

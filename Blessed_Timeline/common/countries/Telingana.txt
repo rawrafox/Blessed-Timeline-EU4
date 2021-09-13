@@ -1,0 +1,104 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 158 164 225 }
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	quantity_ideas
+	defensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+historical_units = {
+	indian_archers
+	indian_arquebusier
+	indian_footsoldier
+	indian_rifle
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Achyutadeva #0" = 0
+	"Anuppal #0" = 0
+	"Appûtaiyân #1" = 10
+	"Bhagadatta #0" = 0
+	"Birnayaran #0" = 0
+	"Brahmdevpal #0" = 0
+	"Butuga #1" = 10
+	"Chinnambike #0" = -1
+	"Damayanti #0" = -1
+	"Dantidurga #0" = 0
+	"Dehanagadevi #0" = -1
+	"Dhamarajha #0" = -1
+	"Govindachandra #0" = 0
+	"Jagaraya #0" = 0
+	"Jira #0" = -1
+	"Kanchuka #0" = -1
+	"Kanhad #0" = -1
+	"Kassapa #0" = 0
+	"Kirtivarman #1" = 10
+	"Mahipal #0" = 0
+	"Mailaladevi #2" = -1
+	"Mallikarjuna #2" = 10
+	"Mallugi #0" = 0
+	"Narayanapala #0" = -1
+	"Nattadevi #0" = -1
+	"Obayamma #0" = -1
+	"Permanadi #2" = 10
+	"Pertal #0" = 0
+	"Polavira #1" = 10
+	"Popatraj #0" = -1
+	"Prabhavatigupta #0" = -1
+	"Prasadhanadevi #0" = -1
+	"Prithivipala #0" = 0
+	"Puppadevi #0" = -1
+	"Ramabhadra #1" = 10
+	"Rinzen #0" = 0
+	"Shantaladevi #0" = -1
+	"Shivamara #1" = 10
+	"Sisupala #0" = 0
+	"Tejapala #0" = 0
+	"Vijaya #0" = 0
+	"Vikramaditya #1" = 10
+	"Viranarasimha #1" = 10
+}
+leader_names = {
+	"Ambadeva"
+	"Damerla"
+	"Gannaiah"
+	"Gona"
+	"Jannigadeva"
+	"Malraju"
+	"Meka"
+	"Racha"
+	"Suryavamsa"
+	"Tripurar"
+	"Velugoti"
+}
+ship_names = {
+	"Anantavarman"
+	"Bishnupriya"
+	"Devarakonda"
+	"Godavari"
+	"Hidimba"
+	"Kataya"
+	"Konark"
+	"Krishnapriya"
+	"Kumar"
+	"Lakshmi"
+	"Masulipatnam"
+	"Naga"
+	"Paradeep"
+	"Parvati"
+	"Rachakonda"
+	"Radha"
+	"Rahu"
+	"Rajahmundry"
+	"Rakshasa"
+	"Sarasvati"
+	"Satapada"
+	"Vizianagaram"
+	"Warangal"
+}

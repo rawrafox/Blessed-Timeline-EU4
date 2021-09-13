@@ -1,0 +1,93 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 245 200 30 }
+revolutionary_colors = { 8 0 16 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	maritime_ideas
+	economic_ideas
+	diplomatic_ideas
+}
+historical_units = {
+	eastern_carabinier
+	eastern_knights
+	eastern_medieval_infantry
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	ottoman_lancer
+	ottoman_new_model
+	ottoman_nizami_cedid
+	ottoman_reformed_janissary
+	ottoman_reformed_spahi
+	ottoman_sekban
+	ottoman_spahi
+	ottoman_toprakli_dragoon
+	ottoman_toprakli_hit_and_run
+	slavic_stradioti
+}
+monarch_names = {
+	"Aigidia #0" = -1
+	"Belisarios #0" = -1
+	"Eirene #0" = -1
+	"Eulalia #1" = -1
+	"Eunike #1" = -1
+	"Farida #0" = -1
+	"Fayiz #0" = -1
+	"Gulnaz #0" = -1
+	"Hamazasp #0" = 0
+	"Hashmaddin #1" = 10
+	"Ibrahim #0" = 0
+	"Ioanna #0" = -1
+	"Ioulia #0" = -1
+	"Iouliana #0" = -1
+	"Ioustinianos #1" = 10
+	"Is'mail #2" = 10
+	"Jamil #0" = 0
+	"Kamran #0" = 0
+	"Khalid #0" = 0
+	"Lala #0" = -1
+	"Luca #0" = -1
+	"Maria #0" = -1
+	"Matthaios #0" = 0
+	"Micipsa #0" = 0
+	"Minoo #0" = -1
+	"Muhammad #0" = -1
+	"Nahal #0" = -1
+	"Nikephoros #2" = 10
+	"Pavlina #1" = -1
+	"Radhi #0" = 0
+	"Taimur #0" = 0
+	"Terentiy #0" = 0
+	"Ya'qub #0" = 0
+	"Yahya #1" = 10
+	"Zahra #0" = 0
+}
+leader_names = {
+	"Bragadin"
+	"Crispo"
+	"Doria"
+	"Fadrigue"
+	"Lusignans"
+	"Melissinos"
+	"Plethon"
+	"Rendis"
+	"Saraceno"
+	"Tocco"
+}
+ship_names = {
+	"Agios Georgios"
+	"Kato Yialla"
+	"Lachi"
+	"Leivadi"
+	"Lempa"
+	"Maa"
+	"Maurvoll"
+	"Pakhyammos"
+	"Pomos"
+	"Symvoulos"
+}

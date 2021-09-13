@@ -1,0 +1,38 @@
+pagan = {
+	converted_dynamic_faith_103 = {
+		color = { 127 0 0 }
+		icon =  172
+		country = {
+ 
+		diplomatic_reputation = 1
+	
+
+		liberty_desire_from_subject_development = -0.2
+	
+
+		build_cost = 0.1
+		war_exhaustion = -0.1
+	
+ 
+		heir_chance = 0.5
+	
+}
+		country_as_secondary = {
+ 
+		diplomatic_reputation = 1
+	
+
+		liberty_desire_from_subject_development = -0.2
+	
+}
+		province = {
+ 
+		local_manpower_modifier = 0.1
+	
+}
+		
+	heretic = { GOAT_SKULL FINNIC }
+
+	}
+}
+

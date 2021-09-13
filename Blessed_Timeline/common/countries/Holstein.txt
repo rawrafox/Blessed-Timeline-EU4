@@ -1,0 +1,87 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 220 150 158 }
+revolutionary_colors = { 5 0 5 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+	spy_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	prussian_frederickian
+	prussian_uhlan
+	swedish_arme_blanche
+	swedish_caroline
+	swedish_gallop
+	swedish_gustavian
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Albrecht #0" = 0
+	"Asig #0" = 0
+	"Beatrix #0" = -1
+	"Beneda #1" = 10
+	"Domaslava #1" = -1
+	"Ewald #0" = 0
+	"Franz #1" = 10
+	"Geilana #0" = -1
+	"Giselmar #0" = 0
+	"Glismod #0" = -1
+	"Gödke #1" = 10
+	"Havel #1" = 10
+	"Hesso #1" = 10
+	"Janusz #0" = -1
+	"Józsa #0" = -1
+	"Klára #0" = -1
+	"Letoslav #1" = 10
+	"Maria #0" = 0
+	"Milena #0" = -1
+	"Msciwój #0" = 0
+	"Radosta #1" = 10
+	"Rajmund #1" = 10
+	"Richara #0" = -1
+	"Theoderic #0" = 0
+	"Thomas #0" = 0
+	"Vladislav #1" = 10
+	"Vojtech #1" = 10
+	"Volkwin #0" = 0
+}
+leader_names = {
+	"Albert"
+	"Augustenborg"
+	"Günther"
+	"Holstein"
+	"Holstein-Gottorp"
+	"Oldenburg"
+	"Philip"
+	"Rantzau"
+	"von Barner"
+	"von Dellwigh"
+}
+ship_names = {
+	"Dahme"
+	"Grossenbrode"
+	"Grömtz"
+	"Kellenhusen"
+	"Kiel"
+	"Neustadt"
+	"Ostsee"
+	"Scharbeutz"
+	"Sierksdorf"
+	"Wedel"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+}

@@ -1,0 +1,118 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 226 252 82 }
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	defensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+}
+historical_units = {
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_rifle
+	indian_shock_cavalry
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	rajput_musketeer
+	reformed_mughal_mansabdar
+	reformed_mughal_musketeer
+}
+monarch_names = {
+	"Abhirajadeva #1" = 10
+	"Achalraja #1" = 10
+	"Ashokdeva #1" = 10
+	"Basantadeva #1" = 10
+	"Basudeva #1" = 10
+	"Bhagu #1" = 10
+	"Bijor #1" = 10
+	"Brahmadeva #1" = 10
+	"Candradeva #4" = 10
+	"Chögyel #0" = 0
+	"Dilippal #1" = 10
+	"Dromtön #0" = 0
+	"Dronmalön #0" = 0
+	"Guna #1" = 10
+	"Indrapal #1" = 10
+	"Jahal #1" = 10
+	"Jajar #1" = 10
+	"Jar #1" = 10
+	"Jayapal #1" = 10
+	"Jijar #1" = 10
+	"Kalau #1" = 10
+	"Kalu #1" = 10
+	"Kanhad #1" = 10
+	"Kharparadeva #1" = 10
+	"Kiratpal #1" = 10
+	"Kirti #1" = -1
+	"Kungcho #0" = 0
+	"Lhachen Gyalpo #2" = 10
+	"Lhundup #0" = 0
+	"Likmikya #1" = 10
+	"Liknyirhya #1" = 10
+	"Mangpoje #1" = 10
+	"Mul #1" = 10
+	"Nagu #1" = 10
+	"Omade #0" = -1
+	"Pheru #1" = 10
+	"Pida #1" = 10
+	"Rawatdeva #1" = 10
+	"Sonpal #1" = 10
+	"Sulakhni #0" = -1
+	"Temba #0" = -1
+	"Tsultrim #0" = 0
+	"Vashudeva #1" = 10
+}
+leader_names = {
+	"Bahadur"
+	"Bikram"
+	"Chand"
+	"Chhettri"
+	"Dev"
+	"Gurung"
+	"Koirala"
+	"Limbu"
+	"Madhesi"
+	"Magar"
+	"Malla"
+	"Rai"
+	"Rana"
+	"Thapa"
+	"Yadav"
+}
+ship_names = {
+	"Arun"
+	"Behri"
+	"Bhote Kosi"
+	"Devi"
+	"Dudh Kosi"
+	"Durga"
+	"Gayatri"
+	"Jalsena"
+	"Kala Jahazi"
+	"Kali Gandaki"
+	"Karnali"
+	"Lakshmi"
+	"Lal Jahazi"
+	"Narayani"
+	"Nausena"
+	"Nav ka Yudh"
+	"Nila Jahazi"
+	"Parvati"
+	"Radha"
+	"Rapti"
+	"Ratri"
+	"Sagar"
+	"Sapt Kosi"
+	"Sarasvati"
+	"Seti"
+	"Sita"
+	"Sun Kosi"
+	"Trishuli"
+}

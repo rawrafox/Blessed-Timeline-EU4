@@ -1,0 +1,27 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 45 50 150 }
+monarch_names = {
+	"Ambaghai #1" = 10
+	"Begünütei #1" = 10
+	"Diki #0" = 0
+	"Dolkar #0" = -1
+	"Drönma #0" = -1
+	"Duolubu #1" = 10
+	"Eldeçyuk #1" = 10
+	"Jampa #0" = -1
+	"Jamuqa #1" = 10
+	"Kaba #1" = -1
+	"Kona #0" = -1
+	"Kuchuguden #1" = 10
+	"Lhagyel #0" = -1
+	"Meltsayka #0" = 0
+	"Naro #0" = 0
+	"Qorisu Dayir #1" = 10
+	"Skamar #0" = 0
+	"Sugr #2" = 10
+	"Tooril #1" = 10
+	"Tsephel #0" = -1
+	"Yegu #1" = 10
+	"Çor #1" = 10
+}

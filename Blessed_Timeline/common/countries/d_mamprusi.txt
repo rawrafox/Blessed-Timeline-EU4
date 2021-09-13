@@ -1,0 +1,22 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 126 160 158 }
+monarch_names = {
+	"Agu #0" = 0
+	"Alima #0" = -1
+	"Baadindiye #0" = 0
+	"Bagula #1" = 10
+	"Begli #1" = 10
+	"Bil #0" = -1
+	"Burkomanda #0" = -1
+	"Dawuni #0" = 0
+	"Doro #0" = 0
+	"Dulugu #1" = 10
+	"Gamambu #0" = 0
+	"Gori #1" = 10
+	"Kusure #0" = -1
+	"Loel #1" = 10
+	"Wenkouni #0" = -1
+	"Yama #1" = 10
+	"Yenkuaga #0" = 0
+}

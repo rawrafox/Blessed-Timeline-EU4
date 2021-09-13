@@ -1,0 +1,93 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 147 146 106 }
+revolutionary_colors = { 5 13 8 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	spy_ideas
+	offensive_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Ada #0" = -1
+	"Adelheid #0" = 0
+	"Ado #1" = 10
+	"Arnulf #1" = 10
+	"Gottfried #1" = 10
+	"Gozbert #1" = 10
+	"Guntram #2" = 10
+	"Heinrich #2" = 10
+	"Hermann #0" = 0
+	"Hetan #2" = 10
+	"Hroznata #0" = -1
+	"Hruodis #1" = 10
+	"Karl #1" = 10
+	"Louis #1" = 10
+	"Ludolf #1" = 10
+	"Ludwig #3" = 10
+	"Oda #2" = -1
+	"Otto #1" = 10
+	"Poppo #0" = -1
+	"Thuringus #1" = 10
+	"Wolfgang #1" = 10
+	"Ágnes #0" = -1
+}
+leader_names = {
+	"Blochberger"
+	"Bär"
+	"Degen"
+	"Dick"
+	"Egelkraut"
+	"Fichtelmann"
+	"Färber"
+	"Födisch"
+	"Gäbelein"
+	"Hager"
+	"Hofmann"
+	"Höhrer"
+	"Rank"
+	"Sack"
+	"Schwager"
+	"Sell"
+	"Simon"
+	"Söll"
+	"Wirth"
+}
+ship_names = {
+	"Bergtheim"
+	"Biebelried"
+	"Eigelstadt"
+	"Gramschatz"
+	"Höchberg"
+	"Julius Echter"
+	"Kietzingen"
+	"Main"
+	"Marienberg"
+	"Ochsenfurth"
+	"Rimpar"
+	"Uettingen"
+	"Wern"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+}

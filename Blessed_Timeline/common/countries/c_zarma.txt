@@ -1,0 +1,27 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 205 55 85 }
+monarch_names = {
+	"Abisola #1" = -1
+	"Aissata #2" = -1
+	"Aminata #1" = -1
+	"Bagwariya #0" = -1
+	"Chindi #1" = -1
+	"Ehiosu #0" = 0
+	"Fatim #1" = -1
+	"Hamaria #1" = 10
+	"Imokhai #1" = 10
+	"Kaasei #1" = 10
+	"Kalabi #0" = 0
+	"Kumay #1" = 10
+	"Maghan #0" = 0
+	"Majan #0" = 0
+	"Namiss #1" = -1
+	"Nyalgeh #1" = 10
+	"Olufunmilola #1" = 10
+	"Pangangri #1" = 10
+	"Shirya #1" = 10
+	"Wedraogo #1" = 10
+	"Yasiboy #1" = 10
+	"Zenku #0" = -1
+}

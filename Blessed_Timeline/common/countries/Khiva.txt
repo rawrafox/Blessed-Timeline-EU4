@@ -1,0 +1,114 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 210 175 60 }
+revolutionary_colors = { 10 1 10 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	quality_ideas
+}
+historical_units = {
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_cavalry_archers
+	muslim_dragoon
+	muslim_mass_infantry
+	persian_footsoldier
+	persian_rifle
+	persian_shamshir
+	qizilbash_cavalry
+	shaybani
+	tofongchis_musketeer
+	topchis_artillery
+}
+monarch_names = {
+	"Aarif #0" = -1
+	"Ahmet #2" = 10
+	"Akgul #0" = -1
+	"Alaeddin #0" = 0
+	"Alp Yurek #1" = 10
+	"Amlale #0" = -1
+	"Arslan Argun #1" = 10
+	"Ashokka #0" = 0
+	"Aydin #0" = -1
+	"Balaban #1" = 10
+	"Baturay #2" = 10
+	"Baybars #1" = 10
+	"Bozan #0" = -1
+	"Bugra #0" = 0
+	"Davud #1" = 10
+	"Dire #0" = 0
+	"Dundar #0" = 0
+	"Emine #0" = -1
+	"Eraq #1" = 10
+	"Ertekin #1" = 10
+	"Gulbahar #0" = -1
+	"Gunes #0" = -1
+	"Hatice #0" = -1
+	"Huriye #0" = -1
+	"Jiajak #0" = -1
+	"Kasim #0" = 0
+	"Kutalmis #0" = 0
+	"Kutay #1" = 10
+	"Merve #0" = -1
+	"Mursel #0" = 0
+	"Mutlu #0" = -1
+	"Nilufer #0" = -1
+	"Pilihilde #0" = -1
+	"Rustem #0" = -1
+	"Sehinsah #0" = 0
+	"Sencer #0" = 0
+	"Sevindik #0" = -1
+	"Tekçe #0" = -1
+	"Toghan-Shah #1" = 10
+	"Yagana #0" = -1
+	"Yaman #1" = 10
+	"Yildiz #0" = -1
+	"Zuhal #0" = -1
+	"Çagri #0" = 0
+	"Özgul #0" = -1
+}
+leader_names = {
+	"Arighqan"
+	"Batulun"
+	"Batutai"
+	"Bayan Arslan"
+	"Bayarnai"
+	"Bokejin"
+	"Bora Tolui"
+	"Burilgiteni"
+	"Mongke Bayar"
+	"Mongke Cheren"
+	"Oyugun Nasan"
+	"Qadancher"
+	"Subegene"
+	"Suren Chinua"
+	"Tegusdai"
+	"Yekedei"
+}
+ship_names = {
+	"Abu Hasan Ali"
+	"Abu Mamun"
+	"Ahmed Sanjar"
+	"Ala Aziz"
+	"Ala Takish"
+	"Altun Yash"
+	"Amu Darya"
+	"Anush Tigin"
+	"Bukhara"
+	"Din Muhammad"
+	"Harun"
+	"Ismail Khandan"
+	"Jalal Mingburnu"
+	"Jaxartes"
+	"Khwarezm"
+	"Kunya"
+	"Syr Darya"
+	"Urganj"
+	"Yelu Dashi"
+}

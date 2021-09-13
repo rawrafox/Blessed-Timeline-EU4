@@ -1,0 +1,157 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 124 183 151 }
+revolutionary_colors = { 5 8 5 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	quantity_ideas
+	religious_ideas
+}
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	eastern_carabinier
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	muscovite_caracolle
+	muscovite_cossack
+	muscovite_musketeer
+	muscovite_soldaty
+	russian_cuirassier
+	russian_green_coat
+	russian_lancer
+	russian_mass
+	russian_petrine
+	slavic_stradioti
+}
+monarch_names = {
+	"Anna #1" = -1
+	"Cuncetta #0" = -1
+	"Dalimir #1" = 10
+	"Dobroslava #0" = -1
+	"Dobrynia #0" = -1
+	"Eufrosina #0" = -1
+	"Grigoriy #0" = 0
+	"Helgi #1" = 10
+	"Hróðólfr #0" = 0
+	"Iakov #0" = 0
+	"Iliya #0" = 0
+	"Ingvar #0" = 0
+	"Ioulanda #0" = -1
+	"Irina #0" = -1
+	"Ivan #5" = 10
+	"Iziaslav #1" = 10
+	"Jamila #0" = -1
+	"Jaroslaw #2" = 10
+	"Juliana #0" = -1
+	"Ladika #0" = -1
+	"Lev #0" = -1
+	"Maria #0" = -1
+	"Marquisa #0" = -1
+	"Malgorzata #1" = -1
+	"Nikita #0" = 0
+	"Pavel #0" = 0
+	"Petar #0" = 0
+	"Roman #0" = -1
+	"Sofia #0" = -1
+	"Stepan #1" = 10
+	"Sviatopolk #2" = 10
+	"Sviatoslav #1" = 10
+	"Vladimir #1" = 10
+	"Yaropolk #1" = 10
+	"Yaroslav #2" = 10
+	"Yefrosinia #0" = -1
+	"Yngvar #1" = 10
+	"Yuriy #1" = 10
+}
+leader_names = {
+	"Antonovych"
+	"Avramenko"
+	"Babko"
+	"Bogolyubov"
+	"Bunyakovskii"
+	"Chebotaryov"
+	"Cholesky"
+	"Chuperchuk"
+	"Davydova"
+	"Dmytrenko"
+	"Doroshenko"
+	"Drahomanov"
+	"Filitov"
+	"Fomenko"
+	"Hlushkov"
+	"Hnedenko"
+	"Horbachov"
+	"Kondratyuk"
+	"Korolyuk"
+	"Kravchuk"
+	"Krivokhyzha"
+	"Lysenko"
+	"Maksymovych"
+	"Mytropolsky"
+	"Ohloblyn"
+	"Oleinik"
+	"Ostrogradsky"
+	"Petryshyn"
+	"Pogorelov"
+	"Poretsky"
+	"Potapow"
+	"Pryma"
+	"Samoilenko"
+	"Shafarevich"
+	"Sharkovsky"
+	"Shatunovsky"
+	"Shchukarev"
+	"Shekera"
+	"Shtokalo"
+	"Skorokhod"
+	"Sleszynski"
+	"Stojko"
+	"Sydorenko"
+	"Trfimenko"
+	"Tyutyunnikov"
+	"Urysohn"
+	"Vantukh"
+	"Vashchenko"
+	"Vasylenko"
+	"Verkhovynets"
+	"Voronoy"
+	"Yavornytsky"
+}
+ship_names = {
+	"Alchevsk"
+	"Balta"
+	"Bug"
+	"Ghernigiv"
+	"Hmelnieckiy"
+	"Izyaslav"
+	"Kahovka"
+	"Kherson"
+	"Khersones"
+	"Kiev"
+	"Kolomiya"
+	"Korets"
+	"Kovel"
+	"Kremenchuk"
+	"Kremenets"
+	"Kriviy Rig"
+	"Lutsk"
+	"Mariupol"
+	"Melitopol"
+	"Noviy"
+	"Pryluky"
+	"Shostka"
+	"Slavutych"
+	"Sudak"
+	"Svitlovods'k"
+	"Tovaristsch"
+	"Tsyurupynsk"
+	"Uman"
+	"Vinnitsya"
+}

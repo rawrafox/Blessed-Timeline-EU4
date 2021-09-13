@@ -1,0 +1,119 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 20 188 118 }
+revolutionary_colors = { 5 9 10 }
+historical_idea_groups = {
+	defensive_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+	spy_ideas
+	quantity_ideas
+	trade_ideas
+	diplomatic_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Adam #0" = 0
+	"Aldebert #0" = 0
+	"Amalrich #0" = 0
+	"Anna #1" = -1
+	"Archambaut #0" = 0
+	"Berta #1" = -1
+	"Biltrude #1" = -1
+	"Eberhard #1" = 10
+	"Emmerich #1" = 10
+	"Erich #1" = 10
+	"Faidida #0" = -1
+	"Franz #0" = 0
+	"Friedrica #0" = -1
+	"Gebhard #1" = 10
+	"Giselbert #0" = 0
+	"Helga #0" = -1
+	"Hermann #0" = 0
+	"Hugbert #1" = 10
+	"Klementia #0" = 0
+	"Lampert #1" = 10
+	"Melisènda #0" = -1
+	"Odon #0" = 0
+	"Onna #0" = -1
+	"Otakar #1" = 10
+	"Philipp #1" = 10
+	"Richenza #0" = -1
+	"Siegfried #2" = 10
+	"Siegmund #2" = 10
+}
+leader_names = {
+	"Adler"
+	"Alers"
+	"Bake"
+	"Beckröge"
+	"Bergius"
+	"Berninghausen"
+	"Boelken"
+	"Bollheim"
+	"Brill"
+	"Delius"
+	"Drewers"
+	"Engels"
+	"Ficke"
+	"Foukhard"
+	"Geffken"
+	"Gildemeister"
+	"Grovermann"
+	"Happach"
+	"Heimbruch"
+	"Hinke"
+	"Kindt"
+	"Krefting"
+	"Köhne"
+	"Laporte"
+	"Löning"
+	"Meyer"
+	"Oelrichs"
+	"Ordemann"
+	"Reiners"
+	"Rohde"
+	"Sanders"
+	"Schulken"
+	"Steinwachs"
+	"Stucken"
+	"Truernitt"
+	"von Bobert"
+	"von Cappeln"
+	"von Holten"
+	"von Horn"
+	"von Meinertzhagen"
+}
+ship_names = {
+	"Anticipation Of A New Lover's Arrival"
+	"Dressed Up To Party"
+	"Furious Purpose"
+	"Geelbeen"
+	"Honorius"
+	"Jever"
+	"Johann Dove"
+	"Roland"
+	"Tagenbare"
+	"The Confessor"
+	"Weserwelle"
+	"Willehad"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+}

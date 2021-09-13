@@ -1,0 +1,104 @@
+ck2_converter_generated = yes
+graphical_culture = easterngfx
+color = { 42 107 17 }
+revolutionary_colors = { 15 2 10 }
+historical_idea_groups = {
+	defensive_ideas
+	maritime_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	humanist_ideas
+	quantity_ideas
+}
+historical_units = {
+	eastern_carabinier
+	eastern_knights
+	eastern_medieval_infantry
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	muscovite_caracolle
+	muscovite_cossack
+	muscovite_musketeer
+	muscovite_soldaty
+	russian_cuirassier
+	russian_green_coat
+	russian_lancer
+	russian_mass
+	russian_petrine
+	slavic_stradioti
+}
+monarch_names = {
+	"Agathe #0" = -1
+	"Aikaterine #0" = -1
+	"Anna #0" = -1
+	"Balsag #1" = 10
+	"Bazuk #1" = 10
+	"Ber #1" = 10
+	"Buriberdi #1" = 10
+	"Castimir #0" = 0
+	"Cathèrine #0" = -1
+	"Chiora #1" = -1
+	"Dedika #0" = -1
+	"Demetre #1" = 10
+	"Durgulel #1" = 10
+	"Erekle #0" = -1
+	"Eusebia #0" = -1
+	"Gabrieli #3" = 10
+	"Guaram #1" = 10
+	"Ioane #0" = -1
+	"Itaz #1" = 10
+	"Kekela #0" = -1
+	"Krešimir #0" = 0
+	"Kvarkvare #1" = 10
+	"Lamzira #0" = -1
+	"Levan #1" = 10
+	"Mikail #0" = 0
+	"Mukhran #1" = 10
+	"Mzekhar #0" = 0
+	"Okhropir #1" = 10
+	"Padla #0" = -1
+	"Pamin #0" = 0
+	"Ridwan #0" = 0
+	"Shanshe #0" = 0
+	"Stepanoz #0" = 0
+	"Urdur #1" = 10
+	"Yahya #0" = 0
+	"Yasynya #1" = 10
+	"Zurab #0" = 0
+}
+leader_names = {
+	"Abzakh"
+	"Adamiy"
+	"Beslenei"
+	"Cöbein"
+	"Guaye"
+	"Hatuqwai"
+	"Khegaik"
+	"Khetuk"
+	"Mamkhegh"
+	"Mokhosh"
+	"Natukhai"
+	"Okhlov"
+	"Shapsug"
+	"Tazryt"
+	"Temirgoy"
+	"Ubykh"
+	"Zhaney"
+}
+ship_names = {
+	"Adyghe"
+	"Anapa"
+	"Beslenei"
+	"Cöbein"
+	"Kabardia"
+	"Mamkhegh"
+	"Nalchik"
+	"Natukhay"
+	"Ossetia"
+	"Petrezok"
+	"Tuapse"
+	"Zichia"
+}

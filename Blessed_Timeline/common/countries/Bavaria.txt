@@ -1,0 +1,144 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 17 116 193 }
+revolutionary_colors = { 0 14 0 }
+historical_idea_groups = {
+	administrative_ideas
+	defensive_ideas
+	diplomatic_ideas
+	offensive_ideas
+	economic_ideas
+	trade_ideas
+	innovativeness_ideas
+	quantity_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	halberd_infantry
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Adalbert #0" = -1
+	"Alain #0" = 0
+	"Alexios #1" = 10
+	"Arnulf #1" = 10
+	"Beneš #1" = 10
+	"Benito #0" = 0
+	"Berthold #1" = 10
+	"Chval #1" = 10
+	"Eberhard #1" = 10
+	"Eticho #0" = -1
+	"Eufemia #0" = -1
+	"Franz #1" = 10
+	"Garibald #1" = 10
+	"Gebhard #1" = 10
+	"Gisela #1" = -1
+	"Heinrich #14" = 10
+	"Jaroslav #1" = 10
+	"Karlmann #1" = 10
+	"Kojata #1" = 10
+	"Kuno #1" = 10
+	"Ladika #0" = -1
+	"Letoslav #1" = 10
+	"Liutbert #1" = 10
+	"Lothar #1" = 10
+	"Luitpold #1" = 10
+	"Margarita #0" = -1
+	"Melissa #0" = -1
+	"Milman #0" = 0
+	"Neuša #1" = 10
+	"Otakar #1" = 10
+	"Otto #2" = 10
+	"Pelhrim #1" = 10
+	"Pero #0" = 0
+	"Rajmund #1" = 10
+	"Strachkvas #1" = 10
+	"Vladislav #1" = 10
+	"Vojtech #1" = 10
+	"Vok #1" = 10
+	"Vratislav #1" = 10
+	"Vítek #1" = 10
+	"Zbynek #1" = 10
+	"Zdík #1" = 10
+	"Áeducán #0" = 0
+}
+leader_names = {
+	"Asch"
+	"Chlingensperg"
+	"Dulac"
+	"Gumpenberg"
+	"Hafenbrädl"
+	"Hannet"
+	"Hugenpoet"
+	"Lechner"
+	"Livizzani"
+	"Maximillian"
+	"Morawitzky"
+	"Moshamm"
+	"Pfretschner"
+	"Rickauer"
+	"Riedesel"
+	"Satzenhofen"
+	"Scherer"
+	"Treuberg"
+	"Vieregg"
+	"Wilsenhütten"
+	"von Armansperg"
+	"von Dingolfing"
+	"von Freising"
+	"von Garching"
+	"von Pappenheim"
+	"von Passau"
+	"von Rosenheim"
+	"von Seckendorf"
+	"von Starnberg"
+	"von Tegernsee"
+	"von Zentner"
+}
+ship_names = {
+	"Andechs"
+	"Augsburg"
+	"Burgau"
+	"Diessen"
+	"Freising"
+	"Friedberg"
+	"Graf von Andechs"
+	"Graf von Bogen"
+	"Graf von Diepolding"
+	"Graf von Sulzbach"
+	"Ingolstadt"
+	"Kaiser Ludwig IV"
+	"Kempten"
+	"König Arnulf"
+	"König Friedrich I"
+	"König Konrad III"
+	"Landshut"
+	"Lindau"
+	"Memmingen"
+	"Mindel"
+	"Oettingen"
+	"Passau"
+	"Pfalzgraf Otto"
+	"Rosenheim"
+	"Schwangau"
+	"St. Kilian"
+	"Straubing"
+	"Tassilo III"
+	"Tegernsee"
+	"Wittelsbach"
+	"Wolfstein"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+}

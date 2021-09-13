@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = sub_saharan
+religion = ibadi
+primary_culture = yorumba
+capital = 1144
+add_accepted_culture = yorumba
+1444.11.11= {
+	monarch = {
+		name = "Amenaghawon"
+		dynasty = "Oyoko"
+		adm = 5
+		dip = 2
+		mil = 5
+		birth_date = 1407.6.3
+		religion = ibadi
+		culture = yorumba
+	}
+	add_ruler_personality = martial_educator_personality
+	add_ruler_personality = tactical_genius_personality
+	queen = {
+		name = "Maanu"
+		dynasty = "Oyoko"
+		adm = 4
+		dip = 3
+		mil = 4
+		country_of_origin = OYO
+		birth_date = 1403.5.10
+		death_date = 1463.5.10
+		female = yes
+		religion = ibadi
+		culture = yorumba
+	}
+	add_queen_personality = inspiring_leader_personality
+	add_queen_personality = tactical_genius_personality
+	heir = {
+		name = "Amenaghawon"
+		monarch_name = "Amenaghawon II"
+		dynasty = "Oyoko"
+		adm = 6
+		dip = 4
+		mil = 5
+		birth_date = 1425.10.1
+		death_date = 1490.10.1
+		claim = 89
+		religion = ibadi
+		culture = yorumba
+	}
+	add_heir_personality = obsessive_perfectionist_personality
+	add_heir_personality = tactical_genius_personality
+}
+1444.11.11= {
+	add_prestige = 85
+	add_treasury = 0
+}

@@ -1,0 +1,87 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 91 83 203 }
+revolutionary_colors = { 6 13 6 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	religious_ideas
+	economic_ideas
+	diplomatic_ideas
+	spy_ideas
+	offensive_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Ademar #1" = 10
+	"Amadeus #0" = -1
+	"Andreas #1" = 10
+	"Archembald #1" = 10
+	"Berengar #1" = 10
+	"Cothilda #0" = -1
+	"Eginolf #1" = 10
+	"Gebhard #1" = 10
+	"Gregor #1" = 10
+	"Hartmann #1" = 10
+	"Hedwig #1" = -1
+	"Heimerich #1" = 10
+	"Heimrich #1" = 10
+	"Magnus #0" = 0
+	"Onfroy #1" = 10
+	"Othelindis #0" = -1
+	"Rajmund #1" = 10
+	"Remón #0" = 0
+	"Siegfried #1" = 10
+	"Sieghard #1" = 10
+	"Simon #0" = 0
+	"Vítek #1" = 10
+	"Waldemar #0" = 0
+	"Werner #1" = 10
+	"Wilhelmina #0" = 0
+	"Wolfgang #1" = 10
+	"Étienne #1" = 10
+}
+leader_names = {
+	"Hergenhahn"
+	"von Bieberstein"
+	"von Bock und Hemsdorf"
+	"von Dungern"
+	"von Gagern"
+	"von Idstein"
+	"von Usingen"
+	"von Walderdorff"
+	"von Weilburg"
+	"von Winzingerode"
+	"zu Sayn-Wittgeinstein"
+}
+ship_names = {
+	"Hanau"
+	"Idstein"
+	"Marburg"
+	"Ottweiler"
+	"Sonnenberg"
+	"Stirnberg"
+	"Usingen"
+	"Weilburg"
+	"Wetzlar"
+	"Wiesbaden"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+}

@@ -1,0 +1,13 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = eastern
+religion = orthodox
+primary_culture = circassian
+capital = 421
+add_accepted_culture = armenian
+add_accepted_culture = azerbaijani
+1444.11.11= {
+	add_prestige = 100
+	add_treasury = 79
+}

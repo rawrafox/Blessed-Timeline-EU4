@@ -1,0 +1,25 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 202 52 82 }
+monarch_names = {
+	"Deye #1" = -1
+	"Gamabrou #0" = 0
+	"Gamambu #1" = 10
+	"Hamaria #1" = 10
+	"Karima #0" = -1
+	"Kona #0" = -1
+	"Konowa #0" = 0
+	"Kukuray #0" = 0
+	"Maghan #1" = 10
+	"Mahama #0" = 0
+	"Nungu #1" = 10
+	"Nyalgeh #1" = 10
+	"Orobosa #1" = 10
+	"Ouati #1" = 10
+	"Pangangri #1" = 10
+	"Salimata #1" = -1
+	"Sero #0" = 0
+	"Shirya #1" = 10
+	"Sigiri #1" = 10
+	"Wedraogo #1" = 10
+}

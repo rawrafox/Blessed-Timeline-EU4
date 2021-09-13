@@ -1,0 +1,151 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 187 79 86 }
+revolutionary_colors = { 6 9 6 }
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	defensive_ideas
+	economic_ideas
+	quality_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+}
+historical_units = {
+	bhonsle_cavalry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_rifle
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	rajput_musketeer
+	reformed_mughal_mansabdar
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Ajitapida #1" = 10
+	"Amar #0" = -1
+	"Amar Dasi #0" = 0
+	"Amro #0" = -1
+	"Anangapida #1" = 10
+	"Anokhi #0" = -1
+	"Anup #0" = -1
+	"Aydogdu #1" = 10
+	"Ayten #0" = -1
+	"Bahadir #1" = 10
+	"Basawa #0" = 0
+	"Belkis #0" = -1
+	"Bersîn #0" = -1
+	"Bozan #0" = -1
+	"Charat #0" = -1
+	"Cippatajayapida #1" = 10
+	"Damodar #1" = 10
+	"Dani #0" = -1
+	"Gana #0" = 0
+	"Golnaz #0" = -1
+	"Gujri #0" = -1
+	"Gunduz #0" = -1
+	"Har Krishan #0" = 0
+	"Har Rai #0" = -1
+	"Hargobind #0" = 0
+	"Hari #0" = 0
+	"Ilyas #1" = 10
+	"Jayapida #1" = 10
+	"Kara #1" = 10
+	"Kaytun #1" = 10
+	"Kharak #0" = 0
+	"Khushal #2" = 10
+	"Kishan #0" = -1
+	"Kuvalayapida #1" = 10
+	"Lachmi #0" = -1
+	"Lalitadiyta-Muktapida #1" = 10
+	"Lalitapida #1" = 10
+	"Laxman #0" = 0
+	"Mesud #1" = 10
+	"Mohan #0" = 0
+	"Mohri #3" = 10
+	"Muzhdah #0" = -1
+	"Nanaki #0" = -1
+	"Narayan #0" = 0
+	"Nihal #0" = -1
+	"Prithvyapida #1" = 10
+	"Ram Rai #0" = 0
+	"Sahib #0" = -1
+	"Samgramapida #1" = 10
+	"Songul #0" = -1
+	"Srichand #0" = 0
+	"Sulakhni #0" = -1
+	"Tura #0" = -1
+	"Utpalapida #1" = 10
+	"Vajraditya #1" = 10
+	"Zorawar #0" = 0
+}
+leader_names = {
+	"Ahluwalia"
+	"Bahadur"
+	"Bara"
+	"Bhangalia"
+	"Bhatia"
+	"Bhatta"
+	"Chandral"
+	"Chattar"
+	"Chauhan"
+	"Das"
+	"Dev"
+	"Gahunia"
+	"Gami"
+	"Jamwal"
+	"Jivan"
+	"Kamboh"
+	"Katoch"
+	"Khan"
+	"Khatri"
+	"Khokhar"
+	"Kisthwaria"
+	"Lal"
+	"Makhdum"
+	"Mian"
+	"Minha"
+	"Naga"
+	"Naru"
+	"Pahore"
+	"Pakhral"
+	"Parmanand"
+	"Pundir"
+	"Rai"
+	"Ramgarhia"
+	"Rathore"
+	"Samma"
+	"Saran"
+	"Shergill"
+	"Singh"
+	"Sodhi"
+	"Sohal"
+	"Soomrah"
+	"Suleria"
+}
+ship_names = {
+	"Beas"
+	"Chenab"
+	"Devi"
+	"Gayatri"
+	"Guru"
+	"Indus"
+	"Jalsena"
+	"Jhelum"
+	"Lakshmi"
+	"Nausena"
+	"Nav ka Yudh"
+	"Parvati"
+	"Radha"
+	"Ratri"
+	"Ravi"
+	"Sagar"
+	"Sarasvati"
+	"Sita"
+	"Sutlej"
+}

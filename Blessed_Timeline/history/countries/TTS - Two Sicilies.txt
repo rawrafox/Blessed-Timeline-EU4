@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 2
+technology_group = western
+religion = catholic
+primary_culture = sicilian
+capital = 125
+add_accepted_culture = sicilian
+1444.11.11= {
+	monarch = {
+		name = "Franciscu V"
+		dynasty = "Hauteville-Iglesias"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 1377.12.11
+		religion = catholic
+		culture = sicilian
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Pulcheria"
+		dynasty = "Lapardas"
+		adm = 3
+		dip = 3
+		mil = 3
+		country_of_origin = TTS
+		birth_date = 1378.2.24
+		death_date = 1438.2.24
+		female = yes
+		religion = orthodox
+		culture = greek
+	}
+	add_queen_personality = drunkard_personality
+	add_queen_personality = secretive_personality
+	heir = {
+		name = "Franciscu"
+		monarch_name = "Franciscu VI"
+		dynasty = "Hauteville-Iglesias"
+		adm = 5
+		dip = 6
+		mil = 5
+		birth_date = 1399.8.5
+		death_date = 1464.8.5
+		claim = 89
+		religion = orthodox
+		culture = sicilian
+	}
+	add_heir_personality = charismatic_negotiator_personality
+	add_heir_personality = drunkard_personality
+}
+1444.11.11= {
+	add_prestige = 105
+	add_treasury = 93
+}

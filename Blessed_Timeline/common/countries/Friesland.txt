@@ -1,0 +1,139 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 165 89 27 }
+revolutionary_colors = { 15 16 0 }
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	exploration_ideas
+	economic_ideas
+	religious_ideas
+	innovativeness_ideas
+	offensive_ideas
+}
+historical_units = {
+	anglofrench_line
+	dutch_maurician
+	french_bluecoat
+	french_caracolle
+	french_cuirassier
+	french_dragoon
+	french_impulse
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Adelaida #0" = -1
+	"Adelinde #1" = -1
+	"Czenzi #0" = -1
+	"Endre #0" = 0
+	"Gerard #0" = 0
+	"Gerolt #0" = 0
+	"Gottfried #1" = 10
+	"Gwijde #1" = 10
+	"Hildeburg #0" = -1
+	"Ide #0" = -1
+	"Ijsbrecht #0" = 0
+	"Isabelle #0" = -1
+	"Jacob #0" = 0
+	"Jan #0" = 0
+	"Kristóf #0" = 0
+	"Luitgard #0" = -1
+	"Malgorzata #0" = -1
+	"Norbert #1" = 10
+	"Nuño #0" = 0
+	"Oszkár #0" = 0
+	"Peter #5" = 10
+	"Philipp #1" = 10
+	"Reynilde #0" = -1
+	"Robert #0" = 0
+	"Sigerda #0" = -1
+	"Tacsony #0" = 0
+	"Vazul #0" = 0
+	"Willem #0" = 0
+	"Wolfram #1" = 10
+	"Ádárn #0" = 0
+}
+leader_names = {
+	"Banda"
+	"Barents"
+	"Bergsma"
+	"Bonga"
+	"De Vries"
+	"Donia"
+	"Dykstra"
+	"Eelsma"
+	"Elsinga"
+	"Friso"
+	"Galama"
+	"Gauma"
+	"Halbertsma"
+	"Japisk"
+	"Jongstra"
+	"Jousma"
+	"Kamminga"
+	"Kamstra"
+	"Kiestra"
+	"Kooistra"
+	"Martena"
+	"Riemersma"
+	"Ripperda"
+	"Roorda"
+	"Saakma"
+	"Sems"
+	"Stellingwerf"
+	"Stiensma"
+	"Stijl"
+	"Sytstra"
+	"Tjerkstra"
+	"Van Schellinkhout"
+	"Van Uylenburgh"
+	"Wynja"
+}
+ship_names = {
+	"Bernlef"
+	"Boalsert"
+	"Damwâld"
+	"De Swarte Heap"
+	"Dokkum"
+	"Drylts"
+	"Frede"
+	"Frijheid"
+	"Frisia Magna"
+	"Frjentsjer"
+	"Fryslân"
+	"Fryslân Boppe"
+	"Grut Fryslân"
+	"Grutte Pier"
+	"Harns"
+	"Heitelân"
+	"Hylpen"
+	"It Beaken"
+	"It Frouke"
+	"Kening Poppo"
+	"Kening Redbad"
+	"Kriich"
+	"Lauwers"
+	"Leaver dea as slaaf"
+	"Ljouwert"
+	"Pier Gerlofs Donia"
+	"Sleat"
+	"Snits"
+	"Starum"
+	"Sudersee"
+	"Thiadsvind"
+	"Wapen fan Fryslân"
+	"Warkum"
+}
+army_names = {
+	"Leger van $PROVINCE$"
+}
+fleet_names = {
+	"Vloot van $PROVINCE$"
+}

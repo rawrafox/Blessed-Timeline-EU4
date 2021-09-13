@@ -1,0 +1,115 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 119 151 122 }
+revolutionary_colors = { 6 8 2 }
+historical_idea_groups = {
+	trade_ideas
+	aristocracy_ideas
+	defensive_ideas
+	offensive_ideas
+	religious_ideas
+	economic_ideas
+	spy_ideas
+	quality_ideas
+}
+historical_units = {
+	bhonsle_cavalry
+	indian_arquebusier
+	indian_footsoldier
+	indian_rifle
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	reformed_mughal_mansabdar
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Ambra-Prasad #0" = 0
+	"Anantadevi #0" = -1
+	"Bahubal #1" = 10
+	"Baland #1" = 10
+	"Bhatarka #1" = 10
+	"Bhati #1" = 10
+	"Bijairai #2" = 10
+	"Dambarisimha #1" = 10
+	"Deoraj #1" = 10
+	"Dhruvadevi #1" = -1
+	"Dusaj #1" = 10
+	"Gaj #1" = 10
+	"Hirapal #0" = -1
+	"Jaisimha #1" = 10
+	"Jojaladeva #1" = 10
+	"Kamala #0" = 0
+	"Kehar #1" = 10
+	"Kumaradevi #0" = -1
+	"Lanja #1" = 10
+	"Mahipala #1" = 10
+	"Majam-Rao #1" = 10
+	"Manaladevi #0" = -1
+	"Mangal-Rao #1" = 10
+	"Mayanalladevi #0" = -1
+	"Mund #1" = 10
+	"Parviz #1" = 10
+	"Popo #0" = 0
+	"Prabhavati #1" = -1
+	"Puppadevi #0" = -1
+	"Rajapala #0" = 0
+	"Rajh #1" = 10
+	"Rupadevi #0" = -1
+	"Sahanapala #0" = 0
+	"Salivahan #1" = 10
+	"Samant-Singh #3" = 10
+	"Samyukta #1" = -1
+	"Sonpala #1" = 10
+	"Subahu #1" = 10
+	"Tano #1" = 10
+	"Vikramaditya #1" = 10
+}
+leader_names = {
+	"Beniwal"
+	"Bhadu"
+	"Bhati"
+	"Bhukar"
+	"Chahar"
+	"Jadeja"
+	"Jadon"
+	"Jakhar"
+	"Johiya"
+	"Naga"
+	"Nehra"
+	"Punia"
+	"Saharan"
+	"Sahu"
+	"Sangwan"
+	"Saran"
+	"Sihag"
+	"Singh"
+	"Tomara"
+}
+ship_names = {
+	"Chambal"
+	"Devi"
+	"Durga"
+	"Gayatri"
+	"Ghaggar"
+	"Godwar"
+	"Jalsena"
+	"Kala Jahazi"
+	"Lakshmi"
+	"Lal Jahazi"
+	"Luni"
+	"Marwar ka Nav"
+	"Merwar ka Nav"
+	"Nausena"
+	"Nav ka Yudh"
+	"Nila Jahazi"
+	"Parvati"
+	"Radha"
+	"Rani"
+	"Ratri"
+	"Sagar"
+	"Sarasvati"
+	"Sekhawati"
+	"Sita"
+}

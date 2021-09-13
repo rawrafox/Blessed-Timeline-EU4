@@ -1,0 +1,119 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 211 230 211 }
+revolutionary_colors = { 13 0 13 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	spy_ideas
+	trade_ideas
+	innovativeness_ideas
+	economic_ideas
+	quantity_ideas
+}
+historical_units = {
+	anglofrench_line
+	french_caracolle
+	french_dragoon
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	prussian_frederickian
+	prussian_uhlan
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Antoine #1" = 10
+	"Basillike #0" = -1
+	"Beneš #1" = 10
+	"Bourgogne #0" = 0
+	"Cathèrine #1" = -1
+	"Euphemios #0" = 0
+	"Havel #0" = 0
+	"Hynek #0" = 0
+	"Jaroslav #2" = 10
+	"Judith #1" = -1
+	"Konstantinos #0" = 0
+	"Lala #0" = -1
+	"Léon #0" = 0
+	"Malsnectan #1" = 10
+	"Marthe #0" = -1
+	"Matthaios #1" = 10
+	"Mélusine #0" = -1
+	"Nicolas #0" = 0
+	"Orson #0" = -1
+	"Ota #1" = 10
+	"Pentti #0" = 0
+	"Rajmund #1" = 10
+	"Sobeslav #1" = 10
+	"Stepan #0" = 0
+	"Vratislav #1" = 10
+	"Vítek #1" = 10
+	"Caslav #1" = 10
+}
+leader_names = {
+	"Arenberg"
+	"Bragadin"
+	"Crispo"
+	"Doria"
+	"Douglas"
+	"Duncan"
+	"Fadrigue"
+	"Hagedorn"
+	"Le Tellier"
+	"Lusignans"
+	"Maxwell"
+	"Melissinos"
+	"Minucci"
+	"Paleologi Montferrato"
+	"Pallavicini"
+	"Paradisi"
+	"Petrucci"
+	"Pico"
+	"Pignatelli"
+	"Plethon"
+	"Rendis"
+	"Saraceno"
+	"Sauerzapff"
+	"Schrüder"
+	"Selkirk"
+	"Stichsenstein"
+	"Sulerzycki"
+	"Tocco"
+	"dalla Rosa"
+	"de La Barthe"
+	"de La Ferrandie"
+	"de La Galissonière"
+	"de La Mothe"
+	"de La Motte d'Airan"
+	"de La Porte"
+	"de Lhéry"
+	"de Luynes"
+	"della Rovere"
+	"di Paesana"
+}
+ship_names = {
+	"Absolution"
+	"Avenger"
+	"Baldwin's Gate"
+	"Crusader"
+	"God Will Know His Own"
+	"Guardian"
+	"Hammer of God"
+	"Paladin"
+	"Pilgrim"
+	"Purifier"
+	"The Cleansing"
+	"The Faithful"
+	"The Grail"
+	"The Holy Cross"
+	"The Rapture"
+	"The Scourge"
+	"True Believer"
+	"Vindicator"
+}

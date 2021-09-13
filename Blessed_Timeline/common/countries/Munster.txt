@@ -1,0 +1,83 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 205 103 80 }
+revolutionary_colors = { 8 5 0 }
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	maritime_ideas
+	offensive_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	dutch_maurician
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Ansgar #0" = 0
+	"Beatrix #0" = -1
+	"Egilmar #1" = 10
+	"Egmund #1" = 10
+	"Engeltraud #0" = -1
+	"Friedrich #1" = 10
+	"Gerhard #0" = 0
+	"Heideke #3" = 10
+	"Kuno #1" = 10
+	"Lembert #0" = -1
+	"Luitbert #1" = 10
+	"Martin #0" = 0
+	"Odo #1" = 10
+	"Olga #1" = -1
+	"Rudigar #1" = 10
+	"Udalrich #0" = 0
+	"Unwan #1" = 10
+	"Wienke #0" = 0
+	"Zirònimu #1" = 10
+	"Zsolt #1" = 10
+}
+leader_names = {
+	"Boelken"
+	"Dönhoff"
+	"Engels"
+	"Enste"
+	"Helff"
+	"Kempf"
+	"Krefting"
+	"Köhne"
+	"Meyer"
+	"Wachsmuth"
+	"de Dornach"
+	"de Kircheim"
+	"de Turckheim"
+	"von Cossel"
+}
+ship_names = {
+	"Graf von Hoya"
+	"Greven"
+	"Hiltrup"
+	"Liebfrauenkirche"
+	"Liudger"
+	"Mauritz"
+	"Roxel"
+	"Senden"
+	"St. Lamberti"
+	"Wolbeck"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+}

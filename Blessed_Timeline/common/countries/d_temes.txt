@@ -1,0 +1,24 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 133 93 38 }
+monarch_names = {
+	"Ambrus #0" = 0
+	"Boldizsár #1" = 10
+	"Bonuslo #1" = 10
+	"Csaba #0" = 0
+	"Dénes #2" = 10
+	"Gábriel #1" = 10
+	"Hajnal #0" = -1
+	"Lampert #0" = 0
+	"Lázár #1" = 10
+	"Odola #0" = -1
+	"Oszkár #0" = 0
+	"Piroska #1" = -1
+	"Pál #2" = 10
+	"Saul #0" = -1
+	"Szilveszter #0" = -1
+	"Yabghu #1" = 10
+	"Zalan #1" = 10
+	"Zoltána #0" = 0
+	"Ágoston #1" = 10
+}

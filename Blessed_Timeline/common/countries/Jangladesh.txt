@@ -1,0 +1,100 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 59 51 29 }
+revolutionary_colors = { 6 5 6 }
+historical_idea_groups = {
+	quantity_ideas
+	aristocracy_ideas
+	defensive_ideas
+	offensive_ideas
+	diplomatic_ideas
+	religious_ideas
+	trade_ideas
+	economic_ideas
+}
+historical_units = {
+	bhonsle_cavalry
+	indian_arquebusier
+	indian_footsoldier
+	indian_rifle
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	reformed_mughal_mansabdar
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Akal #0" = -1
+	"Bachraj #1" = 10
+	"Chandraraja #2" = 10
+	"Devapala #0" = 0
+	"Dhruvadevi #0" = -1
+	"Durlabharaja #1" = 10
+	"Gopendraraja #1" = 10
+	"Govinda #1" = 10
+	"Hariyadevi #0" = -1
+	"Irge #0" = -1
+	"Jayaraja #1" = 10
+	"Kanwar #0" = -1
+	"Maharani #0" = -1
+	"Mahendrapala #0" = -1
+	"Naradeva #1" = 10
+	"Pritampal #0" = -1
+	"Puppadevi #0" = -1
+	"Purnpala #2" = 10
+	"Rudrani #0" = -1
+	"Samanta #1" = 10
+	"Srichandra #1" = 10
+	"Sulakshanpal #3" = 10
+	"Tejapala #0" = 0
+	"Vasudeva #1" = 10
+	"Vigrharaja #1" = 10
+	"Özlem #0" = -1
+}
+leader_names = {
+	"Beniwal"
+	"Bhadu"
+	"Bhati"
+	"Bhukar"
+	"Chahar"
+	"Godara"
+	"Jakhar"
+	"Johiya"
+	"Kaswan"
+	"Nehra"
+	"Punia"
+	"Rathore"
+	"Saharan"
+	"Sahu"
+	"Sangwan"
+	"Sihag"
+	"Singh"
+	"Tomara"
+}
+ship_names = {
+	"Chambal"
+	"Devi"
+	"Durga"
+	"Gayatri"
+	"Ghaggar"
+	"Godwar"
+	"Jalsena"
+	"Kala Jahazi"
+	"Lakshmi"
+	"Lal Jahazi"
+	"Luni"
+	"Marwar ka Nav"
+	"Merwar ka Nav"
+	"Nausena"
+	"Nav ka Yudh"
+	"Nila Jahazi"
+	"Parvati"
+	"Radha"
+	"Rani"
+	"Ratri"
+	"Sagar"
+	"Sarasvati"
+	"Sekhawati"
+	"Sita"
+}

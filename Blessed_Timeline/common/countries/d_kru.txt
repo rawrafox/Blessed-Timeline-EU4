@@ -1,0 +1,22 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 209 188 65 }
+monarch_names = {
+	"Akoi #1" = 10
+	"Diakhaba #1" = 10
+	"Flomo #0" = -1
+	"Fortee #0" = -1
+	"Garnahweh #0" = -1
+	"Garteh #1" = 10
+	"Jlakon #1" = 10
+	"Kiffa #1" = 10
+	"Kobby #1" = 10
+	"Odeleia #0" = 0
+	"Rasmata #0" = -1
+	"Sakho #1" = 10
+	"Siakoh #0" = 0
+	"Tehpoe #0" = -1
+	"Welleh #0" = 0
+	"Yenseloh #0" = 0
+	"Zenku #2" = 10
+}

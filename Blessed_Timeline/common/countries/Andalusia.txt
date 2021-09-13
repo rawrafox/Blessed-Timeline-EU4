@@ -1,0 +1,132 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 240 230 155 }
+revolutionary_colors = { 1 0 10 }
+historical_idea_groups = {
+	defensive_ideas
+	innovativeness_ideas
+	maritime_ideas
+	exploration_ideas
+	trade_ideas
+	diplomatic_ideas
+	economic_ideas
+	quality_ideas
+}
+historical_units = {
+	ali_bey_reformed_infantry
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_dragoon
+	muslim_mass_infantry
+}
+monarch_names = {
+	"Abd-al-Rahman #5" = 10
+	"Abdallah #1" = 10
+	"Abdul-Aziz #0" = 0
+	"Abdul-Hazm #0" = 0
+	"Abdul-Razzaq #0" = 0
+	"Abu-Bakr #2" = 10
+	"Ahmad #0" = 0
+	"Aiza #0" = -1
+	"Ali #1" = 10
+	"Beddis #0" = 0
+	"Djeneba #0" = -1
+	"Dumìnicu #0" = 0
+	"Eufemie #0" = -1
+	"Fahra #0" = -1
+	"Gamila #0" = -1
+	"Garsiya #1" = 10
+	"Hakam #1" = 10
+	"Hilal #0" = 0
+	"Hisham #4" = 10
+	"Ibrahim #1" = 10
+	"Iken #0" = 0
+	"Isma'il #1" = 10
+	"Jyad #1" = 10
+	"Ma'n #0" = 0
+	"Malika #0" = -1
+	"Menendo #0" = -1
+	"Mubashir #1" = 10
+	"Muhammad #4" = 10
+	"Musa #0" = 0
+	"Muyahid #0" = 0
+	"Mær #0" = -1
+	"Naila #0" = -1
+	"Pero #0" = -1
+	"Raf #0" = 0
+	"Rahat #0" = -1
+	"Rashid #1" = 10
+	"Rasiq #0" = -1
+	"Sa'd #0" = 0
+	"Siddray #0" = 0
+	"Suleyman #2" = 10
+	"Tazirit #0" = -1
+	"Tiuduricu #0" = 0
+	"Tumasi #0" = 0
+	"Umar #1" = 10
+	"Utman #1" = 10
+	"Wannaqo #0" = 0
+	"Yahya #4" = 10
+	"Youma #0" = -1
+	"Zahida #0" = -1
+	"al-Hakam #2" = 10
+	"al-Mundir #1" = 10
+	"al-Qasim #2" = 10
+}
+leader_names = {
+	"Ibn Abbad"
+	"Ibn Abd Allah"
+	"Ibn Abd al-Rahman"
+	"Ibn Abi Hafs"
+	"Ibn Ali"
+	"Ibn Hakan"
+	"Ibn Hammud"
+	"Ibn Hisam"
+	"Ibn Husayn"
+	"Ibn Idris"
+	"Ibn Ishaq"
+	"Ibn Isma'il"
+	"Ibn Marwan"
+	"Ibn Muhammad"
+	"Ibn Nasr"
+	"Ibn Qasim"
+	"Ibn Sa'd"
+	"Ibn Sulayman"
+	"Ibn Umar"
+	"Ibn Ummay"
+	"Ibn Utman"
+	"Ibn Ya'far"
+	"Ibn Yahyà"
+	"Ibn Yusuf"
+	"Ibn al-Azafi"
+}
+ship_names = {
+	"Ismail I"
+	"Ismail II"
+	"Muhammed III"
+	"Muhammed IV"
+	"Muhammed IX"
+	"Muhammed V"
+	"Muhammed VI"
+	"Muhammed VII"
+	"Muhammed VIII"
+	"Muhammed X"
+	"Muhammed al-Faqih"
+	"Muhammed ibn Nasr"
+	"Nasr"
+	"Yusuf I"
+	"Yusuf II"
+	"Yusuf III"
+	"Yusuf IV"
+	"Yusuf V"
+}
+army_names = {
+	"Jaish Al $PROVINCE$"
+}
+fleet_names = {
+	"Alboran Sea Squadron"
+	"Balaeric Sea Squadron"
+	"Jabal Tariq Squadron"
+}

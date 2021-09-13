@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = rajput_kingdom
+government_rank = 1
+technology_group = indian
+religion = buddhism
+primary_culture = rajput
+capital = 4506
+fixed_capital = 4506
+add_accepted_culture = rajput
+1444.11.11= {
+	monarch = {
+		name = "Mahipala"
+		dynasty = "Sonpalid"
+		adm = 3
+		dip = 3
+		mil = 4
+		birth_date = 1413.11.11
+		religion = buddhism
+		culture = rajput
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = tolerant_personality
+	queen = {
+		name = "Anantadevi"
+		dynasty = "Rajanpurid"
+		adm = 4
+		dip = 4
+		mil = 3
+		country_of_origin = JSL
+		birth_date = 1422.2.14
+		death_date = 1482.2.14
+		female = yes
+		religion = buddhism
+		culture = rajput
+	}
+	add_queen_personality = intricate_web_weaver_personality
+	add_queen_personality = secretive_personality
+	heir = {
+		name = "Mahipala"
+		monarch_name = "Mahipala II"
+		dynasty = "Sonpalid"
+		adm = 0
+		dip = 0
+		mil = 1
+		birth_date = 1443.4.27
+		death_date = 1508.4.27
+		claim = 89
+		religion = buddhism
+		culture = rajput
+	}
+	add_heir_personality = free_thinker_personality
+	add_heir_personality = tactical_genius_personality
+}
+1444.11.11= {
+	add_prestige = 73
+	add_treasury = 66
+}

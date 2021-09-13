@@ -1,0 +1,167 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 117 127 174 }
+revolutionary_colors = { 0 5 10 }
+historical_idea_groups = {
+	maritime_ideas
+	aristocracy_ideas
+	trade_ideas
+	economic_ideas
+	religious_ideas
+	innovativeness_ideas
+	offensive_ideas
+	defensive_ideas
+}
+historical_units = {
+	anglofrench_line
+	british_hussar
+	british_redcoat
+	british_square
+	gaelic_free_shooter
+	gaelic_mercenary
+	irish_charge
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	western_longbow
+	western_medieval_infantry
+	western_medieval_knights
+}
+monarch_names = {
+	"Beorhtwaru #0" = -1
+	"Bragi #0" = 0
+	"Böðvar #0" = 0
+	"Copsige #0" = 0
+	"Cuthburg #0" = -1
+	"Cwenburg #0" = -1
+	"Drífa #0" = -1
+	"Ecgwyn #0" = -1
+	"Eilífr #0" = 0
+	"Einarr #0" = 0
+	"Eiríkr #0" = 0
+	"Emundr #0" = 0
+	"Eorcenberht #0" = 0
+	"Forflissa #0" = 0
+	"Gnúpa #0" = 0
+	"Guðfríðr #0" = 0
+	"Hafríðr #0" = -1
+	"Hörðaknútr #0" = 0
+	"Ingiríðr #0" = -1
+	"Ingjerðr #2" = -1
+	"Kolbeinn #0" = 0
+	"Kristina #0" = 0
+	"Kráka #1" = -1
+	"Marthe #0" = 0
+	"Málmfríðr #0" = -1
+	"Ragnhildr #1" = -1
+	"Skjaldvör #0" = -1
+	"Skúli #0" = 0
+	"Styrkár #0" = 0
+	"Suonjar #0" = -1
+	"Thurcytel #0" = 0
+	"Uhtræd #0" = 0
+	"Unnr #0" = 0
+	"Vagn #0" = 0
+	"Wulfstan #0" = 0
+	"Ælfmær #0" = 0
+	"Æthelsige #0" = 0
+	"Ólafr #0" = 0
+	"Úlfr #0" = 0
+	"Þórunn #0" = -1
+	"Þórðr #0" = 0
+}
+leader_names = {
+	"Bennett"
+	"Bevan"
+	"Bowen"
+	"Cadell"
+	"Cadwallader"
+	"Daniels"
+	"Davies"
+	"Davis"
+	"Edwards"
+	"Ellis"
+	"Evans"
+	"Gough"
+	"Griffiths"
+	"Gwyn"
+	"Harris"
+	"Hopkins"
+	"Howells"
+	"Hughes"
+	"Humphries"
+	"James"
+	"Jenkins"
+	"John"
+	"Jones"
+	"Lewis"
+	"Llewellyn"
+	"Lloyd"
+	"Madog"
+	"Matthews"
+	"Meredith"
+	"Merrick"
+	"Morgan"
+	"Morris"
+	"Mostyn"
+	"Owen"
+	"Parry"
+	"Phillips"
+	"Powell"
+	"Prees"
+	"Price"
+	"Pritchard"
+	"Protheroe"
+	"Pugh"
+	"Rees"
+	"Richards"
+	"Roberts"
+	"Rogers"
+	"Thomas"
+	"Vaughan"
+	"Watkins"
+	"Williams"
+}
+ship_names = {
+	"Bedwyr"
+	"Brycheiniog"
+	"Cadwaladr"
+	"Caerdydd"
+	"Caernarfon"
+	"Caradoc"
+	"Ceredigion"
+	"Conwy"
+	"Culhwch"
+	"Deheubarth"
+	"Dewi Sant"
+	"Dolbadarn"
+	"Dolwyddelan"
+	"Dyfed"
+	"Eryri"
+	"Glywysing"
+	"Gwalchmei"
+	"Gwenan Gorn"
+	"Gwydion"
+	"Gwyn"
+	"Gwynedd"
+	"Lleu"
+	"Llewellyn Fawr"
+	"Mabinogi"
+	"Math"
+	"Meirionydd"
+	"Morgannwg"
+	"Olwen"
+	"Owain Glyndwr"
+	"Penfro"
+	"Powys"
+	"Preiddeu Annwn"
+	"Pryderi"
+	"Pwyll"
+	"Rhiannon"
+	"Taff"
+	"Teifi"
+	"Teirnon"
+	"Tywi"
+	"Ynys Môn"
+}

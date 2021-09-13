@@ -1,0 +1,26 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 110 110 50 }
+monarch_names = {
+	"Abadir #0" = 0
+	"Abu-Bakr #0" = 0
+	"Adan #1" = 10
+	"Bannu #3" = 10
+	"Daisha #0" = -1
+	"Djire #0" = -1
+	"Dobira #0" = -1
+	"Fuluku #1" = 10
+	"Harire #1" = 10
+	"Hoodo #0" = -1
+	"Ishaq #1" = 10
+	"Kabayo #1" = 10
+	"Kanafa #1" = 10
+	"Kassa #1" = 10
+	"Kayna #0" = -1
+	"Kilia #0" = -1
+	"Kisha #0" = 0
+	"Lami #1" = 10
+	"Sakoura #1" = 10
+	"Takoi #2" = 10
+	"Toimu #0" = -1
+}

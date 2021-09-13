@@ -1,0 +1,22 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 236 214 104 }
+monarch_names = {
+	"Abbilardu #0" = -1
+	"Alžbeta #0" = -1
+	"Annirea #1" = 10
+	"Antoniu #0" = 0
+	"Arianna #0" = -1
+	"Cabbrieli #0" = 0
+	"Damiana #0" = -1
+	"Elia #0" = -1
+	"Elvira #0" = -1
+	"Franciscu #4" = 10
+	"Olimpiu #0" = 0
+	"Orlannu #1" = 10
+	"Pulcheria #0" = -1
+	"Raolf #0" = 0
+	"Sviatoslava #0" = -1
+	"Traianos #0" = 0
+	"Zaccaria #0" = 0
+}

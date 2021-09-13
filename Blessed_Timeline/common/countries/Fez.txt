@@ -1,0 +1,97 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 224 146 113 }
+revolutionary_colors = { 10 15 10 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	religious_ideas
+	maritime_ideas
+	offensive_ideas
+	spy_ideas
+	quality_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	ali_bey_reformed_infantry
+	mamluk_archer
+	mamluk_cavalry_charge
+	mamluk_duel
+	mamluk_musket_charge
+	muslim_dragoon
+	muslim_mass_infantry
+}
+monarch_names = {
+	"Abdul #0" = 0
+	"Abu-Bakr #1" = 10
+	"Ajissa #1" = 10
+	"Akli #0" = 0
+	"Ali #1" = 10
+	"Aliyah #0" = -1
+	"Amray #0" = 0
+	"Awinagh #0" = -1
+	"Aylal #0" = -1
+	"Badis #0" = 0
+	"Bintou #0" = -1
+	"Dua #0" = -1
+	"Dunas #1" = 10
+	"Fath #0" = 0
+	"Gaia #0" = 0
+	"H'emmu #1" = 10
+	"Hammama #1" = 10
+	"Hiba #0" = -1
+	"Iken #1" = 10
+	"Ishaq #1" = 10
+	"Kera #0" = -1
+	"Lunja #0" = -1
+	"Mamma #0" = -1
+	"Masgaba #1" = 10
+	"Mu'ansir #1" = 10
+	"Mubashir #0" = 0
+	"Nadia #0" = -1
+	"Nur #0" = -1
+	"Ponce #1" = 10
+	"Raf #0" = 0
+	"Rahat #0" = -1
+	"Raimundo #1" = 10
+	"Sa'd #0" = 0
+	"Siddiqa #0" = -1
+	"Stembanos #0" = -1
+	"Tamim #1" = 10
+	"al-Futuh #2" = 10
+	"al-Mu'izz #1" = 10
+}
+leader_names = {
+	"Alami"
+	"Aouita"
+	"Barek"
+	"Behar"
+	"Berui"
+	"Bidouane"
+	"Hadda"
+	"Hadji"
+	"Sediki"
+	"Sellami"
+}
+ship_names = {
+	"Adl"
+	"Ali"
+	"Azim"
+	"Ghafur"
+	"Hafiz"
+	"Hakim"
+	"Halim"
+	"Hasib"
+	"Jalil"
+	"Kabir"
+	"Karim"
+	"Khabir"
+	"Latif"
+	"Majid"
+	"Mujib"
+	"Muqit"
+	"Raqib"
+	"Shakur"
+	"Wadid"
+	"Wasi"
+}

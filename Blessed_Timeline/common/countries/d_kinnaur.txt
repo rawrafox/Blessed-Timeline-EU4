@@ -1,0 +1,21 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 197 235 178 }
+monarch_names = {
+	"Amar #2" = 10
+	"Anantadevi #0" = -1
+	"Apara Gangeya #0" = 0
+	"Bhaadar #0" = -1
+	"Brahmdevpal #0" = 0
+	"Budh #0" = 0
+	"Dungar-Singh #0" = -1
+	"Gewa #0" = -1
+	"Kakanvati #0" = -1
+	"Kanhadadeva #0" = 0
+	"Newbohar #0" = -1
+	"Okhsi #0" = 0
+	"Paramardideva #0" = 0
+	"Taye #0" = -1
+	"Tihunaka #0" = -1
+	"Tribhuvanapala #0" = 0
+}

@@ -1,0 +1,97 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 53 191 176 }
+historical_idea_groups = {
+	trade_ideas
+	quality_ideas
+	religious_ideas
+	maritime_ideas
+	economic_ideas
+	quantity_ideas
+	offensive_ideas
+	administrative_ideas
+}
+historical_units = {
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_dragoon
+	muslim_mass_infantry
+	persian_cavalry_charge
+	persian_footsoldier
+	persian_rifle
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+}
+monarch_names = {
+	"Abdul-Qadir #0" = -1
+	"Ahsoka #0" = -1
+	"Ali #1" = 10
+	"Artuk #2" = 10
+	"Asli #0" = -1
+	"Ayten #0" = -1
+	"Baytas #0" = 0
+	"Böru #0" = 0
+	"Deeqa #0" = -1
+	"Demir #0" = 0
+	"Gagik #0" = 0
+	"Gumus #0" = -1
+	"Kurboga #1" = 10
+	"Lale #0" = -1
+	"Mansure #0" = -1
+	"Mesud #0" = 0
+	"Muslihiddin #1" = 10
+	"Nishan #0" = -1
+	"Talib #1" = 10
+	"Timurtas #0" = 0
+}
+leader_names = {
+	"Balhaf"
+	"Bannu Zanna"
+	"Barafit"
+	"Harawiz"
+	"Kalshat"
+	"Kamsit"
+	"Riyam"
+	"Samudat"
+	"Thuwar"
+	"Zabanat"
+	"Ziyad"
+}
+ship_names = {
+	"Al-Akhdar"
+	"Al-Batinah"
+	"Al-Gharbi"
+	"Al-Hadd"
+	"Al-Hajar"
+	"Al-Huqf"
+	"Al-Jabal"
+	"Al-Khaburah"
+	"As-Sib"
+	"Ash-Sharqi"
+	"Dank"
+	"Fins"
+	"Ibrä"
+	"Jabal ash-Shäm"
+	"Masirah"
+	"Maskin"
+	"Masqat"
+	"Matrah"
+	"Nizwä"
+	"Quraqqät"
+	"Ra's Abu Daud"
+	"Ra's Al-Hadd"
+	"Ramlat al Wahibah"
+	"Sarür"
+	"Shinas"
+	"Suhar"
+	"Sür"
+	"Tan'am"
+	"Tiwi"
+	"Tur at Masirah"
+	"Umm As-Samim"
+	"Wadi Andam"
+	"Wadi Aswad"
+	"Wadi al-Bahta"
+}
