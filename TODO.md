@@ -3,6 +3,7 @@ Todos:
 - stitch together Pontus and Greece
 - stitch together Ruthenia, Vladimir, Greater Mordvinia and Novgorod
 - stitch together Ísland, Karelia, the Lappland tag and Pomerania
+- - might not need to do this, Ísland will become chaos anyway
 - stitch together Thungaringia
 - stitch together Frisia
 - stitch together Bohemia
