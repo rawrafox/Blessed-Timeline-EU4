@@ -1,4 +1,5 @@
 Todos:
+- [ ] Implement Newbie Protection
 - [ ] stitch together Arles, France, Burgundy and Brittany
 - [ ] stitch together Pontus and Greece
 - [ ] stitch together Ruthenia, Vladimir, Greater Mordvinia and Novgorod
@@ -7,10 +8,12 @@ Todos:
 - [ ] stitch together Thungaringia
 - [ ] stitch together Frisia
 - [ ] stitch together Bohemia
-- [ ] Remove Breton culture from the HRE
+- [ ] Remove Francien culture from the HRE
 - [ ] create a Scootland that is balanced wrt rest of players
 - [ ] Rename Netherlands -> Honkerlands
 - [ ] Do something about the culture situation in Scandinavia
+- [ ] Do something about the culture situation in Great Balkan Empire
+- [ ] 
 - [ ] Write personalised splash screens for player tags (this should be easy)
 -  - [ ] Hungaria
 -  - [ ] Great Balkan Empire
@@ -55,6 +58,7 @@ Todos:
 - [ ] Player tags in the HRE should be electors
 - [ ] Make sure player tags start at correct rank:
 - - [ ] Pontus -> Empire (depending on how much he's breaking himself up)
+- - [ ] Great Balkan Empire -> Empire (or as a reward in Missions)
 - - [ ] Bohemia -> Kingdom
 - - [ ] Thungaringia -> Kingdom
 - - [ ] Frisia -> Kingdom
