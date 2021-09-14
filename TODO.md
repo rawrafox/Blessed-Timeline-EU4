@@ -1,5 +1,5 @@
 Todos:
-- [ ] Implement Newbie Protection
+- [X] Implement Newbie Protection
 - [ ] stitch together Arles, France, Burgundy and Brittany
 - [ ] stitch together Pontus and Greece
 - [ ] stitch together Ruthenia, Vladimir, Greater Mordvinia and Novgorod
