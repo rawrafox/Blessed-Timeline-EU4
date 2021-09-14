@@ -1,0 +1,64 @@
+Todos:
+- stitch together Arles, France, Burgundy and Brittany
+- stitch together Pontus and Greece
+- stitch together Ruthenia, Vladimir, Greater Mordvinia and Novgorod
+- stitch together Ísland, Karelia, the Lappland tag and Pomerania
+- stitch together Thungaringia
+- stitch together Frisia
+- stitch together Bohemia
+- Remove Breton culture from the HRE
+- create a Scootland that is balanced wrt rest of players
+- Rename Netherlands -> Honkerlands
+- Write personalised splash screens for player tags (this should be easy)
+-  - Hungaria
+-  - Great Balkan Empire
+-  - Pontus
+-  - Ísland
+-  - Arles
+-  - Andalusia
+-  - Frisia
+-  - Thungaringia
+-  - Bohemia
+-  - Scootland
+-  - Ruthenia
+-  - Alderaan
+- Mission trees for player tags _if they don't want generic missions_
+-  - Hungaria
+-  - Great Balkan Empire
+-  - Pontus
+-  - Ísland
+-  - Arles
+-  - Andalusia
+-  - Frisia
+-  - Thungaringia
+-  - Bohemia
+-  - Scootland
+-  - Ruthenia
+-  - Alderaan
+-  National Ideas for player tags
+-  - Hungaria
+-  - Great Balkan Empire
+-  - Pontus
+-  - Ísland
+-  - Arles
+-  - Andalusia
+-  - Frisia
+-  - Thungaringia
+-  - Bohemia
+-  - Scootland
+-  - Ruthenia
+-  - Alderaan
+- Create imperial incident for Figurehead Emperor if necessary
+- Create imperial incident for Burgundian claims
+- Player tags in the HRE should be electors
+- Make sure player tags start at correct rank:
+- - Pontus -> Empire.
+- - Bohemia -> Kingdom
+- - Thungaringia -> Kingdom
+- - Frisia -> Kingdom
+- Make sure the released independent nations have tags and land associated with them
+- Make sure the released vassal states have tags and land associated with them
+- - Make sure the vassal states have the correct parent and child relationships
+- Burn down provinces in Siberia
+- Consolidate Siberian tags into 4-6 tags
+- Do some cleanup in the Middle East/Mesopotamia
