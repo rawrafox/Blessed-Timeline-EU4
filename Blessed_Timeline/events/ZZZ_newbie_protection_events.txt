@@ -1,0 +1,40 @@
+namespace = noob_protection_event
+country_event = {
+	id = noob_protection_event.1
+	title = "noob_protection_event.1_t"
+	desc = "noob_protection_event.1_d"
+	picture = COURT_eventPicture
+	
+	is_triggered_only = yes
+	
+	major = yes
+	
+	option = {
+		name = "noob_protection_event.1_1"
+		set_country_flag = noob_protection_flag
+		add_country_modifier =  {
+			name = "greater_noob_protection"
+			duration = -1
+		}
+	}
+	
+	option = {
+		name = "noob_protection_event.1_2"
+		set_country_flag = noob_protection_flag
+		add_country_modifier = {
+			name = "lesser_noob_protection"
+			duration = -1
+		}
+	}
+	
+	option = {
+		name = "noob_protection_event.1_3"
+		all_country = {
+			hidden_effect = {
+				country_event = {
+					id = noob_protection_event.2
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,16 @@
+country_decisions = {
+	noob_protection_decision = {
+		major = yes
+		potential = {
+			NOT = { has_country_flag = noob_protection_flag }
+		}
+		allow = {
+			NOT = { ai = yes }
+		}
+		effect = {
+			country_event = {
+				id = noob_protection_event.1
+			}
+		}
+	}
+}
