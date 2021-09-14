@@ -9,6 +9,7 @@ Todos:
 - Remove Breton culture from the HRE
 - create a Scootland that is balanced wrt rest of players
 - Rename Netherlands -> Honkerlands
+- Do something about the culture situation in Scandinavia
 - Write personalised splash screens for player tags (this should be easy)
 -  - Hungaria
 -  - Great Balkan Empire
@@ -35,7 +36,7 @@ Todos:
 -  - Scootland
 -  - Ruthenia
 -  - Alderaan
--  National Ideas for player tags
+-  Implement National Ideas for player tags
 -  - Hungaria
 -  - Great Balkan Empire
 -  - Pontus
@@ -52,13 +53,14 @@ Todos:
 - Create imperial incident for Burgundian claims
 - Player tags in the HRE should be electors
 - Make sure player tags start at correct rank:
-- - Pontus -> Empire.
+- - Pontus -> Empire (depending on how much he's breaking himself up)
 - - Bohemia -> Kingdom
 - - Thungaringia -> Kingdom
 - - Frisia -> Kingdom
+- Check who wants to release what provinces to what tags
 - Make sure the released independent nations have tags and land associated with them
 - Make sure the released vassal states have tags and land associated with them
 - - Make sure the vassal states have the correct parent and child relationships
 - Burn down provinces in Siberia
 - Consolidate Siberian tags into 4-6 tags
-- Do some cleanup in the Middle East/Mesopotamia
+- Do some cleanup in the Middle East/Mesopotamia, since there are probably too many tags right now.
