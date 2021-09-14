@@ -13,7 +13,6 @@ Todos:
 - [ ] Rename Netherlands -> Honkerlands
 - [ ] Do something about the culture situation in Scandinavia
 - [ ] Do something about the culture situation in Great Balkan Empire
-- [ ] 
 - [ ] Write personalised splash screens for player tags (this should be easy)
 -  - [ ] Hungaria
 -  - [ ] Great Balkan Empire
