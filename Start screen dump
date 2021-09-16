@@ -21,3 +21,18 @@ tag = UKR {
     Ruthenia is not entirely without friends, however. Though Ruthenia may see the Great Balkan Empire as a troublesome stepchild for all the internal conflict they have had to sort out for them, they remain steadfast friends under the guise of slavic unity - for now, at least. There has also ever been a friend in the kingdom of Arles, but as cracks have begun to show in their ability to hold the realm together, who knows how long that will last?
   }
 }
+tag = BOH {
+  text = {
+    The Kingdom of Bohemia and Moravia
+    
+    Hidden behind the mountains of the Sudetes in the east lies the small but historically powerful kingdom of Bohemia and Moravia. Its ruling family, the Hapsburgs, have ruled the region since at least the 9th century, and for several centuries held the title of Holy Roman Emperors. That title, and most of the land they held alongside it, such as the archduchies of Germany, Italy, Austria and Bavaria, have long since been lost to the Hapsburg kings. So furious were they when they were cast from the throne of the Empire that they effectively seceded.
+    
+    Until now, that is. The turmoil that has befallen the kingdoms around Europe the past few decades has splintered the Ruthenians in the east, the Íslandic fylkirate in the north, both the Sicilians and the Pontics in the south and the Arlesians in the west. And so the Bohemians have re-entered the fold of the Holy Roman Empire, seeking security, or perhaps to one day claim the throne again?
+    
+    Still, it is a whole new Empire they come into. The Thungaringians have grown ever mightier to the north, and the Frisians sit at the Atlantic fringe of the empire, bathing in gold from the rich trade flowing into Honkerdam.
+    
+    As if that's not enough, these past few decades have seen the common people turn more and more to the teachings of the preacher Jan Hus and his Hussite brand of christianity. By all reports, some sort of uprising is brewing.
+    
+    What does this mean for the ancient kingdom of Bohemia?
+  }
+}
