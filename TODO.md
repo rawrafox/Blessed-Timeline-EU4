@@ -15,16 +15,16 @@ Todos:
 - [ ] Do something about the culture situation in Great Balkan Empire
 - [ ] Write personalised splash screens for player tags (this should be easy)
 -  - [ ] Hungaria
--  - [ ] Great Balkan Empire
+-  - [X] Great Balkan Empire
 -  - [ ] Pontus
 -  - [ ] Ísland
 -  - [ ] Arles
--  - [ ] Andalusia
--  - [ ] Frisia
+-  - [X] Andalusia
+-  - [X] Frisia
 -  - [ ] Thungaringia
--  - [ ] Bohemia
+-  - [X] Bohemia
 -  - [ ] Scootland
--  - [ ] Ruthenia
+-  - [X] Ruthenia
 -  - [ ] Alderaan
 - [ ] Mission trees for player tags _if they don't want generic missions_
 -  - [ ] Hungaria
