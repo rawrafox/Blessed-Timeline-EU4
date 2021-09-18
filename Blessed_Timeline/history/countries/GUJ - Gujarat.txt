@@ -5,6 +5,7 @@ technology_group = indian
 religion = hinduism
 primary_culture = gujarati
 capital = 4456
+add_accepted_culture = gujarati
 1444.11.11= {
 	monarch = {
 		name = "Ajayapala"
@@ -29,7 +30,7 @@ capital = 4456
 		death_date = 1475.12.16
 		female = yes
 		religion = hinduism
-		culture = gujarati
+		culture = kannada
 	}
 	add_queen_personality = obsessive_perfectionist_personality
 	add_queen_personality = zealot_personality

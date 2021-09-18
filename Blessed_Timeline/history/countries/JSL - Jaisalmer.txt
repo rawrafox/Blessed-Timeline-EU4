@@ -31,7 +31,7 @@ add_accepted_culture = rajput
 		death_date = 1482.2.14
 		female = yes
 		religion = buddhism
-		culture = rajput
+		culture = avadhi
 	}
 	add_queen_personality = intricate_web_weaver_personality
 	add_queen_personality = secretive_personality

@@ -1,5 +1,5 @@
-owner = Z21
-controller = Z21
+owner = Z0L
+controller = Z0L
 capital = "Tlemcen"
 is_city = yes
 culture = algerian
@@ -12,7 +12,7 @@ base_manpower = 3
 extra_cost = 16
 center_of_trade = 2
 add_core = ALG
-add_core = Z21
+add_core = Z0L
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

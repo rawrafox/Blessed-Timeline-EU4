@@ -45,7 +45,7 @@ add_accepted_culture = lombard
 		death_date = 1476.1.22
 		claim = 89
 		religion = catholic
-		culture = lombard
+		culture = czech
 	}
 	add_heir_personality = embezzler_personality
 	add_heir_personality = obsessive_perfectionist_personality

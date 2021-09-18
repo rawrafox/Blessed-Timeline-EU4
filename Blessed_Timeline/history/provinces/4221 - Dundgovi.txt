@@ -1,5 +1,5 @@
-owner = Z89
-controller = Z89
+owner = Z2H
+controller = Z2H
 capital = "Dundgovi"
 is_city = yes
 culture = khalkha
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 2
 base_manpower = 2
 add_core = KLK
-add_core = Z89
+add_core = Z2H
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

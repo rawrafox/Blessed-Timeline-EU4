@@ -1,5 +1,5 @@
-owner = Y15
-controller = Y15
+owner = Z37
+controller = Z37
 capital = "Adanki"
 is_city = yes
 culture = telegu
@@ -10,7 +10,7 @@ base_tax = 5
 base_production = 4
 base_manpower = 4
 add_core = GOC
-add_core = Y15
+add_core = Z37
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

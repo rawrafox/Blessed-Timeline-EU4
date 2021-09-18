@@ -1,5 +1,5 @@
-owner = Z92
-controller = Z92
+owner = Z2K
+controller = Z2K
 capital = "Stargard"
 is_city = yes
 culture = danish
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 3
 base_manpower = 3
 add_core = DAN
-add_core = Z92
+add_core = Z2K
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

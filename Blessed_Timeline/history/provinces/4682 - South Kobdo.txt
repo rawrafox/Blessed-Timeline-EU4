@@ -1,5 +1,5 @@
-owner = Y33
-controller = Y33
+owner = Z3P
+controller = Z3P
 capital = "Monkhkhairkhan"
 is_city = yes
 culture = khazak
@@ -9,7 +9,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 2
 add_core = KZH
-add_core = Y33
+add_core = Z3P
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

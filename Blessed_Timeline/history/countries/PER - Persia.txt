@@ -7,6 +7,7 @@ primary_culture = azerbaijani
 capital = 429
 religious_school = hanbali_school
 add_accepted_culture = azerbaijani
+add_accepted_culture = persian
 1444.11.11= {
 	monarch = {
 		name = "Kaikhusraw"
@@ -31,7 +32,7 @@ add_accepted_culture = azerbaijani
 		death_date = 1468.2.21
 		female = yes
 		religion = sunni
-		culture = azerbaijani
+		culture = panjabi
 	}
 	add_queen_personality = obsessive_perfectionist_personality
 	add_queen_personality = righteous_personality

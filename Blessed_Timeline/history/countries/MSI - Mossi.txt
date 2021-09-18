@@ -3,9 +3,9 @@ add_government_reform = iqta
 government_rank = 1
 technology_group = sub_saharan
 religion = ibadi
-primary_culture = mossi
+primary_culture = mali
 capital = 1137
-add_accepted_culture = mossi
+add_accepted_culture = mali
 1444.11.11= {
 	monarch = {
 		name = "(Regency Council)"
@@ -15,7 +15,7 @@ add_accepted_culture = mossi
 		birth_date = 1.1.1
 		regent = yes
 		religion = ibadi
-		culture = mossi
+		culture = mali
 	}
 	heir = {
 		name = "Genma"
@@ -27,7 +27,7 @@ add_accepted_culture = mossi
 		death_date = 1495.8.28
 		claim = 89
 		religion = ibadi
-		culture = mossi
+		culture = mali
 	}
 }
 1444.11.11= {

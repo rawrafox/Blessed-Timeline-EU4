@@ -1,5 +1,5 @@
-owner = Z57
-controller = Z57
+owner = Z1L
+controller = Z1L
 capital = "Kolding"
 is_city = yes
 culture = danish
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 1
 base_manpower = 3
 add_core = DAN
-add_core = Z57
+add_core = Z1L
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

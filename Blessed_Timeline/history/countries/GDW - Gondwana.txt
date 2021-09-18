@@ -1,11 +1,12 @@
 government = monarchy
-add_government_reform = gond_kingdom
+add_government_reform = nayankara_reform
 government_rank = 2
 technology_group = indian
 religion = hinduism
-primary_culture = gondi
+primary_culture = oriya
 capital = 4458
-add_accepted_culture = gondi
+add_accepted_culture = oriya
+add_accepted_culture = vindhyan
 1444.11.11= {
 	monarch = {
 		name = "Suvrata"
@@ -16,7 +17,7 @@ add_accepted_culture = gondi
 		birth_date = 1396.11.30
 		female = yes
 		religion = hinduism
-		culture = gondi
+		culture = oriya
 	}
 	add_ruler_personality = charismatic_negotiator_personality
 	add_ruler_personality = tactical_genius_personality
@@ -30,7 +31,7 @@ add_accepted_culture = gondi
 		birth_date = 1406.4.26
 		death_date = 1466.4.26
 		religion = hinduism
-		culture = gondi
+		culture = oriya
 	}
 	add_queen_personality = charismatic_negotiator_personality
 	add_queen_personality = tactical_genius_personality
@@ -45,7 +46,7 @@ add_accepted_culture = gondi
 		death_date = 1481.8.16
 		claim = 89
 		religion = hinduism
-		culture = gondi
+		culture = oriya
 	}
 	add_heir_personality = intricate_web_weaver_personality
 	add_heir_personality = tolerant_personality

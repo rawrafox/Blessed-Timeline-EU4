@@ -1,5 +1,5 @@
-owner = Y23
-controller = Y23
+owner = Z3F
+controller = Z3F
 capital = "Sidi Ifni"
 is_city = yes
 culture = moroccan
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 3
 base_manpower = 3
 add_core = MOR
-add_core = Y23
+add_core = Z3F
 add_permanent_claim = Z01
 discovered_by = eastern
 discovered_by = indian

@@ -1,5 +1,5 @@
-owner = Z22
-controller = Z22
+owner = Z0M
+controller = Z0M
 capital = "Salem"
 is_city = yes
 culture = tamil
@@ -9,7 +9,7 @@ base_tax = 5
 base_production = 4
 base_manpower = 4
 add_core = MAD
-add_core = Z22
+add_core = Z0M
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

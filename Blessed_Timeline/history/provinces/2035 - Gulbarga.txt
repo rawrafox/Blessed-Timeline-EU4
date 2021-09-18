@@ -1,5 +1,5 @@
-owner = Z13
-controller = Z13
+owner = Z0D
+controller = Z0D
 capital = "Gulbarga"
 is_city = yes
 culture = kannada
@@ -10,7 +10,7 @@ base_production = 4
 base_manpower = 5
 add_core = MYS
 add_core = TLG
-add_core = Z13
+add_core = Z0D
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

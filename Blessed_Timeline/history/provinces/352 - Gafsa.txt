@@ -1,5 +1,5 @@
-owner = Z19
-controller = Z19
+owner = Z0J
+controller = Z0J
 capital = "Gafsa"
 is_city = yes
 culture = berber
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 3
 base_manpower = 3
 add_core = TLC
-add_core = Z19
+add_core = Z0J
 add_permanent_claim = AFR
 discovered_by = eastern
 discovered_by = indian

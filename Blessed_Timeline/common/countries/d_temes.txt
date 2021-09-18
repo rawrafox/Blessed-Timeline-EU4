@@ -1,5 +1,5 @@
 ck2_converter_generated = yes
-graphical_culture = westerngfx
+graphical_culture = easterngfx
 color = { 133 93 38 }
 monarch_names = {
 	"Ambrus #0" = 0

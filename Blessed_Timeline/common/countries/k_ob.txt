@@ -1,5 +1,5 @@
 ck2_converter_generated = yes
-graphical_culture = westerngfx
+graphical_culture = asiangfx
 color = { 180 180 250 }
 monarch_names = {
 	"Altan #1" = 10

@@ -1,5 +1,5 @@
-owner = Z97
-controller = Z97
+owner = Z2P
+controller = Z2P
 capital = "Bosaso"
 is_city = yes
 culture = somali
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 1
 base_manpower = 2
 add_core = ADA
-add_core = Z97
+add_core = Z2P
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

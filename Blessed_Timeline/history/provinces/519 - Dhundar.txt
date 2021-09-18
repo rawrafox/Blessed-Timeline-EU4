@@ -1,5 +1,5 @@
-owner = Y84
-controller = Y84
+owner = Z54
+controller = Z54
 capital = "Amber"
 is_city = yes
 culture = rajput
@@ -11,7 +11,7 @@ base_manpower = 3
 extra_cost = 8
 center_of_trade = 1
 add_core = MER
-add_core = Y84
+add_core = Z54
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

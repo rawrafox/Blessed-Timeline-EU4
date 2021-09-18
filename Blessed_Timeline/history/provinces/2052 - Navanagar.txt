@@ -1,5 +1,5 @@
-owner = Z29
-controller = Z29
+owner = Z0T
+controller = Z0T
 capital = "Nagnes"
 is_city = yes
 culture = saurashtri
@@ -10,7 +10,7 @@ base_tax = 5
 base_production = 4
 base_manpower = 4
 add_core = JGD
-add_core = Z29
+add_core = Z0T
 add_permanent_claim = GUJ
 discovered_by = eastern
 discovered_by = indian

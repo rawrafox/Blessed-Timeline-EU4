@@ -126,7 +126,7 @@ vassal=
 vassal=
 {
 	first="CEY"
-	second="Y15"
+	second="Z37"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
@@ -134,7 +134,7 @@ vassal=
 vassal=
 {
 	first="DLH"
-	second="Z29"
+	second="Z0T"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
@@ -142,7 +142,7 @@ vassal=
 vassal=
 {
 	first="HUN"
-	second="Y10"
+	second="Z32"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
@@ -158,7 +158,7 @@ vassal=
 vassal=
 {
 	first="ITA"
-	second="Z91"
+	second="Z2J"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
@@ -166,7 +166,7 @@ vassal=
 vassal=
 {
 	first="KOJ"
-	second="Z85"
+	second="Z2D"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
@@ -174,7 +174,7 @@ vassal=
 vassal=
 {
 	first="MDV"
-	second="Z83"
+	second="Z2B"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
@@ -182,7 +182,7 @@ vassal=
 vassal=
 {
 	first="NOR"
-	second="Z57"
+	second="Z1L"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
@@ -198,7 +198,7 @@ vassal=
 vassal=
 {
 	first="NOR"
-	second="Z92"
+	second="Z2K"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
@@ -206,14 +206,14 @@ vassal=
 vassal=
 {
 	first="Z01"
-	second="Y23"
+	second="Z3F"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
 
 vassal=
 {
-	first="Z18"
+	first="Z0I"
 	second="SPL"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
@@ -221,7 +221,7 @@ vassal=
 
 vassal=
 {
-	first="Z25"
+	first="Z0P"
 	second="OYO"
 	start_date="1444.11.11"
 	end_date="1836.1.1"

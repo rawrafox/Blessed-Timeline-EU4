@@ -3,7 +3,7 @@ add_government_reform = iqta
 government_rank = 1
 technology_group = sub_saharan
 religion = sunni
-primary_culture = fulani
+primary_culture = soninke
 capital = 1117
 fixed_capital = 1117
 religious_school = hanbali_school
@@ -17,7 +17,7 @@ add_accepted_culture = fulani
 		mil = 3
 		birth_date = 1400.9.7
 		religion = sunni
-		culture = fulani
+		culture = soninke
 	}
 	add_ruler_personality = architectural_visionary_personality
 	add_ruler_personality = strict_personality
@@ -32,7 +32,7 @@ add_accepted_culture = fulani
 		death_date = 1468.3.19
 		female = yes
 		religion = sunni
-		culture = fulani
+		culture = soninke
 	}
 	add_queen_personality = drunkard_personality
 	add_queen_personality = kind_hearted_personality
@@ -47,7 +47,7 @@ add_accepted_culture = fulani
 		death_date = 1494.9.9
 		claim = 89
 		religion = sunni
-		culture = fulani
+		culture = soninke
 	}
 	add_heir_personality = lawgiver_personality
 	add_heir_personality = naive_personality

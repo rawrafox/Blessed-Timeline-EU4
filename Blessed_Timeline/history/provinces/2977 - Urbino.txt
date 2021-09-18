@@ -1,5 +1,5 @@
-owner = Z18
-controller = Z18
+owner = Z0I
+controller = Z0I
 capital = "Urbino"
 is_city = yes
 culture = umbrian
@@ -12,7 +12,7 @@ base_manpower = 4
 extra_cost = 8
 center_of_trade = 1
 add_core = URB
-add_core = Z18
+add_core = Z0I
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

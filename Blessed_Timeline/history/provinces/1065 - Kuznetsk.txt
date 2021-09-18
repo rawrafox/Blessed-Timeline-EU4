@@ -1,5 +1,5 @@
-owner = Z64
-controller = Z64
+owner = Z1S
+controller = Z1S
 capital = "Kuznetsk"
 is_city = yes
 culture = kirgiz
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 add_core = CHG
-add_core = Z64
+add_core = Z1S
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

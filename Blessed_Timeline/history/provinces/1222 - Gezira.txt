@@ -1,5 +1,5 @@
-owner = Y44
-controller = Y44
+owner = Z40
+controller = Z40
 capital = "Wad Madani"
 is_city = yes
 culture = nubian
@@ -8,7 +8,7 @@ trade_goods = grain
 base_tax = 4
 base_production = 4
 base_manpower = 3
-add_core = Y44
+add_core = Z40
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

@@ -1,5 +1,5 @@
 ck2_converter_generated = yes
-graphical_culture = westerngfx
+graphical_culture = asiangfx
 color = { 140 140 180 }
 monarch_names = {
 	"Amro #0" = -1

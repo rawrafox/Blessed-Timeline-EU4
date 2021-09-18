@@ -1,5 +1,5 @@
-owner = Y11
-controller = Y11
+owner = Z33
+controller = Z33
 capital = "Tannu Uriankhai"
 is_city = yes
 culture = khalkha
@@ -9,7 +9,7 @@ base_tax = 1
 base_production = 2
 base_manpower = 2
 add_core = KLK
-add_core = Y11
+add_core = Z33
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

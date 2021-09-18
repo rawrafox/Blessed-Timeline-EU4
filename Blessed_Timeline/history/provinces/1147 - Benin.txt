@@ -1,5 +1,5 @@
-owner = Z25
-controller = Z25
+owner = Z0P
+controller = Z0P
 capital = "Oredo"
 is_city = yes
 culture = yorumba
@@ -10,7 +10,7 @@ base_production = 3
 base_manpower = 2
 extra_cost = 18
 center_of_trade = 1
-add_core = Z25
+add_core = Z0P
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

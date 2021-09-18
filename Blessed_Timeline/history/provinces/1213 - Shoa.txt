@@ -1,5 +1,5 @@
-owner = Z42
-controller = Z42
+owner = Z16
+controller = Z16
 capital = "Badeqe"
 is_city = yes
 culture = amhara
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 1
 base_manpower = 2
 add_core = ETH
-add_core = Z42
+add_core = Z16
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

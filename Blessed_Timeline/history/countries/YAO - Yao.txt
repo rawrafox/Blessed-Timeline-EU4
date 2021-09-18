@@ -32,7 +32,7 @@ add_accepted_culture = bilala
 		female = yes
 		claim = 89
 		religion = coptic
-		culture = bilala
+		culture = zaghawa
 	}
 	add_heir_personality = benevolent_personality
 	add_heir_personality = midas_touched_personality

@@ -1,5 +1,5 @@
 ck2_converter_generated = yes
-graphical_culture = westerngfx
+graphical_culture = asiangfx
 color = { 79 72 217 }
 monarch_names = {
 	"Aigul #0" = 0

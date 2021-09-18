@@ -1,11 +1,12 @@
 government = monarchy
-add_government_reform = rajput_kingdom
+add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = indian
 religion = buddhism
-primary_culture = vindhyan
+primary_culture = burmese
 capital = 4466
 fixed_capital = 4466
+add_accepted_culture = rajput
 add_accepted_culture = vindhyan
 1444.11.11= {
 	monarch = {
@@ -17,7 +18,7 @@ add_accepted_culture = vindhyan
 		birth_date = 1414.8.1
 		female = yes
 		religion = buddhism
-		culture = vindhyan
+		culture = burmese
 	}
 	add_ruler_personality = strict_personality
 	add_ruler_personality = tactical_genius_personality
@@ -31,7 +32,7 @@ add_accepted_culture = vindhyan
 		birth_date = 1416.6.26
 		death_date = 1476.6.26
 		religion = buddhism
-		culture = vindhyan
+		culture = burmese
 	}
 	add_queen_personality = strict_personality
 	add_queen_personality = tactical_genius_personality
@@ -47,7 +48,7 @@ add_accepted_culture = vindhyan
 		female = yes
 		claim = 89
 		religion = buddhism
-		culture = vindhyan
+		culture = burmese
 	}
 	add_heir_personality = free_thinker_personality
 	add_heir_personality = tactical_genius_personality

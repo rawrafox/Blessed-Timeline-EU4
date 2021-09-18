@@ -3,7 +3,7 @@ add_government_reform = mandala_reform
 government_rank = 2
 technology_group = chinese
 religion = hinduism
-primary_culture = tibetan
+primary_culture = nepali
 capital = 4517
 add_accepted_culture = tibetan
 1444.11.11= {
@@ -15,7 +15,7 @@ add_accepted_culture = tibetan
 		mil = 2
 		birth_date = 1375.8.17
 		religion = hinduism
-		culture = tibetan
+		culture = nepali
 	}
 	add_ruler_personality = just_personality
 	add_ruler_personality = strict_personality
@@ -45,7 +45,7 @@ add_accepted_culture = tibetan
 		death_date = 1474.9.5
 		claim = 89
 		religion = hinduism
-		culture = tibetan
+		culture = nepali
 	}
 	add_heir_personality = charismatic_negotiator_personality
 	add_heir_personality = obsessive_perfectionist_personality

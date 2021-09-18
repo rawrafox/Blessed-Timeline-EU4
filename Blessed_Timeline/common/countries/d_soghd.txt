@@ -1,5 +1,5 @@
 ck2_converter_generated = yes
-graphical_culture = westerngfx
+graphical_culture = muslimgfx
 color = { 30 180 80 }
 monarch_names = {
 	"Anusheh #0" = -1

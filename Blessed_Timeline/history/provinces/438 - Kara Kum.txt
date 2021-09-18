@@ -1,5 +1,5 @@
-owner = Y85
-controller = Y85
+owner = Z55
+controller = Z55
 capital = "Geok-Tepe"
 is_city = yes
 culture = turkmeni
@@ -8,7 +8,7 @@ trade_goods = livestock
 base_tax = 2
 base_production = 1
 base_manpower = 3
-add_core = Y85
+add_core = Z55
 add_permanent_claim = TRS
 discovered_by = eastern
 discovered_by = indian

@@ -1,5 +1,5 @@
-owner = Z32
-controller = Z32
+owner = Z0W
+controller = Z0W
 capital = "Bayuly"
 is_city = yes
 culture = kirgiz
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 add_core = CHG
-add_core = Z32
+add_core = Z0W
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

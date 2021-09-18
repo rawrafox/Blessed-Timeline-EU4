@@ -30,7 +30,7 @@ add_accepted_culture = occitain
 		death_date = 1488.2.28
 		female = yes
 		religion = catholic
-		culture = occitain
+		culture = czech
 	}
 	add_queen_personality = charismatic_negotiator_personality
 	add_queen_personality = well_connected_personality

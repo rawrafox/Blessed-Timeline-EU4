@@ -1,9 +1,9 @@
 government = monarchy
 add_government_reform = iqta
 government_rank = 2
-technology_group = indian
+technology_group = chinese
 religion = sunni
-primary_culture = kashmiri
+primary_culture = tibetan
 capital = 508
 religious_school = hanbali_school
 1444.11.11= {
@@ -15,7 +15,7 @@ religious_school = hanbali_school
 		mil = 5
 		birth_date = 1400.2.23
 		religion = sunni
-		culture = kashmiri
+		culture = tibetan
 	}
 	add_ruler_personality = strict_personality
 	add_ruler_personality = tactical_genius_personality
@@ -45,7 +45,7 @@ religious_school = hanbali_school
 		death_date = 1488.5.2
 		claim = 89
 		religion = sunni
-		culture = kashmiri
+		culture = tibetan
 	}
 	add_heir_personality = embezzler_personality
 	add_heir_personality = greedy_personality

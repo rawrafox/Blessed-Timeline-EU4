@@ -1,5 +1,5 @@
-owner = Z24
-controller = Z24
+owner = Z0O
+controller = Z0O
 capital = "Ejin"
 is_city = yes
 culture = khalkha
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 3
 base_manpower = 2
 add_core = KLK
-add_core = Z24
+add_core = Z0O
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

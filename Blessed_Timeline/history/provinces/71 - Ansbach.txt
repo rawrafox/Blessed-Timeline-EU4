@@ -1,5 +1,5 @@
-owner = Z87
-controller = Z87
+owner = Z2F
+controller = Z2F
 capital = "Ansbach"
 is_city = yes
 culture = franconian
@@ -9,7 +9,7 @@ hre = yes
 base_tax = 3
 base_production = 4
 base_manpower = 3
-add_core = Z87
+add_core = Z2F
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

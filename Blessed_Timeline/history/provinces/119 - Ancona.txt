@@ -1,5 +1,5 @@
-owner = Z18
-controller = Z18
+owner = Z0I
+controller = Z0I
 capital = "Ancona"
 is_city = yes
 culture = umbrian
@@ -10,7 +10,7 @@ base_tax = 6
 base_production = 5
 base_manpower = 5
 add_core = URB
-add_core = Z18
+add_core = Z0I
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

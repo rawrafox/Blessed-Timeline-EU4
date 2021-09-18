@@ -1,5 +1,5 @@
-owner = Z22
-controller = Z22
+owner = Z0M
+controller = Z0M
 capital = "Cannanore"
 is_city = yes
 culture = malayalam
@@ -11,7 +11,7 @@ base_manpower = 4
 extra_cost = 8
 center_of_trade = 1
 add_core = VND
-add_core = Z22
+add_core = Z0M
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

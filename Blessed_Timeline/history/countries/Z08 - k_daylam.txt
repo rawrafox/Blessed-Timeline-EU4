@@ -1,11 +1,11 @@
 government = monarchy
-add_government_reform = feudalism_reform
+add_government_reform = plutocratic_reform
 government_rank = 2
-technology_group = western
+technology_group = muslim
 religion = orthodox
-primary_culture = azerbaijani
+primary_culture = kurdish
 capital = 417
-add_accepted_culture = azerbaijani
+mercantilism = 15
 1444.11.11= {
 	monarch = {
 		name = "Mihemed"
@@ -15,7 +15,7 @@ add_accepted_culture = azerbaijani
 		mil = 3
 		birth_date = 1363.3.6
 		religion = orthodox
-		culture = azerbaijani
+		culture = kurdish
 	}
 	add_ruler_personality = entrepreneur_personality
 	add_ruler_personality = scholar_personality
@@ -45,7 +45,7 @@ add_accepted_culture = azerbaijani
 		death_date = 1471.7.10
 		claim = 89
 		religion = orthodox
-		culture = azerbaijani
+		culture = kurdish
 	}
 	add_heir_personality = charismatic_negotiator_personality
 	add_heir_personality = well_connected_personality

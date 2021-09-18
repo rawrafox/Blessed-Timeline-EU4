@@ -1,5 +1,5 @@
-owner = Y10
-controller = Y10
+owner = Z32
+controller = Z32
 capital = "Nagybecskerek"
 is_city = yes
 culture = hungarian
@@ -8,7 +8,7 @@ trade_goods = livestock
 base_tax = 4
 base_production = 3
 base_manpower = 3
-add_core = Y10
+add_core = Z32
 add_permanent_claim = HUN
 discovered_by = eastern
 discovered_by = indian

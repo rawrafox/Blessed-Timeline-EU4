@@ -1,5 +1,5 @@
-owner = Y40
-controller = Y40
+owner = Z3W
+controller = Z3W
 capital = "Tachienlu"
 is_city = yes
 culture = tibetan
@@ -8,7 +8,7 @@ trade_goods = tea
 base_tax = 2
 base_production = 3
 base_manpower = 3
-add_core = Y40
+add_core = Z3W
 add_permanent_claim = KAM
 discovered_by = eastern
 discovered_by = indian

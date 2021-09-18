@@ -1,5 +1,5 @@
-owner = Z55
-controller = Z55
+owner = Z1J
+controller = Z1J
 capital = "Chabahar"
 is_city = yes
 culture = baluchi
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 5
 base_manpower = 4
 add_core = BAL
-add_core = Z55
+add_core = Z1J
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

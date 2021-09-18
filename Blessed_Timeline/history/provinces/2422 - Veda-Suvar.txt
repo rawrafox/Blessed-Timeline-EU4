@@ -1,5 +1,5 @@
-owner = Z83
-controller = Z83
+owner = Z2B
+controller = Z2B
 capital = "Veda-Suvar"
 is_city = yes
 culture = meshchera
@@ -10,7 +10,7 @@ base_tax = 2
 base_production = 1
 base_manpower = 2
 add_core = MSH
-add_core = Z83
+add_core = Z2B
 add_permanent_claim = MDV
 discovered_by = eastern
 discovered_by = indian

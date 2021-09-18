@@ -6,6 +6,7 @@ religion = catholic
 primary_culture = bavarian
 capital = 76
 add_accepted_culture = bavarian
+add_accepted_culture = czech
 1444.11.11= {
 	monarch = {
 		name = "Gerhard"

@@ -1,5 +1,5 @@
-owner = Y68
-controller = Y68
+owner = Z4O
+controller = Z4O
 capital = "Hami"
 is_city = yes
 culture = uyghur
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 1
 base_manpower = 2
 add_core = KAS
-add_core = Y68
+add_core = Z4O
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

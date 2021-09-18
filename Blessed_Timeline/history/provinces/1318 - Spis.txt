@@ -1,5 +1,5 @@
-owner = Y10
-controller = Y10
+owner = Z32
+controller = Z32
 capital = "Spiš"
 is_city = yes
 culture = slovak
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 3
 base_manpower = 3
 add_core = SLO
-add_core = Y10
+add_core = Z32
 add_permanent_claim = HUN
 discovered_by = eastern
 discovered_by = indian

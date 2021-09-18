@@ -1,5 +1,5 @@
-owner = Y81
-controller = Y81
+owner = Z51
+controller = Z51
 capital = "Ngari"
 is_city = yes
 culture = tibetan
@@ -8,7 +8,7 @@ trade_goods = wool
 base_tax = 5
 base_production = 4
 base_manpower = 4
-add_core = Y81
+add_core = Z51
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

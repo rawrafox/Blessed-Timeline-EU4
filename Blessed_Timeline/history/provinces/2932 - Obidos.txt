@@ -1,5 +1,5 @@
 capital = "Ouara"
-culture = nubian
+culture = zaghawa
 religion = coptic
 trade_goods = unknown
 base_tax = 3

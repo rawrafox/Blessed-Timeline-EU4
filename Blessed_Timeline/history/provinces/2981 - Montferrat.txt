@@ -1,5 +1,5 @@
-owner = Z91
-controller = Z91
+owner = Z2J
+controller = Z2J
 capital = "Montferrat"
 is_city = yes
 culture = piedmontese
@@ -11,7 +11,7 @@ base_tax = 5
 base_production = 3
 base_manpower = 3
 add_core = SAV
-add_core = Z91
+add_core = Z2J
 add_permanent_claim = ITA
 discovered_by = eastern
 discovered_by = indian
