@@ -58,3 +58,16 @@ tag = HOL {
 	HONK HONK HONK HONK HONK HONK HONK HONK HONK HONK HONK HONK HONK HONK HONK HONK HONK HONK
   }
 }
+tag = ARE {
+	text = {
+		The Kingdom of Arles
+		
+		“A guèrra!” Through the middle ages, the Occitan warcry could be heard in all the corners of the west, and the lands that heard it, seldom lived to tell the tale. 
+		
+		By cunning planning, warmaking, and the joy of cooking food over a warm bed of coal, the Pâturage et Montagne family managed to establish a kingdom – first within the Holy Roman Empire – and then outside the Holy Roman Empire. 
+
+		By the mid 15th century the kingdom had, as well as many of their rulers, grown to be comically large. But the memories and scars of the Great Crusades (1430-1440) is still a trauma for the region, and has left its lands unstable. 
+
+		The west now asks, will the kingdom of Arles continue to be a dominant force in Europe, or will the giant collapse under its own weight?
+	}
+}
