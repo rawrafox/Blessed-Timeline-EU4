@@ -18,7 +18,7 @@ Todos:
 -  - [X] Great Balkan Empire
 -  - [ ] Pontus
 -  - [ ] Ísland
--  - [ ] Arles
+-  - [X] Arles
 -  - [X] Andalusia
 -  - [X] Frisia
 -  - [ ] Thungaringia
