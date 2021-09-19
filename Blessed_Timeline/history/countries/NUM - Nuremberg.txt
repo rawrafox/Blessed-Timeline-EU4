@@ -1,9 +1,9 @@
 government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 1
-technology_group = western
+technology_group = eastern
 religion = catholic
-primary_culture = franconian
+primary_culture = romanian
 capital = 67
 fixed_capital = 67
 add_accepted_culture = franconian
@@ -16,7 +16,7 @@ add_accepted_culture = franconian
 		mil = 4
 		birth_date = 1385.12.27
 		religion = catholic
-		culture = franconian
+		culture = romanian
 	}
 	add_ruler_personality = entrepreneur_personality
 	add_ruler_personality = inspiring_leader_personality
@@ -46,7 +46,7 @@ add_accepted_culture = franconian
 		death_date = 1469.3.22
 		claim = 89
 		religion = catholic
-		culture = franconian
+		culture = romanian
 	}
 	add_heir_personality = kind_hearted_personality
 	add_heir_personality = tolerant_personality

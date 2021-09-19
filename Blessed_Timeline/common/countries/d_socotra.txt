@@ -1,5 +1,5 @@
 ck2_converter_generated = yes
-graphical_culture = westerngfx
+graphical_culture = africangfx
 color = { 142 255 85 }
 monarch_names = {
 	"Abraham #2" = 10

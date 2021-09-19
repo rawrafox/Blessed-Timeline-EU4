@@ -1,5 +1,5 @@
-owner = Y10
-controller = Y10
+owner = Z32
+controller = Z32
 capital = "Targu Mures"
 is_city = yes
 culture = transylvanian
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 3
 base_manpower = 4
 add_core = TRA
-add_core = Y10
+add_core = Z32
 add_permanent_claim = HUN
 discovered_by = eastern
 discovered_by = indian

@@ -1,13 +1,13 @@
 government = monarchy
 add_government_reform = iqta
 government_rank = 1
-technology_group = indian
+technology_group = chinese
 religion = sunni
 primary_culture = nepali
 capital = 4491
 fixed_capital = 4491
 religious_school = hanbali_school
-add_accepted_culture = nepali
+add_accepted_culture = tibetan
 1444.11.11= {
 	monarch = {
 		name = "Taran"
@@ -32,7 +32,7 @@ add_accepted_culture = nepali
 		death_date = 1450.2.24
 		female = yes
 		religion = sunni
-		culture = nepali
+		culture = tibetan
 	}
 	add_queen_personality = intricate_web_weaver_personality
 	add_queen_personality = righteous_personality

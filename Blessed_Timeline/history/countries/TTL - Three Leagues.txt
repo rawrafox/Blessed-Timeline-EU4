@@ -31,7 +31,7 @@ add_accepted_culture = swiss
 		death_date = 1450.3.30
 		female = yes
 		religion = catholic
-		culture = swiss
+		culture = croatian
 	}
 	add_queen_personality = kind_hearted_personality
 	add_queen_personality = righteous_personality

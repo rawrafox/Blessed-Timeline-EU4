@@ -6,7 +6,7 @@ religion = mahayana
 primary_culture = kanauji
 capital = 522
 mercantilism = 15
-add_accepted_culture = kanauji
+add_accepted_culture = avadhi
 1444.11.11= {
 	monarch = {
 		name = "Kakhopal"
@@ -31,7 +31,7 @@ add_accepted_culture = kanauji
 		death_date = 1477.3.29
 		female = yes
 		religion = mahayana
-		culture = kanauji
+		culture = rajput
 	}
 	add_queen_personality = strict_personality
 	add_queen_personality = tactical_genius_personality
@@ -46,7 +46,7 @@ add_accepted_culture = kanauji
 		death_date = 1504.10.21
 		claim = 89
 		religion = mahayana
-		culture = kanauji
+		culture = avadhi
 	}
 	add_heir_personality = obsessive_perfectionist_personality
 	add_heir_personality = zealot_personality

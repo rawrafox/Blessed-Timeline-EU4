@@ -1,5 +1,5 @@
-owner = Y84
-controller = Y84
+owner = Z54
+controller = Z54
 capital = "Alwar"
 is_city = yes
 culture = rajput
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 4
 base_manpower = 3
 add_core = MER
-add_core = Y84
+add_core = Z54
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

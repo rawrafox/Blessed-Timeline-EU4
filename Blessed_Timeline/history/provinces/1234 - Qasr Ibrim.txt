@@ -1,5 +1,5 @@
-owner = Z86
-controller = Z86
+owner = Z2E
+controller = Z2E
 capital = "Qasr Ibrim"
 is_city = yes
 culture = al_misr_arabic
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 3
 base_manpower = 3
 add_core = MAM
-add_core = Z86
+add_core = Z2E
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

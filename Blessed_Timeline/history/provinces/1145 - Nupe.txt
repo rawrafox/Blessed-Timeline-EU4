@@ -1,5 +1,5 @@
-owner = Z11
-controller = Z11
+owner = Z0B
+controller = Z0B
 capital = "Nupe"
 is_city = yes
 culture = nupe
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 add_core = NUP
-add_core = Z11
+add_core = Z0B
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

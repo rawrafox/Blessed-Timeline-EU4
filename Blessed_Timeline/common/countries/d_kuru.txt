@@ -1,5 +1,5 @@
 ck2_converter_generated = yes
-graphical_culture = westerngfx
+graphical_culture = indiangfx
 color = { 210 65 12 }
 monarch_names = {
 	"Anangpal #2" = 10

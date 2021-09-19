@@ -1,5 +1,5 @@
-owner = Z17
-controller = Z17
+owner = Z0H
+controller = Z0H
 capital = "As-Suwayda"
 is_city = yes
 culture = al_suryah_arabic
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 add_core = SYR
-add_core = Z17
+add_core = Z0H
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

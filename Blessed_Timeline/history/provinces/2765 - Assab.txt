@@ -1,5 +1,5 @@
-owner = Y36
-controller = Y36
+owner = Z3S
+controller = Z3S
 capital = "Assab"
 is_city = yes
 culture = afar
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 3
 base_manpower = 2
 add_core = AFA
-add_core = Y36
+add_core = Z3S
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

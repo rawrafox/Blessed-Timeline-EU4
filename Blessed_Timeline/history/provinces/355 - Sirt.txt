@@ -1,5 +1,5 @@
-owner = Y07
-controller = Y07
+owner = Z2Z
+controller = Z2Z
 capital = "Ben Jawad"
 is_city = yes
 culture = berber
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 3
 base_manpower = 3
 add_core = TLC
-add_core = Y07
+add_core = Z2Z
 add_permanent_claim = AFR
 discovered_by = eastern
 discovered_by = indian

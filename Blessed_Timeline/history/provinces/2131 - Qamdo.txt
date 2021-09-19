@@ -1,5 +1,5 @@
-owner = Z93
-controller = Z93
+owner = Z2L
+controller = Z2L
 capital = "Qamdo"
 is_city = yes
 culture = tibetan
@@ -8,7 +8,7 @@ trade_goods = spices
 base_tax = 6
 base_production = 3
 base_manpower = 3
-add_core = Z93
+add_core = Z2L
 add_permanent_claim = KAM
 discovered_by = eastern
 discovered_by = indian

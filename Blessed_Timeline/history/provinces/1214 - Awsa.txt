@@ -1,5 +1,5 @@
-owner = Z74
-controller = Z74
+owner = Z22
+controller = Z22
 capital = "Hayq"
 is_city = yes
 culture = amhara
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 3
 base_manpower = 3
 add_core = ETH
-add_core = Z74
+add_core = Z22
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

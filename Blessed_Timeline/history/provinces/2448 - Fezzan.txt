@@ -1,5 +1,5 @@
-owner = Z19
-controller = Z19
+owner = Z0J
+controller = Z0J
 capital = "Murzuk"
 is_city = yes
 culture = berber
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 1
 base_manpower = 2
 add_core = TLC
-add_core = Z19
+add_core = Z0J
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

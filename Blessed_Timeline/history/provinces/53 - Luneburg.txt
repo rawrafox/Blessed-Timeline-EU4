@@ -1,5 +1,5 @@
-owner = Z53
-controller = Z53
+owner = Z1H
+controller = Z1H
 capital = "Lüneburg"
 is_city = yes
 culture = lower_saxon
@@ -9,7 +9,7 @@ hre = yes
 base_tax = 5
 base_production = 4
 base_manpower = 5
-add_core = Z53
+add_core = Z1H
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

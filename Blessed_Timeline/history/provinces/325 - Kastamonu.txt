@@ -1,5 +1,5 @@
-owner = Z17
-controller = Z17
+owner = Z0H
+controller = Z0H
 capital = "Kastamonu"
 is_city = yes
 culture = anatolian
@@ -10,7 +10,7 @@ base_tax = 5
 base_production = 4
 base_manpower = 5
 add_core = BYZ
-add_core = Z17
+add_core = Z0H
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

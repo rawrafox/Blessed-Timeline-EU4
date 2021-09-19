@@ -1,5 +1,5 @@
-owner = Y06
-controller = Y06
+owner = Z2Y
+controller = Z2Y
 capital = "Yasi"
 is_city = yes
 culture = turkmeni
@@ -8,7 +8,7 @@ trade_goods = grain
 base_tax = 3
 base_production = 3
 base_manpower = 2
-add_core = Y06
+add_core = Z2Y
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

@@ -32,7 +32,7 @@ add_accepted_culture = andalucian
 		death_date = 1464.10.27
 		female = yes
 		religion = sunni
-		culture = andalucian
+		culture = czech
 	}
 	add_queen_personality = craven_personality
 	add_queen_personality = righteous_personality

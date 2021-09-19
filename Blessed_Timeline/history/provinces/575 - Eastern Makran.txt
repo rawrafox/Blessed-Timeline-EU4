@@ -1,5 +1,5 @@
-owner = Z29
-controller = Z29
+owner = Z0T
+controller = Z0T
 capital = "Gwadar"
 is_city = yes
 culture = baluchi
@@ -9,7 +9,7 @@ base_tax = 6
 base_production = 3
 base_manpower = 3
 add_core = BAL
-add_core = Z29
+add_core = Z0T
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

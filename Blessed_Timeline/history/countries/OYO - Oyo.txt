@@ -30,7 +30,7 @@ add_accepted_culture = yorumba
 		death_date = 1463.5.10
 		female = yes
 		religion = ibadi
-		culture = yorumba
+		culture = aka
 	}
 	add_queen_personality = inspiring_leader_personality
 	add_queen_personality = tactical_genius_personality

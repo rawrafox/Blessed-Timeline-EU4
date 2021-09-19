@@ -6,7 +6,7 @@ religion = sunni
 primary_culture = berber
 capital = 1115
 religious_school = maliki_school
-add_accepted_culture = berber
+add_accepted_culture = bozo
 add_accepted_culture = moroccan
 1444.11.11= {
 	monarch = {
@@ -32,7 +32,7 @@ add_accepted_culture = moroccan
 		death_date = 1480.7.15
 		female = yes
 		religion = sunni
-		culture = berber
+		culture = bozo
 	}
 	add_queen_personality = intricate_web_weaver_personality
 	add_queen_personality = secretive_personality

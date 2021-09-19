@@ -1,5 +1,5 @@
-owner = Z65
-controller = Z65
+owner = Z1T
+controller = Z1T
 capital = "Khovsgol"
 is_city = yes
 culture = khalkha
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 add_core = KLK
-add_core = Z65
+add_core = Z1T
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

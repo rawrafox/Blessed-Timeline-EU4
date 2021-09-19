@@ -1,5 +1,5 @@
 ck2_converter_generated = yes
-graphical_culture = westerngfx
+graphical_culture = easterngfx
 color = { 75 110 105 }
 monarch_names = {
 	"Adalgod #0" = 0

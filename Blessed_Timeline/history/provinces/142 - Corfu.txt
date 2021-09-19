@@ -1,5 +1,5 @@
-owner = Z17
-controller = Z17
+owner = Z0H
+controller = Z0H
 capital = "Corfu"
 is_city = yes
 culture = greek
@@ -9,7 +9,7 @@ fort_15th = yes
 base_tax = 2
 base_production = 3
 base_manpower = 3
-add_core = Z17
+add_core = Z0H
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

@@ -1,5 +1,5 @@
 ck2_converter_generated = yes
-graphical_culture = westerngfx
+graphical_culture = asiangfx
 color = { 128 11 61 }
 monarch_names = {
 	"Bönpo #0" = 0

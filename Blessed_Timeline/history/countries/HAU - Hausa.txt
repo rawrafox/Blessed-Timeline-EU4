@@ -3,7 +3,7 @@ add_government_reform = iqta
 government_rank = 2
 technology_group = sub_saharan
 religion = ibadi
-primary_culture = berber
+primary_culture = hausa
 capital = 2273
 add_accepted_culture = berber
 add_accepted_culture = hausa
@@ -16,7 +16,7 @@ add_accepted_culture = hausa
 		mil = 4
 		birth_date = 1382.4.17
 		religion = ibadi
-		culture = berber
+		culture = hausa
 	}
 	add_ruler_personality = strict_personality
 	add_ruler_personality = zealot_personality
@@ -31,7 +31,7 @@ add_accepted_culture = hausa
 		death_date = 1465.10.20
 		female = yes
 		religion = ibadi
-		culture = berber
+		culture = hausa
 	}
 	add_queen_personality = obsessive_perfectionist_personality
 	add_queen_personality = tactical_genius_personality
@@ -46,7 +46,7 @@ add_accepted_culture = hausa
 		death_date = 1474.7.16
 		claim = 89
 		religion = ibadi
-		culture = berber
+		culture = hausa
 	}
 	add_heir_personality = embezzler_personality
 	add_heir_personality = obsessive_perfectionist_personality

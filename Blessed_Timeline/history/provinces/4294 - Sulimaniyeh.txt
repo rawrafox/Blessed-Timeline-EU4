@@ -1,5 +1,5 @@
-owner = Y86
-controller = Y86
+owner = Z56
+controller = Z56
 capital = "Sulimaniyeh"
 is_city = yes
 culture = azerbaijani
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 add_core = ARL
-add_core = Y86
+add_core = Z56
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

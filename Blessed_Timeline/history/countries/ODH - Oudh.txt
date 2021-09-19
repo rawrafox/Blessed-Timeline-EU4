@@ -6,7 +6,7 @@ religion = buddhism
 primary_culture = bedouin_arabic
 capital = 2059
 mercantilism = 15
-add_accepted_culture = bedouin_arabic
+add_accepted_culture = avadhi
 1444.11.11= {
 	monarch = {
 		name = "Yasmin"
@@ -31,7 +31,7 @@ add_accepted_culture = bedouin_arabic
 		birth_date = 1402.4.26
 		death_date = 1462.4.26
 		religion = buddhism
-		culture = bedouin_arabic
+		culture = assamese
 	}
 	add_queen_personality = midas_touched_personality
 	add_queen_personality = tolerant_personality

@@ -47,7 +47,7 @@ add_accepted_culture = sidamo
 		death_date = 1491.11.8
 		claim = 89
 		religion = sunni
-		culture = sidamo
+		culture = amhara
 	}
 	add_heir_personality = silver_tongue_personality
 	add_heir_personality = well_connected_personality

@@ -1,5 +1,5 @@
-owner = Z91
-controller = Z91
+owner = Z2J
+controller = Z2J
 capital = "Novara"
 is_city = yes
 culture = lombard
@@ -9,7 +9,7 @@ hre = yes
 base_tax = 4
 base_production = 4
 base_manpower = 3
-add_core = Z91
+add_core = Z2J
 add_permanent_claim = ITA
 discovered_by = eastern
 discovered_by = indian

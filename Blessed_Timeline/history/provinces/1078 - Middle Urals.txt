@@ -1,5 +1,5 @@
-owner = Z26
-controller = Z26
+owner = Z0Q
+controller = Z0Q
 capital = "Neromkar"
 is_city = yes
 culture = bashkir
@@ -8,7 +8,7 @@ trade_goods = unknown
 base_tax = 3
 base_production = 2
 base_manpower = 2
-add_core = Z26
+add_core = Z0Q
 add_permanent_claim = BSH
 discovered_by = eastern
 discovered_by = indian

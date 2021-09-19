@@ -1,5 +1,5 @@
-owner = Z96
-controller = Z96
+owner = Z2O
+controller = Z2O
 capital = "Sahda"
 is_city = yes
 culture = yemeni_culture
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 3
 base_manpower = 3
 add_core = ADE
-add_core = Z96
+add_core = Z2O
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

@@ -1,0 +1,12 @@
+government = monarchy
+add_government_reform = rajput_kingdom
+government_rank = 1
+technology_group = indian
+religion = buddhism
+primary_culture = rajput
+capital = 4506
+fixed_capital = 4506
+1444.11.11= {
+	add_prestige = 73
+	add_treasury = 66
+}

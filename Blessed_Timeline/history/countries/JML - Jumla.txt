@@ -1,9 +1,9 @@
 government = monarchy
 add_government_reform = iqta
 government_rank = 1
-technology_group = indian
+technology_group = chinese
 religion = sunni
-primary_culture = nepali
+primary_culture = tibetan
 capital = 554
 fixed_capital = 554
 religious_school = hanbali_school

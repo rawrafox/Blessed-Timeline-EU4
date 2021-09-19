@@ -1,5 +1,5 @@
-owner = Z80
-controller = Z80
+owner = Z28
+controller = Z28
 capital = "Herat"
 is_city = yes
 culture = khorasani
@@ -10,7 +10,7 @@ base_production = 1
 base_manpower = 3
 extra_cost = 16
 center_of_trade = 2
-add_core = Z80
+add_core = Z28
 add_permanent_claim = KHO
 discovered_by = eastern
 discovered_by = indian

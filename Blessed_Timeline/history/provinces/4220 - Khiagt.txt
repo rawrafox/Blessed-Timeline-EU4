@@ -1,5 +1,5 @@
-owner = Z88
-controller = Z88
+owner = Z2G
+controller = Z2G
 capital = "Khiagt"
 is_city = yes
 culture = khalkha
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 2
 base_manpower = 2
 add_core = KLK
-add_core = Z88
+add_core = Z2G
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

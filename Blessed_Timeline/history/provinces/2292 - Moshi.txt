@@ -1,5 +1,5 @@
-owner = Y42
-controller = Y42
+owner = Z3Y
+controller = Z3Y
 capital = "Bajibo"
 is_city = yes
 culture = yorumba
@@ -8,7 +8,7 @@ trade_goods = tropical_wood
 base_tax = 2
 base_production = 3
 base_manpower = 2
-add_core = Y42
+add_core = Z3Y
 add_permanent_claim = Z05
 discovered_by = eastern
 discovered_by = indian

@@ -1,10 +1,11 @@
 government = monarchy
-add_government_reform = rajput_kingdom
+add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = indian
 religion = buddhism
-primary_culture = rajput
+primary_culture = avadhi
 capital = 514
+add_accepted_culture = avadhi
 add_accepted_culture = rajput
 1444.11.11= {
 	monarch = {
@@ -15,7 +16,7 @@ add_accepted_culture = rajput
 		mil = 4
 		birth_date = 1396.8.12
 		religion = buddhism
-		culture = rajput
+		culture = avadhi
 	}
 	add_ruler_personality = calm_personality
 	add_ruler_personality = careful_personality
@@ -45,7 +46,7 @@ add_accepted_culture = rajput
 		death_date = 1484.10.27
 		claim = 89
 		religion = buddhism
-		culture = rajput
+		culture = avadhi
 	}
 	add_heir_personality = just_personality
 	add_heir_personality = strict_personality

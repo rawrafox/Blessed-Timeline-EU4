@@ -1,5 +1,5 @@
-owner = Z91
-controller = Z91
+owner = Z2J
+controller = Z2J
 capital = "Como"
 is_city = yes
 culture = lombard
@@ -9,7 +9,7 @@ hre = yes
 base_tax = 3
 base_production = 4
 base_manpower = 3
-add_core = Z91
+add_core = Z2J
 add_permanent_claim = ITA
 add_permanent_claim = MLO
 discovered_by = eastern

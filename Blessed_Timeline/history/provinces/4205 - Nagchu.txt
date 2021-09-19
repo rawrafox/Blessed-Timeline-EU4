@@ -1,5 +1,5 @@
-owner = Z93
-controller = Z93
+owner = Z2L
+controller = Z2L
 capital = "Nagchu"
 is_city = yes
 culture = tibetan
@@ -8,7 +8,7 @@ trade_goods = livestock
 base_tax = 6
 base_production = 1
 base_manpower = 4
-add_core = Z93
+add_core = Z2L
 add_permanent_claim = KAM
 discovered_by = eastern
 discovered_by = indian

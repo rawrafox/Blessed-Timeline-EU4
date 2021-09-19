@@ -1,5 +1,5 @@
-owner = Z17
-controller = Z17
+owner = Z0H
+controller = Z0H
 capital = "Sayda"
 is_city = yes
 culture = seleucian
@@ -8,7 +8,7 @@ trade_goods = naval_supplies
 base_tax = 3
 base_production = 4
 base_manpower = 4
-add_core = Z17
+add_core = Z0H
 add_permanent_claim = KOJ
 discovered_by = eastern
 discovered_by = indian

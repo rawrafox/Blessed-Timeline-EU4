@@ -1,5 +1,5 @@
-owner = Y90
-controller = Y90
+owner = Z5A
+controller = Z5A
 capital = "Tikrit"
 is_city = yes
 culture = assyrian
@@ -9,7 +9,7 @@ base_tax = 5
 base_production = 4
 base_manpower = 4
 add_core = SYR
-add_core = Y90
+add_core = Z5A
 add_permanent_claim = IRQ
 discovered_by = eastern
 discovered_by = indian

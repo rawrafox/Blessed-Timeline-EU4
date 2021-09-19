@@ -1,5 +1,5 @@
 ck2_converter_generated = yes
-graphical_culture = asiangfx
+graphical_culture = indiangfx
 color = { 215 12 64 }
 revolutionary_colors = { 13 16 0 }
 historical_idea_groups = {

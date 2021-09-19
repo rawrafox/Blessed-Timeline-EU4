@@ -31,7 +31,7 @@ add_accepted_culture = sidamo
 		death_date = 1478.3.3
 		female = yes
 		religion = sunni
-		culture = sidamo
+		culture = amhara
 	}
 	add_queen_personality = charismatic_negotiator_personality
 	add_queen_personality = just_personality
@@ -46,7 +46,7 @@ add_accepted_culture = sidamo
 		death_date = 1509.8.17
 		claim = 89
 		religion = sunni
-		culture = sidamo
+		culture = amhara
 	}
 	add_heir_personality = well_connected_personality
 	add_heir_personality = zealot_personality

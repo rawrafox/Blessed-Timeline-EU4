@@ -1,5 +1,5 @@
-owner = Z25
-controller = Z25
+owner = Z0P
+controller = Z0P
 capital = "Ondo"
 is_city = yes
 culture = yorumba
@@ -8,7 +8,7 @@ trade_goods = coffee
 base_tax = 1
 base_production = 1
 base_manpower = 2
-add_core = Z25
+add_core = Z0P
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

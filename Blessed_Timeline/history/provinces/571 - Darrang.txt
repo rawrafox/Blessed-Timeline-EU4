@@ -1,5 +1,5 @@
-owner = Z81
-controller = Z81
+owner = Z29
+controller = Z29
 capital = "Koliabar"
 is_city = yes
 culture = assamese
@@ -8,7 +8,7 @@ trade_goods = silk
 base_tax = 4
 base_production = 4
 base_manpower = 3
-add_core = Z81
+add_core = Z29
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

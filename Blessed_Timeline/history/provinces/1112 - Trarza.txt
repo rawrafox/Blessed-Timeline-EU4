@@ -1,5 +1,5 @@
-owner = Y09
-controller = Y09
+owner = Z31
+controller = Z31
 capital = "Awlil"
 is_city = yes
 culture = senegambian
@@ -8,7 +8,7 @@ trade_goods = salt
 base_tax = 4
 base_production = 3
 base_manpower = 3
-add_core = Y09
+add_core = Z31
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

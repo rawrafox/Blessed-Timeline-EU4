@@ -1,5 +1,5 @@
-owner = Y08
-controller = Y08
+owner = Z30
+controller = Z30
 capital = "Al Mukalla"
 is_city = yes
 culture = yemeni_culture
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 3
 base_manpower = 2
 add_core = ADE
-add_core = Y08
+add_core = Z30
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

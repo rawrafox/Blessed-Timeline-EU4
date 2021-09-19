@@ -1,5 +1,5 @@
-owner = Z21
-controller = Z21
+owner = Z0L
+controller = Z0L
 capital = "Oujda"
 is_city = yes
 culture = algerian
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 3
 base_manpower = 3
 add_core = ALG
-add_core = Z21
+add_core = Z0L
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

@@ -1,5 +1,5 @@
-owner = Z40
-controller = Z40
+owner = Z14
+controller = Z14
 capital = "Tomsk"
 is_city = yes
 culture = kirgiz
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 2
 base_manpower = 2
 add_core = CHG
-add_core = Z40
+add_core = Z14
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim
