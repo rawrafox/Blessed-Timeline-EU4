@@ -30,7 +30,7 @@ add_accepted_culture = uralic
 		death_date = 1458.6.23
 		female = yes
 		religion = converted_dynamic_faith_104
-		culture = norse
+		culture = icelandic
 	}
 	add_queen_personality = free_thinker_personality
 	add_queen_personality = infertile_personality

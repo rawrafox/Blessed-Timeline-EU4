@@ -1,5 +1,5 @@
-owner = Z0Z
-controller = Z0Z
+owner = Z0Y
+controller = Z0Y
 capital = "Altyn"
 is_city = yes
 culture = cuman
@@ -9,7 +9,7 @@ base_tax = 1
 base_production = 2
 base_manpower = 2
 add_core = CMN
-add_core = Z0Z
+add_core = Z0Y
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

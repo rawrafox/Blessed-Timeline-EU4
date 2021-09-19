@@ -1,5 +1,5 @@
-owner = Z5C
-controller = Z5C
+owner = Z52
+controller = Z52
 capital = "Sherbro"
 is_city = yes
 culture = tajik
@@ -8,7 +8,7 @@ trade_goods = unknown
 base_tax = 4
 base_production = 1
 base_manpower = 3
-add_core = Z5C
+add_core = Z52
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

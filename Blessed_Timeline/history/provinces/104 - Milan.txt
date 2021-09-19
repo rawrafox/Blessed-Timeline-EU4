@@ -1,5 +1,5 @@
-owner = MLO
-controller = MLO
+owner = ITA
+controller = ITA
 capital = "Milano"
 is_city = yes
 culture = czech
@@ -12,8 +12,7 @@ base_production = 4
 base_manpower = 5
 extra_cost = 16
 center_of_trade = 2
-add_core = MLO
-add_permanent_claim = ITA
+add_core = ITA
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

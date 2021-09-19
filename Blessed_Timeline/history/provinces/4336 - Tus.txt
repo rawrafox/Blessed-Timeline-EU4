@@ -1,5 +1,5 @@
-owner = Z3N
-controller = Z3N
+owner = Z3D
+controller = Z3D
 capital = "Tun"
 is_city = yes
 culture = tajik
@@ -8,7 +8,7 @@ trade_goods = spices
 base_tax = 4
 base_production = 2
 base_manpower = 3
-add_core = Z3N
+add_core = Z3D
 add_permanent_claim = KHO
 discovered_by = eastern
 discovered_by = indian

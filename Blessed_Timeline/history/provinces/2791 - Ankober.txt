@@ -1,5 +1,5 @@
-owner = Z2A
-controller = Z2A
+owner = Z28
+controller = Z28
 capital = "Ankober"
 is_city = yes
 culture = amhara
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 1
 base_manpower = 3
 add_core = ETH
-add_core = Z2A
+add_core = Z28
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

@@ -1,5 +1,5 @@
-owner = Z0T
-controller = Z0T
+owner = DLH
+controller = DLH
 capital = "Pugal"
 is_city = yes
 culture = rajput
@@ -8,8 +8,8 @@ trade_goods = livestock
 base_tax = 2
 base_production = 4
 base_manpower = 3
+add_core = DLH
 add_core = MER
-add_core = Z0T
 add_permanent_claim = JAN
 discovered_by = eastern
 discovered_by = indian

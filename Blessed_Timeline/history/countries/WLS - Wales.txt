@@ -3,7 +3,7 @@ add_government_reform = feudalism_reform
 government_rank = 2
 technology_group = western
 religion = converted_dynamic_faith_104
-primary_culture = norse
+primary_culture = austmen
 capital = 4366
 add_accepted_culture = mercian
 add_accepted_culture = scottish
@@ -17,7 +17,7 @@ add_accepted_culture = scottish
 		birth_date = 1371.5.10
 		female = yes
 		religion = converted_dynamic_faith_104
-		culture = norse
+		culture = austmen
 	}
 	add_ruler_personality = charismatic_negotiator_personality
 	add_ruler_personality = infertile_personality
@@ -47,7 +47,7 @@ add_accepted_culture = scottish
 		female = yes
 		claim = 89
 		religion = converted_dynamic_faith_104
-		culture = norse
+		culture = icelandic
 	}
 	add_heir_personality = conqueror_personality
 	add_heir_personality = tactical_genius_personality

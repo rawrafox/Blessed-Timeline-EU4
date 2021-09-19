@@ -1,5 +1,5 @@
-owner = KRL
-controller = KRL
+owner = NOR
+controller = NOR
 capital = "Lieksa"
 is_city = yes
 culture = finnish
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 3
 base_manpower = 3
 add_core = FIN
-add_core = KRL
+add_core = NOR
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

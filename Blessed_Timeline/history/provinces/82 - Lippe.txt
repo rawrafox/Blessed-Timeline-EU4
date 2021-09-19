@@ -1,5 +1,5 @@
-owner = Z5M
-controller = Z5M
+owner = Z5C
+controller = Z5C
 capital = "Arnsberg"
 is_city = yes
 culture = hannoverian
@@ -10,7 +10,7 @@ base_tax = 2
 base_production = 4
 base_manpower = 3
 add_core = WES
-add_core = Z5M
+add_core = Z5C
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

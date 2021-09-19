@@ -1,5 +1,5 @@
-owner = Z0W
-controller = Z0W
+owner = Z0V
+controller = Z0V
 capital = "Bayuly"
 is_city = yes
 culture = kirgiz
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 add_core = CHG
-add_core = Z0W
+add_core = Z0V
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

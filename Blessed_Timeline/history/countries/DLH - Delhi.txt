@@ -6,7 +6,6 @@ religion = mahayana
 primary_culture = kanauji
 capital = 522
 mercantilism = 15
-add_accepted_culture = avadhi
 1444.11.11= {
 	monarch = {
 		name = "Kakhopal"

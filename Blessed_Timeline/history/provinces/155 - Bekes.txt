@@ -5,6 +5,7 @@ is_city = yes
 culture = hungarian
 religion = catholic
 trade_goods = wine
+fort_15th = yes
 base_tax = 2
 base_production = 3
 base_manpower = 3

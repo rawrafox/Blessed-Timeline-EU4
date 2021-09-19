@@ -33,7 +33,7 @@ union=
 union=
 {
 	first="FKN"
-	second="Z41"
+	second="Z3R"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
@@ -64,7 +64,7 @@ union=
 
 union=
 {
-	first="Z2T"
+	first="Z2N"
 	second="MAK"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
@@ -96,7 +96,7 @@ union=
 
 union=
 {
-	first="Z4M"
+	first="Z4C"
 	second="KRM"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
@@ -104,7 +104,7 @@ union=
 
 union=
 {
-	first="Z13"
+	first="Z12"
 	second="HAB"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
@@ -121,7 +121,7 @@ union=
 union=
 {
 	first="CIR"
-	second="Z15"
+	second="Z14"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
@@ -129,7 +129,7 @@ union=
 union=
 {
 	first="CIR"
-	second="Z1K"
+	second="Z1J"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
@@ -153,7 +153,7 @@ union=
 union=
 {
 	first="VER"
-	second="Z4I"
+	second="Z48"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
@@ -161,7 +161,7 @@ union=
 union=
 {
 	first="VER"
-	second="Z4S"
+	second="Z4I"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }

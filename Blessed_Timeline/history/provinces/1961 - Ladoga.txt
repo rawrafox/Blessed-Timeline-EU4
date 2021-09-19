@@ -8,6 +8,7 @@ trade_goods = fur
 base_tax = 3
 base_production = 1
 base_manpower = 4
+add_core = KRL
 add_core = NOV
 discovered_by = eastern
 discovered_by = indian

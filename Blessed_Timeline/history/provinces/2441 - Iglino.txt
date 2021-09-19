@@ -1,5 +1,5 @@
-owner = Z0U
-controller = Z0U
+owner = Z0T
+controller = Z0T
 capital = "Iglino"
 is_city = yes
 culture = nogaybak
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 1
 base_manpower = 2
 add_core = NOG
-add_core = Z0U
+add_core = Z0T
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

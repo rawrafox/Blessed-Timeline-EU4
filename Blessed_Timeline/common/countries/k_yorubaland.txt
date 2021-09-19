@@ -6,6 +6,7 @@ monarch_names = {
 	"Abieyuwa #0" = 0
 	"Adesuwa #0" = -1
 	"Aisosa #0" = 0
+	"Amenaghawon #0" = -1
 	"Amita #0" = -1
 	"Badra #0" = -1
 	"Ehigiator #0" = 0

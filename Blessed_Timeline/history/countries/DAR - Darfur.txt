@@ -6,6 +6,7 @@ religion = shiite
 primary_culture = tuareg
 capital = 774
 religious_school = ismaili_school
+add_accepted_culture = daju
 1444.11.11= {
 	monarch = {
 		name = "Hussayn"

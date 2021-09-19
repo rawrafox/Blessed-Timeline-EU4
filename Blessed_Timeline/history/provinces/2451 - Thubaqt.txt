@@ -1,5 +1,5 @@
-owner = Z2Z
-controller = Z2Z
+owner = Z2T
+controller = Z2T
 capital = "Thubaqt"
 is_city = yes
 culture = berber
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 1
 base_manpower = 3
 add_core = TLC
-add_core = Z2Z
+add_core = Z2T
 add_permanent_claim = AFR
 discovered_by = eastern
 discovered_by = indian

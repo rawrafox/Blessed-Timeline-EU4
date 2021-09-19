@@ -1,5 +1,5 @@
-owner = Z2M
-controller = Z2M
+owner = Z2G
+controller = Z2G
 capital = "Dharwar"
 is_city = yes
 culture = kannada
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 add_core = MYS
-add_core = Z2M
+add_core = Z2G
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

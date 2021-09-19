@@ -1,5 +1,5 @@
-owner = Z4S
-controller = Z4S
+owner = Z4I
+controller = Z4I
 capital = "Marburg"
 is_city = yes
 culture = hessian
@@ -9,7 +9,7 @@ hre = yes
 base_tax = 5
 base_production = 3
 base_manpower = 4
-add_core = Z4S
+add_core = Z4I
 add_permanent_claim = HES
 discovered_by = eastern
 discovered_by = indian

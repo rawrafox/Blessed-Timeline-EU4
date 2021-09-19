@@ -1,5 +1,5 @@
-owner = Z2D
-controller = Z2D
+owner = KOJ
+controller = KOJ
 capital = "Halaib"
 is_city = yes
 culture = al_misr_arabic
@@ -8,8 +8,8 @@ trade_goods = slaves
 base_tax = 2
 base_production = 3
 base_manpower = 3
+add_core = KOJ
 add_core = MAM
-add_core = Z2D
 add_permanent_claim = BEJ
 discovered_by = eastern
 discovered_by = indian

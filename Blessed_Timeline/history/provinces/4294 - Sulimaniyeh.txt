@@ -1,5 +1,5 @@
-owner = Z56
-controller = Z56
+owner = Z4W
+controller = Z4W
 capital = "Sulimaniyeh"
 is_city = yes
 culture = azerbaijani
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 add_core = ARL
-add_core = Z56
+add_core = Z4W
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

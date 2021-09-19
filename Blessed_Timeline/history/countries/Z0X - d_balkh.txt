@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = muslim
+religion = sunni
+primary_culture = tajik
+capital = 450
+religious_school = hanbali_school
+add_accepted_culture = tajik
+1444.11.11= {
+	monarch = {
+		name = "Rastin II"
+		dynasty = "Rastin"
+		adm = 4
+		dip = 6
+		mil = 6
+		birth_date = 1384.3.4
+		religion = sunni
+		culture = tajik
+	}
+	add_ruler_personality = silver_tongue_personality
+	add_ruler_personality = well_connected_personality
+	queen = {
+		name = "Vasu"
+		dynasty = "Lahurid"
+		adm = 4
+		dip = 4
+		mil = 4
+		country_of_origin = Z0X
+		birth_date = 1380.2.23
+		death_date = 1440.2.23
+		female = yes
+		religion = sunni
+		culture = kashmiri
+	}
+	add_queen_personality = careful_personality
+	add_queen_personality = tolerant_personality
+	heir = {
+		name = "Ruzbeh"
+		monarch_name = "Ruzbeh"
+		dynasty = "Rastin"
+		adm = 6
+		dip = 6
+		mil = 6
+		birth_date = 1402.6.15
+		death_date = 1467.6.15
+		claim = 89
+		religion = sunni
+		culture = tajik
+	}
+	add_heir_personality = lawgiver_personality
+	add_heir_personality = midas_touched_personality
+}
+1444.11.11= {
+	add_prestige = 84
+	add_treasury = 54
+}

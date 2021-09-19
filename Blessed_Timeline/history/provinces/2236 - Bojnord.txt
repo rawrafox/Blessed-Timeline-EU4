@@ -1,5 +1,5 @@
-owner = Z1D
-controller = Z1D
+owner = Z1C
+controller = Z1C
 capital = "Bojnord"
 is_city = yes
 culture = khorasani
@@ -8,7 +8,7 @@ trade_goods = wool
 base_tax = 4
 base_production = 3
 base_manpower = 3
-add_core = Z1D
+add_core = Z1C
 add_permanent_claim = Z08
 discovered_by = eastern
 discovered_by = indian

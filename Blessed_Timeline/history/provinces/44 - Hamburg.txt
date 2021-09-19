@@ -1,5 +1,5 @@
-owner = Z1H
-controller = Z1H
+owner = Z1G
+controller = Z1G
 capital = "Hamburg"
 is_city = yes
 culture = lower_saxon
@@ -11,7 +11,7 @@ base_production = 4
 base_manpower = 3
 extra_cost = 26
 center_of_trade = 2
-add_core = Z1H
+add_core = Z1G
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

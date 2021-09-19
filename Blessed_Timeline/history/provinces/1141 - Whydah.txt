@@ -8,6 +8,7 @@ trade_goods = unknown
 base_tax = 1
 base_production = 1
 base_manpower = 2
+add_core = OYO
 add_core = Z0P
 discovered_by = eastern
 discovered_by = indian

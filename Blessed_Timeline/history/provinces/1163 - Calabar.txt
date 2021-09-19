@@ -1,5 +1,5 @@
-owner = Z1F
-controller = Z1F
+owner = Z1E
+controller = Z1E
 capital = "Calabar"
 is_city = yes
 culture = nupe
@@ -12,7 +12,7 @@ base_manpower = 2
 extra_cost = 8
 center_of_trade = 1
 add_core = NUP
-add_core = Z1F
+add_core = Z1E
 add_permanent_claim = Z0B
 discovered_by = eastern
 discovered_by = indian

@@ -1,5 +1,5 @@
-owner = Z2F
-controller = Z2F
+owner = Z2B
+controller = Z2B
 capital = "Ingolstadt"
 is_city = yes
 culture = bavarian
@@ -10,7 +10,7 @@ hre = yes
 base_tax = 4
 base_production = 3
 base_manpower = 3
-add_core = Z2F
+add_core = Z2B
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

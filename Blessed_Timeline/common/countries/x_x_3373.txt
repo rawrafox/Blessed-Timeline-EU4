@@ -3,6 +3,7 @@ graphical_culture = westerngfx
 color = { 236 214 104 }
 monarch_names = {
 	"Abbilardu #0" = -1
+	"Alessiu #0" = -1
 	"Alžbeta #0" = -1
 	"Annirea #1" = 10
 	"Antoniu #0" = 0

@@ -1,5 +1,5 @@
-owner = MLO
-controller = MLO
+owner = ITA
+controller = ITA
 capital = "Pavia"
 is_city = yes
 culture = lombard
@@ -9,8 +9,8 @@ hre = yes
 base_tax = 5
 base_production = 4
 base_manpower = 3
+add_core = ITA
 add_core = MLO
-add_permanent_claim = ITA
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

@@ -1,5 +1,5 @@
-owner = Z20
-controller = Z20
+owner = Z1Y
+controller = Z1Y
 capital = "Doti"
 is_city = yes
 culture = panjabi
@@ -8,7 +8,7 @@ trade_goods = wool
 base_tax = 5
 base_production = 4
 base_manpower = 3
-add_core = Z20
+add_core = Z1Y
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

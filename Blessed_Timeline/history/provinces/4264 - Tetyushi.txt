@@ -1,5 +1,5 @@
-owner = Z2B
-controller = Z2B
+owner = MDV
+controller = MDV
 capital = "Tetyushi"
 is_city = yes
 culture = cuman
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 add_core = CMN
-add_core = Z2B
+add_core = MDV
 add_permanent_claim = Z0N
 discovered_by = eastern
 discovered_by = indian

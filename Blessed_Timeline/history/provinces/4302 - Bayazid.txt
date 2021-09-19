@@ -1,5 +1,5 @@
-owner = Z3M
-controller = Z3M
+owner = Z3C
+controller = Z3C
 capital = "Bayazid"
 is_city = yes
 culture = armenian
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 3
 base_manpower = 4
 add_core = ARM
-add_core = Z3M
+add_core = Z3C
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

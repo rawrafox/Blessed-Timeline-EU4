@@ -1,5 +1,5 @@
-owner = Z3L
-controller = Z3L
+owner = Z3B
+controller = Z3B
 capital = "Munjan"
 is_city = yes
 culture = afghani
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 3
 base_manpower = 3
 add_core = AFG
-add_core = Z3L
+add_core = Z3B
 add_permanent_claim = TRS
 discovered_by = eastern
 discovered_by = indian

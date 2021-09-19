@@ -1,5 +1,5 @@
-owner = Z3J
-controller = Z3J
+owner = Z39
+controller = Z39
 capital = "Khankendi"
 is_city = yes
 culture = azerbaijani
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 3
 base_manpower = 3
 add_core = ARL
-add_core = Z3J
+add_core = Z39
 add_permanent_claim = SRV
 add_permanent_claim = Z08
 discovered_by = eastern

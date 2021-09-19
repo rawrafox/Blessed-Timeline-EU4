@@ -1,5 +1,5 @@
-owner = Z2S
-controller = Z2S
+owner = Z2M
+controller = Z2M
 capital = "Sennar"
 is_city = yes
 culture = nubian
@@ -9,7 +9,7 @@ fort_15th = yes
 base_tax = 5
 base_production = 4
 base_manpower = 5
-add_core = Z2S
+add_core = Z2M
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

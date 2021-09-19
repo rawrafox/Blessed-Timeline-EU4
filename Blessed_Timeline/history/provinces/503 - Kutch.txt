@@ -1,5 +1,5 @@
-owner = Z0T
-controller = Z0T
+owner = DLH
+controller = DLH
 capital = "Lakhiyarvira"
 is_city = yes
 culture = gujarati
@@ -8,7 +8,7 @@ trade_goods = salt
 base_tax = 4
 base_production = 4
 base_manpower = 3
-add_core = Z0T
+add_core = DLH
 add_permanent_claim = GUJ
 discovered_by = eastern
 discovered_by = indian

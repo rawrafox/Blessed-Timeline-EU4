@@ -1,5 +1,5 @@
-owner = Z47
-controller = Z47
+owner = Z3X
+controller = Z3X
 capital = "Memmingen"
 is_city = yes
 culture = swabian
@@ -9,7 +9,7 @@ hre = yes
 base_tax = 5
 base_production = 4
 base_manpower = 5
-add_core = Z47
+add_core = Z3X
 add_permanent_claim = SWA
 discovered_by = eastern
 discovered_by = indian

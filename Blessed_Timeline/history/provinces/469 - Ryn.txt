@@ -1,5 +1,5 @@
-owner = Z1I
-controller = Z1I
+owner = Z1H
+controller = Z1H
 capital = "Ryn"
 is_city = yes
 culture = georgian
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 2
 base_manpower = 2
 add_core = GEO
-add_core = Z1I
+add_core = Z1H
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

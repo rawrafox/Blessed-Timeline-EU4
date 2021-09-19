@@ -44,6 +44,7 @@ monarch_names = {
 	"Malsnectan #1" = 10
 	"Marthe #0" = -1
 	"Matthaios #1" = 10
+	"Muzaffaraddin #0" = -1
 	"Mélusine #0" = -1
 	"Nicolas #0" = 0
 	"Orson #0" = -1

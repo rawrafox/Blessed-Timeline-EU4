@@ -1,5 +1,5 @@
-owner = Z4D
-controller = Z4D
+owner = Z43
+controller = Z43
 capital = "Marib"
 is_city = yes
 culture = yemeni_culture
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 1
 base_manpower = 3
 add_core = ADE
-add_core = Z4D
+add_core = Z43
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

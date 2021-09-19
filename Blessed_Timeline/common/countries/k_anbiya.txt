@@ -11,6 +11,7 @@ monarch_names = {
 	"Amita #0" = -1
 	"Amray #0" = 0
 	"Antalas #0" = 0
+	"Berkan #0" = -1
 	"Buwayh #2" = 10
 	"Dalal #0" = -1
 	"Ghumer #1" = 10

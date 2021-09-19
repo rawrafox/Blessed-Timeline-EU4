@@ -1,5 +1,5 @@
-owner = Z5B
-controller = Z5B
+owner = Z51
+controller = Z51
 capital = "Meppen"
 is_city = yes
 culture = hannoverian
@@ -10,7 +10,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 add_core = WES
-add_core = Z5B
+add_core = Z51
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim
