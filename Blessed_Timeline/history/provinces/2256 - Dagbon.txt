@@ -1,5 +1,5 @@
-owner = Z26
-controller = Z26
+owner = Z24
+controller = Z24
 capital = "Yendi"
 is_city = yes
 culture = mali
@@ -8,7 +8,7 @@ trade_goods = dyes
 base_tax = 3
 base_production = 1
 base_manpower = 2
-add_core = Z26
+add_core = Z24
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

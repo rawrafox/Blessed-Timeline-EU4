@@ -1,5 +1,5 @@
-owner = Z2X
-controller = Z2X
+owner = Z2R
+controller = Z2R
 capital = "Bukhara"
 is_city = yes
 culture = tajik
@@ -9,7 +9,7 @@ fort_15th = yes
 base_tax = 4
 base_production = 3
 base_manpower = 3
-add_core = Z2X
+add_core = Z2R
 add_permanent_claim = TRS
 discovered_by = eastern
 discovered_by = indian

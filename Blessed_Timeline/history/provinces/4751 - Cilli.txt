@@ -1,5 +1,5 @@
-owner = Z1Y
-controller = Z1Y
+owner = Z1W
+controller = Z1W
 capital = "Celje"
 is_city = yes
 culture = croatian
@@ -9,7 +9,7 @@ hre = yes
 base_tax = 2
 base_production = 3
 base_manpower = 3
-add_core = Z1Y
+add_core = Z1W
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

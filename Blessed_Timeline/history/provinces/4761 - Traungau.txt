@@ -1,5 +1,5 @@
-owner = Z2F
-controller = Z2F
+owner = Z2B
+controller = Z2B
 capital = "Steyr"
 is_city = yes
 culture = czech
@@ -9,7 +9,7 @@ hre = yes
 base_tax = 2
 base_production = 3
 base_manpower = 3
-add_core = Z2F
+add_core = Z2B
 add_permanent_claim = SLZ
 discovered_by = eastern
 discovered_by = indian

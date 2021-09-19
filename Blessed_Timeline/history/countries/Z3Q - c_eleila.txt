@@ -1,0 +1,58 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = east_african
+religion = shiite
+primary_culture = nubian
+capital = 1222
+fixed_capital = 1222
+religious_school = ismaili_school
+add_accepted_culture = nubian
+1444.11.11= {
+	monarch = {
+		name = "Merkourios II"
+		dynasty = "Alimid"
+		adm = 3
+		dip = 4
+		mil = 4
+		birth_date = 1390.3.9
+		religion = shiite
+		culture = nubian
+	}
+	add_ruler_personality = greedy_personality
+	add_ruler_personality = midas_touched_personality
+	queen = {
+		name = "Pelagia"
+		dynasty = "Aghlabid"
+		adm = 4
+		dip = 3
+		mil = 5
+		country_of_origin = Z3Q
+		birth_date = 1428.1.9
+		death_date = 1488.1.9
+		female = yes
+		religion = shiite
+		culture = nubian
+	}
+	add_queen_personality = strict_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Petrou"
+		monarch_name = "Petrou"
+		dynasty = "Alimid"
+		adm = 1
+		dip = 2
+		mil = 2
+		birth_date = 1439.9.21
+		death_date = 1504.9.21
+		claim = 89
+		religion = shiite
+		culture = nubian
+	}
+	add_heir_personality = just_personality
+	add_heir_personality = naive_personality
+}
+1444.11.11= {
+	add_prestige = 74
+	add_treasury = 67
+}

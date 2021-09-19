@@ -1,5 +1,5 @@
-owner = Z18
-controller = Z18
+owner = Z17
+controller = Z17
 capital = "Al Mawsil"
 is_city = yes
 culture = seleucian
@@ -8,7 +8,7 @@ trade_goods = cloth
 base_tax = 5
 base_production = 4
 base_manpower = 4
-add_core = Z18
+add_core = Z17
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

@@ -63,6 +63,7 @@ monarch_names = {
 	"Stepan #1" = 10
 	"Sviatopolk #2" = 10
 	"Sviatoslav #1" = 10
+	"Vikay #0" = -1
 	"Vladimir #1" = 10
 	"Yaropolk #1" = 10
 	"Yaroslav #2" = 10

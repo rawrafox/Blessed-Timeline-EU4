@@ -1,5 +1,5 @@
-owner = Z4N
-controller = Z4N
+owner = Z4D
+controller = Z4D
 capital = "Pelym"
 is_city = yes
 culture = ostyaki
@@ -8,7 +8,7 @@ trade_goods = unknown
 base_tax = 1
 base_production = 2
 base_manpower = 2
-add_core = Z4N
+add_core = Z4D
 add_permanent_claim = Z0Q
 discovered_by = eastern
 discovered_by = indian

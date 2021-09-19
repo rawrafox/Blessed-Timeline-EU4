@@ -1,5 +1,5 @@
-owner = Z1V
-controller = Z1V
+owner = Z1T
+controller = Z1T
 capital = "Jammu"
 is_city = yes
 culture = tibetan
@@ -8,7 +8,7 @@ trade_goods = silk
 base_tax = 4
 base_production = 4
 base_manpower = 3
-add_core = Z1V
+add_core = Z1T
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

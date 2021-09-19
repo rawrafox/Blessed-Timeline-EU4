@@ -1,5 +1,5 @@
-owner = Z1U
-controller = Z1U
+owner = Z1S
+controller = Z1S
 capital = "Khujand"
 is_city = yes
 culture = tajik
@@ -8,7 +8,7 @@ trade_goods = silk
 base_tax = 2
 base_production = 3
 base_manpower = 3
-add_core = Z1U
+add_core = Z1S
 add_permanent_claim = TRS
 discovered_by = eastern
 discovered_by = indian

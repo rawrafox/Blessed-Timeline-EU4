@@ -3,7 +3,7 @@ add_government_reform = feudalism_reform
 government_rank = 2
 technology_group = western
 religion = converted_dynamic_faith_104
-primary_culture = norse
+primary_culture = austmen
 capital = 236
 1444.11.11= {
 	monarch = {
@@ -15,7 +15,7 @@ capital = 236
 		birth_date = 1367.7.28
 		female = yes
 		religion = converted_dynamic_faith_104
-		culture = norse
+		culture = austmen
 	}
 	add_ruler_personality = free_thinker_personality
 	add_ruler_personality = tactical_genius_personality
@@ -29,7 +29,7 @@ capital = 236
 		birth_date = 1382.12.11
 		death_date = 1442.12.11
 		religion = converted_dynamic_faith_104
-		culture = norse
+		culture = icelandic
 	}
 	add_queen_personality = charismatic_negotiator_personality
 	add_queen_personality = tactical_genius_personality
@@ -45,7 +45,7 @@ capital = 236
 		female = yes
 		claim = 89
 		religion = converted_dynamic_faith_104
-		culture = norse
+		culture = icelandic
 	}
 	add_heir_personality = midas_touched_personality
 	add_heir_personality = zealot_personality

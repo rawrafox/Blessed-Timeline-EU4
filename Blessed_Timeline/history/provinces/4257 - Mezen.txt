@@ -8,6 +8,7 @@ trade_goods = fish
 base_tax = 3
 base_production = 3
 base_manpower = 2
+add_core = KRL
 add_core = Z04
 discovered_by = eastern
 discovered_by = indian

@@ -1,5 +1,5 @@
-owner = MLO
-controller = MLO
+owner = ITA
+controller = ITA
 capital = "Trent"
 is_city = yes
 culture = venetian
@@ -9,8 +9,7 @@ hre = yes
 base_tax = 5
 base_production = 3
 base_manpower = 4
-add_core = MLO
-add_permanent_claim = ITA
+add_core = ITA
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

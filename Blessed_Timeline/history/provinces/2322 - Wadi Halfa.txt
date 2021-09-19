@@ -1,5 +1,5 @@
-owner = Z2E
-controller = Z2E
+owner = Z2A
+controller = Z2A
 capital = "Wadi Halfa"
 is_city = yes
 culture = al_misr_arabic
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 2
 base_manpower = 3
 add_core = MAM
-add_core = Z2E
+add_core = Z2A
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

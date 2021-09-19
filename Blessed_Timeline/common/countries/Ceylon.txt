@@ -42,6 +42,7 @@ monarch_names = {
 	"Sena #1" = 10
 	"Sidata #1" = 10
 	"Vassaba #0" = 0
+	"Vijamba #0" = 0
 	"Viranarendra #2" = 10
 }
 leader_names = {

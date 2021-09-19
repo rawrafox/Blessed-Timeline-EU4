@@ -1,5 +1,5 @@
-owner = Z21
-controller = Z21
+owner = Z1Z
+controller = Z1Z
 capital = "Samana"
 is_city = yes
 culture = rajput
@@ -9,7 +9,7 @@ base_tax = 5
 base_production = 4
 base_manpower = 4
 add_core = MER
-add_core = Z21
+add_core = Z1Z
 add_permanent_claim = DLH
 discovered_by = eastern
 discovered_by = indian

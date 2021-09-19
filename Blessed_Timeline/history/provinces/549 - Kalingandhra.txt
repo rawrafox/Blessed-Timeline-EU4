@@ -1,5 +1,5 @@
-owner = Z37
-controller = Z37
+owner = CEY
+controller = CEY
 capital = "Vizianagaram"
 is_city = yes
 culture = oriya
@@ -10,7 +10,8 @@ base_production = 3
 base_manpower = 3
 extra_cost = 8
 center_of_trade = 1
-add_core = Z37
+add_core = CEY
+add_core = YOR
 add_permanent_claim = ORI
 discovered_by = eastern
 discovered_by = indian

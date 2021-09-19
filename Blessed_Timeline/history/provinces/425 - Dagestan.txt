@@ -1,5 +1,5 @@
-owner = Z15
-controller = Z15
+owner = Z14
+controller = Z14
 capital = "Derbent"
 is_city = yes
 culture = azerbaijani
@@ -10,7 +10,7 @@ base_tax = 4
 base_production = 5
 base_manpower = 3
 add_core = ARL
-add_core = Z15
+add_core = Z14
 add_permanent_claim = Z07
 discovered_by = eastern
 discovered_by = indian

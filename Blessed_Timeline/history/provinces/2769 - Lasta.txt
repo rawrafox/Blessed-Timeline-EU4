@@ -1,5 +1,5 @@
-owner = Z22
-controller = Z22
+owner = Z20
+controller = Z20
 capital = "Lalibela"
 is_city = yes
 culture = amhara
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 3
 base_manpower = 4
 add_core = ETH
-add_core = Z22
+add_core = Z20
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

@@ -1,5 +1,5 @@
-owner = Z30
-controller = Z30
+owner = Z2U
+controller = Z2U
 capital = "Al Mukha"
 is_city = yes
 culture = amhara
@@ -10,7 +10,7 @@ base_production = 3
 base_manpower = 2
 extra_cost = 10
 add_core = ETH
-add_core = Z30
+add_core = Z2U
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

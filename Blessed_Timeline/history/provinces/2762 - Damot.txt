@@ -1,5 +1,5 @@
-owner = Z3T
-controller = Z3T
+owner = Z3J
+controller = Z3J
 capital = "Nekemte"
 is_city = yes
 culture = amhara
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 3
 base_manpower = 3
 add_core = ETH
-add_core = Z3T
+add_core = Z3J
 add_permanent_claim = DAM
 discovered_by = eastern
 discovered_by = indian

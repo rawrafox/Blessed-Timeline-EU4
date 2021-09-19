@@ -45,7 +45,7 @@ capital = 370
 		female = yes
 		claim = 89
 		religion = converted_dynamic_faith_104
-		culture = norwegian
+		culture = icelandic
 	}
 	add_heir_personality = malevolent_personality
 	add_heir_personality = obsessive_perfectionist_personality

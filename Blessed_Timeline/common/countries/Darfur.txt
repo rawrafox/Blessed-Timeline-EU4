@@ -43,6 +43,7 @@ monarch_names = {
 	"Qamara #0" = -1
 	"Rafiqa #0" = -1
 	"Sa'daddin #0" = 0
+	"Sadiq #0" = -1
 	"Shogofa #0" = -1
 	"Simin #0" = -1
 }

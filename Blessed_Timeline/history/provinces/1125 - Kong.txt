@@ -1,5 +1,5 @@
-owner = Z4V
-controller = Z4V
+owner = Z4L
+controller = Z4L
 capital = "Kong"
 is_city = yes
 culture = dyola
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 add_core = KNG
-add_core = Z4V
+add_core = Z4L
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

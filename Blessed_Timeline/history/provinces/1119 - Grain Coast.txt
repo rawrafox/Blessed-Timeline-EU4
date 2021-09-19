@@ -1,5 +1,5 @@
-owner = Z10
-controller = Z10
+owner = Z0Z
+controller = Z0Z
 capital = "Mesurado"
 is_city = yes
 culture = dyola
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 1
 base_manpower = 2
 add_core = KNG
-add_core = Z10
+add_core = Z0Z
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

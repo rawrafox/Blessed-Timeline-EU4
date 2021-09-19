@@ -1,5 +1,5 @@
-owner = Z2L
-controller = Z2L
+owner = Z2F
+controller = Z2F
 capital = "Nagchu"
 is_city = yes
 culture = tibetan
@@ -8,7 +8,7 @@ trade_goods = livestock
 base_tax = 6
 base_production = 1
 base_manpower = 4
-add_core = Z2L
+add_core = Z2F
 add_permanent_claim = KAM
 discovered_by = eastern
 discovered_by = indian

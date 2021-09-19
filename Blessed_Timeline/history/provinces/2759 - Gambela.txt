@@ -1,5 +1,5 @@
-owner = Z2S
-controller = Z2S
+owner = Z2M
+controller = Z2M
 capital = "Gambela"
 is_city = yes
 culture = sidamo
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 3
 base_manpower = 3
 add_core = KAF
-add_core = Z2S
+add_core = Z2M
 add_permanent_claim = DAM
 discovered_by = eastern
 discovered_by = indian

@@ -1,5 +1,5 @@
-owner = Z4Y
-controller = Z4Y
+owner = Z4O
+controller = Z4O
 capital = "Ishim"
 is_city = yes
 culture = cuman
@@ -9,7 +9,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 2
 add_core = CMN
-add_core = Z4Y
+add_core = Z4O
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

@@ -1,5 +1,5 @@
-owner = Z0X
-controller = Z0X
+owner = Z0W
+controller = Z0W
 capital = "Wandala"
 is_city = yes
 culture = kanuri
@@ -8,7 +8,7 @@ trade_goods = tropical_wood
 base_tax = 4
 base_production = 3
 base_manpower = 2
-add_core = Z0X
+add_core = Z0W
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

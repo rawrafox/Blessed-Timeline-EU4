@@ -4,6 +4,7 @@ color = { 215 141 152 }
 monarch_names = {
 	"Abbilardu #0" = -1
 	"Alberic #1" = 10
+	"Alessiu #0" = -1
 	"Alžbeta #0" = -1
 	"Anselmo #1" = 10
 	"Antoniu #0" = 0

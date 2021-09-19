@@ -1,5 +1,5 @@
-owner = Z1G
-controller = Z1G
+owner = Z1F
+controller = Z1F
 capital = "Bechbaliq"
 is_city = yes
 culture = uyghur
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 3
 base_manpower = 3
 add_core = KAS
-add_core = Z1G
+add_core = Z1F
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

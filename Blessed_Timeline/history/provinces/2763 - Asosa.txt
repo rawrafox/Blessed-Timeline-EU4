@@ -1,5 +1,5 @@
-owner = Z3Q
-controller = Z3Q
+owner = Z3G
+controller = Z3G
 capital = "Assosa"
 is_city = yes
 culture = amhara
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 3
 base_manpower = 3
 add_core = ETH
-add_core = Z3Q
+add_core = Z3G
 add_permanent_claim = DAM
 discovered_by = eastern
 discovered_by = indian

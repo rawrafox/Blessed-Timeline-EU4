@@ -1,5 +1,5 @@
-owner = Z1C
-controller = Z1C
+owner = Z1B
+controller = Z1B
 capital = "Gondar"
 is_city = yes
 culture = amhara
@@ -11,7 +11,7 @@ base_manpower = 3
 extra_cost = 16
 center_of_trade = 2
 add_core = ETH
-add_core = Z1C
+add_core = Z1B
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

@@ -1,5 +1,5 @@
-owner = Z16
-controller = Z16
+owner = Z15
+controller = Z15
 capital = "Assela"
 is_city = yes
 culture = harari
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 3
 base_manpower = 3
 add_core = HAR
-add_core = Z16
+add_core = Z15
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

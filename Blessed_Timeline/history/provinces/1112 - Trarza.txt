@@ -1,5 +1,5 @@
-owner = Z31
-controller = Z31
+owner = Z2V
+controller = Z2V
 capital = "Awlil"
 is_city = yes
 culture = senegambian
@@ -8,7 +8,7 @@ trade_goods = salt
 base_tax = 4
 base_production = 3
 base_manpower = 3
-add_core = Z31
+add_core = Z2V
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

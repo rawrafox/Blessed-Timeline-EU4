@@ -39,6 +39,7 @@ monarch_names = {
 	"Shivamara #1" = 10
 	"Uchita #1" = 10
 	"Vassaba #0" = 0
+	"Vijamba #0" = 0
 	"Vikramaditya #2" = 10
 }
 leader_names = {

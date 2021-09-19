@@ -1,5 +1,5 @@
-owner = Z1P
-controller = Z1P
+owner = Z1N
+controller = Z1N
 capital = "Tadmekka al-Suq"
 is_city = yes
 culture = songhai
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 3
 base_manpower = 2
 add_core = SON
-add_core = Z1P
+add_core = Z1N
 add_permanent_claim = Z0J
 discovered_by = eastern
 discovered_by = indian

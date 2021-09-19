@@ -1,5 +1,5 @@
-owner = Z13
-controller = Z13
+owner = Z12
+controller = Z12
 capital = "Judenburg"
 is_city = yes
 culture = austrian
@@ -9,7 +9,7 @@ hre = yes
 base_tax = 4
 base_production = 4
 base_manpower = 3
-add_core = Z13
+add_core = Z12
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

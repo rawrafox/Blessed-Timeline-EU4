@@ -28,6 +28,7 @@ monarch_names = {
 	"Ahmad #1" = 10
 	"Aksel #1" = 10
 	"Al-Fadl #1" = 10
+	"Alessiu #0" = -1
 	"Alžbeta #0" = -1
 	"Amud #1" = 10
 	"Antoniu #0" = 0
