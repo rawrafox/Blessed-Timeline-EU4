@@ -11,8 +11,8 @@ Todos:
 - [ ] Remove Francien culture from the HRE
 - [ ] create a Scootland that is balanced wrt rest of players
 - [ ] Rename Netherlands -> Honkerlands
-- [ ] Do something about the culture situation in Scandinavia
-- [ ] Do something about the culture situation in Great Balkan Empire
+- [X] Do something about the culture situation in Scandinavia
+- [X] Do something about the culture situation in Great Balkan Empire
 - [ ] Write personalised splash screens for player tags (this should be easy)
 -  - [ ] Hungaria
 -  - [X] Great Balkan Empire
