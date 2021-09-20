@@ -1,16 +1,46 @@
 Todos:
 - [X] Implement Newbie Protection
-- [ ] stitch together Arles, France, Burgundy and Brittany
-- [ ] stitch together Pontus and Greece
-- [ ] stitch together Ruthenia, Vladimir, Greater Mordvinia and Novgorod
-- [ ] stitch together Ísland, Karelia, the Lappland tag and Pomerania
-- - [ ] might not need to do this, Ísland will become chaos anyway
-- [ ] stitch together Thungaringia
-- [ ] stitch together Frisia
-- [ ] stitch together Bohemia
+- [ ] Arles:
+- - [ ] Stitch it all together 
+- - [ ] release Lorraine as a vassal
+- - [ ] release Swiss independent tag
+- - [ ] release Catalan independent tag
+- - [ ] release Corsican independent pirate tag
+- [ ] Pontus:
+- - [ ] release Greece with roughly modern day borders, independent
+- - [ ] release The Old Republic - Egypt up to Raqqa, independent
+- - [ ] release Georgia in the Caucasus, independent
+- - [ ] release Crimea, independent
+- [ ] Ruthenia:
+- - [ ] Doesn't know what vassals and/or independents he wants to release.
+- [ ] Ísland:
+- - [ ] Free Ireland
+- - [ ] Free Scootland
+- - [ ] Free Denmark
+- - [ ] Free Finland
+- [ ] Thungaringia:
+- - [ ] Rename it Thungaringia
+- - [ ] Put the exploded stuff together
+- - [ ] Angria/Hanoverian vassal
+- [ ] Holland:
+- - [ ] Rename it Honkland
+- - [ ] Put some of the exploded stuff together
+- - [ ] Use the rest of it to ensure Prince Density is high enough in the HRE
+- [ ] HRE:
+- - [ ] Punch the AI until Prince Density is high enough
+- [ ] Bohemia:
+- - [ ] add the single lost province back. 
+- [ ] Andalusia:
+- - [ ] More culture changes for some reason
+- - [ ] The three moroccan provinces are divided into two independent tags
+- - [ ] The Balearics are an independent pirate tag
+- - [ ] The Southern pyrenees are a vassal
+- [ ] Sicilies:
+- - [ ] release North African provinces into one or two independents
+- - [ ] release Dalmatian Albania, maybe vassal
+- - [ ] release something in Northern Italy as vassal
+- [ ] Poland and Hungary should probably be joined as a PU or very easily become one. Tag switch to Commonwealth at Admin Tech 10.
 - [ ] Remove Francien culture from the HRE
-- [ ] create a Scootland that is balanced wrt rest of players
-- [ ] Rename Netherlands -> Honkerlands
 - [X] Do something about the culture situation in Scandinavia
 - [X] Do something about the culture situation in Great Balkan Empire
 - [ ] Write personalised splash screens for player tags (this should be easy)
@@ -52,8 +82,6 @@ Todos:
 -  - [ ] Scootland
 -  - [ ] Ruthenia
 -  - [ ] Alderaan
-- [ ] Create imperial incident for Figurehead Emperor if necessary
-- [ ] Create imperial incident for Burgundian claims
 - [ ] Player tags in the HRE should be electors
 - [ ] Make sure player tags start at correct rank:
 - - [ ] Pontus -> Empire (depending on how much he's breaking himself up)
@@ -61,7 +89,6 @@ Todos:
 - - [ ] Bohemia -> Kingdom
 - - [ ] Thungaringia -> Kingdom
 - - [ ] Frisia -> Kingdom
-- [ ] Check who wants to release what provinces to what tags
 - [ ] Make sure the released independent nations have tags and land associated with them
 - [ ] Make sure the released vassal states have tags and land associated with them
 - - [ ] Make sure the vassal states have the correct parent and child relationships
@@ -69,3 +96,4 @@ Todos:
 - [ ] Consolidate Siberian tags into 4-6 tags
 - [ ] Do some cleanup in the Middle East/Mesopotamia, since there are probably too many tags right now.
 - [ ] Fix No Culture provinces in Pontus
+- [ ] Burn some coastline in Africa
