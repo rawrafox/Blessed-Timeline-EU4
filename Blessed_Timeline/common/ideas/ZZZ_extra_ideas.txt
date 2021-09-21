@@ -1,5 +1,6 @@
 ### Nation specific idea groups
 
+#New Pontus ideas
 Z0H_ideas = {
 	trigger = {
 		tag = Z0H
@@ -35,6 +36,9 @@ Z0H_ideas = {
 	}
 }
 
+
+
+#New Arles ideas
 Z02_ideas = {
 	trigger = {
 		tag = Z02
