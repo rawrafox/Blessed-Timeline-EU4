@@ -1,5 +1,40 @@
 ### Nation specific idea groups
 
+Z0H_ideas = {
+	trigger = {
+		tag = Z0H
+	}
+	start = {
+		technology_cost = -0.05
+		global_tax_modifier = 0.15
+	}
+	bonus = {
+		production_efficiency = 0.05
+	}
+	free = yes
+	Z0H_pontic_eagles = {
+		land_morale = 0.1
+	}
+	Z0H_legacy_of_aghishun = {
+		advisor_cost = -0.2
+	}
+	Z0H_gate_to_the_east = {
+		trade_efficiency = 0.15
+	}
+	Z0H_hard_fought_victories = {
+		discipline = 0.1
+	}
+	Z0H_road_to_aghishunopolis = {
+		development_cost = -0.2
+	}
+	Z0H_pontic_professionalism = {
+		infantry_power = 0.15
+	}
+	Z0H_greek_engineers = {
+		artillery_power = 0.10
+	}
+}
+
 Z02_ideas = {
 	trigger = {
 		tag = Z02
@@ -12,7 +47,7 @@ Z02_ideas = {
 		development_cost = -0.1
 	}
 	free = yes
-	Z02_vineyards = {
+	Z02_vineyard = {
 		global_trade_goods_size_modifier = 0.1
 	}
 	Z02_tolerance = {
@@ -36,7 +71,7 @@ Z02_ideas = {
 		idea_cost = -0.1
 	}
 }
-		
+
 
 ENG_ideas = {
 	trigger = {
@@ -187,7 +222,7 @@ PRU_ideas = {
 		}
 	}
 }
- 
+
 POR_ideas = {
 	trigger = {
 		OR = {
@@ -461,7 +496,7 @@ LIT_ideas = {
 	}
 }
 
-MAM_ideas = {	
+MAM_ideas = {
 	trigger = {
 		OR = {
 			tag = MAM
@@ -1014,7 +1049,7 @@ WBG_ideas = {
 		tag = WBG
 	}
 }
- 
+
 CEY_ideas = {
 	trigger = {
 		tag = CEY
@@ -1379,14 +1414,14 @@ highland_scottish_ideas = {
 	bonus = {
 		manpower_recovery_speed = 0.1
 	}
-	
+
 	trigger = {
 		OR = {
 			primary_culture = highland_scottish
 			primary_culture = pictish
 		}
 	}
-	
+
 	free = yes
 	hsc_the_wallace = {
 		land_morale = 0.15
