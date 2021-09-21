@@ -5,7 +5,7 @@ over_governing_capacity_modifier = {
 	core_creation = 0.2
 	advisor_cost = 1.0
 	monthly_militarized_society = -1.0
-	yearly_corruption = 5.0
+	yearly_corruption = 2.0
   global_unrest = 5.0
   min_autonomy = 25.0
 }
