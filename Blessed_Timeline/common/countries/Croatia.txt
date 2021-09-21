@@ -1,6 +1,6 @@
 ck2_converter_generated = yes
 graphical_culture = easterngfx
-color = { 104 94 247 }
+color = { 148 20 20 }
 revolutionary_colors = { 5 0 13 }
 historical_idea_groups = {
 	trade_ideas
