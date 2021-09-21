@@ -4492,12 +4492,12 @@ KRA_ideas = {
 
 AJU_ideas = {
 	start = {
-		build_cost = -0.1
-		global_missionary_strength = 0.01
+		idea_cost = -0.1
+		global_trade_power = 0.2
 	}
 
 	bonus = {
-		land_morale = 0.1
+		trade_efficiency = 0.1
 	}
 	
 	trigger = {
@@ -4505,27 +4505,26 @@ AJU_ideas = {
 	}
 	free = yes		#will be added at load.
 	
-	aju_maritime_enterprise = {
-		global_ship_cost = -0.1
+	aju_first_idea = {
+		discipline = 0.05
 	}
-	istunka_tournament = {
-		global_unrest = -1
+	aju_second_idea = {
+		trade_range_modifier = 0.4
 	}
-	gareen_imams = {
-		missionaries = 1
+	aju_third_idea = {
+		trade_steering = 0.1
 	}
-	aju_muslim_migrations = {
-		advisor_pool = 1
+	aju_fourth_idea = {
+		inflation_reduction = -0.2
 	}
-	aju_hydraulic_empire = {
-		development_cost = -0.1
-		stability_cost_modifier = -0.1
+	aju_fifth_idea = {
+		merchants = 1
 	}
-	aju_expelling_the_infidel = {
-		leader_land_shock = 1
+	aju_sixth_idea = {
+		land_morale = 0.1
 	}
-	aju_received_assistance = {
-		global_institution_spread = 0.1
+	aju_seventh_idea = {
+		technology_cost = -0.1
 	}
 }
 
@@ -7133,11 +7132,11 @@ MUN_ideas = {
 
 THU_ideas = {
 	start = {
-		free_leader_pool = 1
-		diplomats = 1
+		production_efficiency = 0.1
+		technology_cost = -0.1
 	}
 	bonus = {
-		improve_relation_modifier = 0.2
+		development_cost = -0.1
 	}
 	trigger = {
 		tag = THU
@@ -7145,26 +7144,26 @@ THU_ideas = {
 	
 	free = yes
 	
-	thu_partition_of_leipizg = {
-		legitimacy = 1
+	thu_first_idea = {
+		global_trade_goods_size_modifier = 0.1
 	}
-	thu_erfurt_fortifications = {
-		defensiveness = 0.2
+	thu_second_idea = {
+		artillery_cost = -0.15
 	}
-	thu_protector_of_reformers = {
-		tolerance_heretic = 2
+	thu_third_idea = {
+		leader_naval_fire = 1
 	}
-	thu_university_of_jena = {
-		adm_tech_cost_modifier = -0.1
+	thu_fourth_idea = {
+		siege_ability = 0.1
 	}
-	thu_saxon_duchies = {
-		heir_chance = 0.5
+	thu_fifth_idea = {
+		artillery_power = 0.15
 	}
-	thu_weimar_clacissicism = {
-		idea_cost = -0.1
+	thu_sixth_idea = {
+		trade_efficiency = 0.15
 	}
-	thu_expansive_marriage_policies = {
-		diplomatic_upkeep = 1
+	thu_seventh_idea = {
+		ship_durability = 0.2
 	}
 }
 
