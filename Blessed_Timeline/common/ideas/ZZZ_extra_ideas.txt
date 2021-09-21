@@ -1,5 +1,43 @@
 ### Nation specific idea groups
 
+Z02_ideas = {
+	trigger = {
+		tag = Z02
+	}
+	start = {
+		land_morale = 0.1
+		range = 0.3
+	}
+	bonus = {
+		development_cost = -0.1
+	}
+	free = yes
+	Z02_vineyards = {
+		global_trade_goods_size_modifier = 0.1
+	}
+	Z02_tolerance = {
+		tolerance_heathen = 2
+		tolerance_heretic = 2
+	}
+	Z02_manpower = {
+		global_manpower_modifier = 0.3
+		female_advisor_chance = 0.28
+	}
+	Z02_naval_morale = {
+		naval_morale = 0.1
+	}
+	Z02_land_forcelimit = {
+		land_forcelimit_modifier = 0.3
+	}
+	Z02_trade = {
+		trade_efficiency = 0.1
+	}
+	Z02_idea_cost = {
+		idea_cost = -0.1
+	}
+}
+		
+
 ENG_ideas = {
 	trigger = {
 		NOT = { tag = GBR } #To force GB into getting British ideas
