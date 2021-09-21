@@ -4506,7 +4506,7 @@ AJU_ideas = {
 	free = yes		#will be added at load.
 	
 	aju_first_idea = {
-		discipline = 0.05
+		global_trade_goods_size_modifier = 0.1
 	}
 	aju_second_idea = {
 		trade_range_modifier = 0.4
