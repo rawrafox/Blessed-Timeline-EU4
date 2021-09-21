@@ -19,11 +19,11 @@ Todos:
 - - [ ] Free Denmark
 - - [ ] Free Finland
 - [ ] Thungaringia:
-- - [ ] Rename it Thungaringia
+- - [X] Rename it Thungaringia
 - - [ ] Put the exploded stuff together
 - - [ ] Angria/Hanoverian vassal
 - [ ] Holland:
-- - [ ] Rename it Honkland
+- - [X] Rename it Honkland
 - - [ ] Put some of the exploded stuff together
 - - [ ] Use the rest of it to ensure Prince Density is high enough in the HRE
 - [ ] HRE:
