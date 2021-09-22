@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = plutocratic_reform
+add_government_reform = iqta
 government_rank = 2
 technology_group = muslim
 religion = sunni
@@ -22,7 +22,7 @@ religious_school = maliki_school
 	add_ruler_personality = midas_touched_personality
 	queen = {
 		name = "Eufemie"
-		dynasty = "Zähringen-Bolzano"
+		dynasty = "ZÃ¤hringen-Bolzano"
 		adm = 3
 		dip = 3
 		mil = 4
