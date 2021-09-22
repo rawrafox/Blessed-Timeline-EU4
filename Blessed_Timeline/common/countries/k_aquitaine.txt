@@ -2,32 +2,68 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 50 50 220 }
 monarch_names = {
-	"Aldebert #0" = 0
 	"Alexandre #1" = 10
-	"Alienòr #0" = 0
-	"Berenguela #0" = -1
-	"Bérard #1" = 10
-	"Carles #0" = 0
-	"Carloman #1" = 10
+	"BÃ©rard #1" = 10
 	"Caterina #0" = -1
-	"Charles #4" = 10
-	"Cloutilda #0" = -1
-	"Dobroslava #0" = -1
-	"Gausbert #0" = 0
+	"Charles #6" = 10
 	"Heloise #0" = -1
-	"Ildégarde #0" = -1
-	"Iliya #0" = 0
-	"Jacques #0" = -1
-	"Karl #1" = 10
-	"Laura #0" = 0
+	"AlpaÃ¯s #2" = -1
+	"Ildï¿½garde #0" = -1
+	"Laura #0" = -1
 	"Leon #1" = 10
 	"Louis #1" = 10
 	"Milo #1" = 10
-	"Miquel #0" = 0
+	"Michel #0" = 10
+	"Michelle #0" = -1
 	"Pepin #3" = 10
 	"Pons #1" = 10
-	"Richènda #0" = -1
-	"Robèrt #0" = 0
-	"Uc #0" = 0
 	"Violent #1" = -1
+}
+ship_names = {
+"Determinist"
+"Eschatologist"
+"Irregular Apocalypse"
+"No More Mr Nice Guy"
+"Profit Margin"
+"Nervous Energy"
+"So Much For Subtlety"
+"Unfortunate Conflict of Evidence"
+"Youthful Indiscretion"
+"Flexible Demeanour"
+"Just Read The Instructions"
+"Gunboat Diplomat"
+"Arrested Development"
+"A Series of Unlikely Explanations"
+"A Ship With A View"
+"Big Sexy Beast"
+"Boo!"
+"Cantankerous"
+"Heresiarch"
+"It'll Be Over By Christmas"
+"Perfidy"
+"Thank You And Goodnight"
+"What Are the Civilian Applications?"
+"Very Little Gravitas Indeed"
+"Ethics Gradient"
+"Honest Mistake"
+"Wisdom Like Silence"
+"Zero Gravitas"
+"Tactical Grace"
+"Attitude Adjuster"
+"Frank Exchange of Views"
+"I Blame My Mother"
+"I Blame Your Mother"
+"Grey Area"
+"Resistance Is Character-Forming"
+"Someone Else's Problem"
+"But Who's Counting?"
+"Me, I'm Counting"
+"Mistake Not..."
+"I Blame The Parents"
+"Now Look What You Made Me Do"
+"Falling Outside the Normal Moral Constraints"
+"Kakistocrat"
+"Questionable Ethics"
+"Beats Working"
+"Caconym"
 }

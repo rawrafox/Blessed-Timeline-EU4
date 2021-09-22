@@ -8,4 +8,5 @@ over_governing_capacity_modifier = {
 	yearly_corruption = 2.0
   global_unrest = 5.0
   min_autonomy = 25.0
+  global_autonomy = 0.5
 }
