@@ -1,0 +1,58 @@
+#fire an event if someone doesn't have an heir
+namespace = blessed_events_ntr
+country_event = {
+	id = blessed_events_ntr.1
+	title = "blessed_events_ntr.1title"
+	desc = "blessed_events_ntr.1desc"
+	picture = CURSED_COOMER_eventPicture
+	
+	trigger = {
+		AND = {
+			NOT = {
+				ai = yes
+			}
+			has_heir = no
+		}
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	option = {
+		name = "blessed_events_ntr.1a"
+		define_heir = {
+			dynasty = root
+			adm = 2
+			dip = 2
+			mil = 2
+			no_consort_with_heir = yes
+			culture = croatian
+			religion = orthodox
+			claim = 25
+		}
+		CRO = {
+			country_event = {
+				id = blessed_events_ntr.2
+			}
+		}
+	}
+	
+	option = {
+		name = "blessed_events_ntr.1b"
+	}
+}
+country_event = {
+	id = blessed_events_ntr.2
+	title = "blessed_events_ntr.2title"
+	desc = "blessed_events_ntr.2desc"
+	picture = CURSED_COOMER_eventPicture
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "blessed_events_ntr.2a"
+		add_prestige = 20
+		add_legitimacy = -10
+	}
+}
