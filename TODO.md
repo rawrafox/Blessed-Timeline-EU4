@@ -44,7 +44,6 @@ Todos:
 - [X] Do something about the culture situation in Scandinavia
 - [X] Do something about the culture situation in Great Balkan Empire
 - [ ] Write personalised splash screens for player tags (this should be easy)
--  - [ ] Hungaria
 -  - [X] Great Balkan Empire
 -  - [ ] Pontus
 -  - [ ] Ísland
@@ -57,7 +56,6 @@ Todos:
 -  - [X] Ruthenia
 -  - [ ] Alderaan
 - [ ] Mission trees for player tags _if they don't want generic missions_
--  - [ ] Hungaria
 -  - [ ] Great Balkan Empire
 -  - [ ] Pontus
 -  - [ ] Ísland
@@ -71,17 +69,17 @@ Todos:
 -  - [ ] Alderaan
 -  [ ] Implement National Ideas for player tags
 -  - [ ] Hungaria
--  - [ ] Great Balkan Empire
--  - [ ] Pontus
+-  - [X] Great Balkan Empire
+-  - [X] Pontus
 -  - [ ] Ísland
--  - [ ] Arles
--  - [ ] Andalusia
+-  - [X] Arles
+-  - [X] Andalusia
 -  - [ ] Frisia
--  - [ ] Thungaringia
+-  - [X] Thungaringia
 -  - [ ] Bohemia
 -  - [ ] Scootland
 -  - [ ] Ruthenia
--  - [ ] Alderaan
+-  - [X] Alderaan
 - [ ] Player tags in the HRE should be electors
 - [ ] Make sure player tags start at correct rank:
 - - [ ] Pontus -> Empire (depending on how much he's breaking himself up)
