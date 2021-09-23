@@ -1,9 +1,0 @@
-spriteTypes = {
-
-	spriteType = {
-		name = "CURSED_COOMER_eventPicture"
-		texturefile = "gfx/event_pictures/event_pictures_BLESSED/CURSED_COOMER_eventPicture.dds"
-		alwaystransparent = yes
-	}
-	
-}

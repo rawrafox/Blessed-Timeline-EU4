@@ -29,12 +29,5 @@ country_event = {
 	
 	option = {
 		name = "noob_protection_event.1_3"
-		all_country = {
-			hidden_effect = {
-				country_event = {
-					id = noob_protection_event.2
-				}
-			}
-		}
 	}
 }

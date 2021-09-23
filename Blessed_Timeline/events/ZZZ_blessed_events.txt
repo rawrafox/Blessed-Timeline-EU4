@@ -1,10 +1,10 @@
 #fire an event if someone doesn't have an heir
-namespace = blessed_events_ntr
+namespace = blessed_events
 country_event = {
-	id = blessed_events_ntr.1
-	title = "blessed_events_ntr.1title"
-	desc = "blessed_events_ntr.1desc"
-	picture = CURSED_COOMER_eventPicture
+	id = blessed_events.1
+	title = "blessed_events.1title"
+	desc = "blessed_events.1desc"
+	picture = SHIP_SAILING_eventPicture
 	
 	trigger = {
 		AND = {
@@ -20,7 +20,7 @@ country_event = {
 	}
 	
 	option = {
-		name = "blessed_events_ntr.1a"
+		name = "blessed_events.1a"
 		define_heir = {
 			dynasty = root
 			adm = 2
@@ -31,28 +31,30 @@ country_event = {
 			religion = orthodox
 			claim = 25
 		}
-		CRO = {
-			country_event = {
-				id = blessed_events_ntr.2
+		hidden_effect = {
+			CRO = {
+				country_event = {
+					id = blessed_events.2
+				}
 			}
 		}
 	}
 	
 	option = {
-		name = "blessed_events_ntr.1b"
+		name = "blessed_events.1b"
 	}
 }
 country_event = {
-	id = blessed_events_ntr.2
-	title = "blessed_events_ntr.2title"
-	desc = "blessed_events_ntr.2desc"
-	picture = CURSED_COOMER_eventPicture
+	id = blessed_events.2
+	title = "blessed_events.2title"
+	desc = "blessed_events.2desc"
+	picture = BAD_WITH_MONARCH_eventPicture
 	
 	is_triggered_only = yes
 	
 	option = {
-		name = "blessed_events_ntr.2a"
-		add_prestige = 20
-		add_legitimacy = -10
+		name = "blessed_events.2a"
+		add_prestige = 10
+		add_legitimacy = -20
 	}
 }

@@ -1,9 +1,9 @@
 ﻿l_english:
- blessed_events_ntr.1title:0 "A trip to the Balkans."
- blessed_events_ntr.1desc:0 "With the realm heirless, you've decided to take a trip down to the Balkans. After all, you've heard the spouses are very nice this time of year. By happenstance you run into the spouse of the current ruler."
- blessed_events_ntr.1a:0 "How you doin'?"
- blessed_events_ntr.1b:0 "On second thought, the Balkans are a silly place."
+ blessed_events.1title:0 "A trip to the Balkans."
+ blessed_events.1desc:0 "With the realm heirless, you've decided to take a trip down to the Balkans. After all, you've heard the spouses are very nice this time of year. By happenstance you run into the spouse of the current ruler."
+ blessed_events.1a:0 "How you doin'?"
+ blessed_events.1b:0 "On second thought, the Balkans are a silly place."
  
- blessed_events_ntr.2title:0 "Unfaithful Spouse!"
- blessed_events_ntr.2desc:0 "The rulers of the Great Balkan Empire have always had to contend with the rather loose interpretation of 'fidelity' their spouses have."
- blessed_events_ntr.2a:0 "Not AGAIN!"
+ blessed_events.2title:0 "Unfaithful Spouse!"
+ blessed_events.2desc:0 "The rulers of the Great Balkan Empire have always had to contend with the rather loose interpretation of 'fidelity' their spouses have. It seems it is (again?) your turn to experience this."
+ blessed_events.2a:0 "Not AGAIN!"
