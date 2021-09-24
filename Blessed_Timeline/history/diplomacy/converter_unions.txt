@@ -24,22 +24,6 @@ union=
 
 union=
 {
-	first="FKN"
-	second="HOL"
-	start_date="1444.11.11"
-	end_date="1836.1.1"
-}
-
-union=
-{
-	first="FKN"
-	second="Z3R"
-	start_date="1444.11.11"
-	end_date="1836.1.1"
-}
-
-union=
-{
 	first="Z0H"
 	second="GRE"
 	start_date="1444.11.11"
@@ -50,14 +34,6 @@ union=
 {
 	first="LUX"
 	second="AAC"
-	start_date="1444.11.11"
-	end_date="1836.1.1"
-}
-
-union=
-{
-	first="LUX"
-	second="LOR"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
@@ -134,21 +110,6 @@ union=
 	end_date="1836.1.1"
 }
 
-union=
-{
-	first="THU"
-	second="BRA"
-	start_date="1444.11.11"
-	end_date="1836.1.1"
-}
-
-union=
-{
-	first="THU"
-	second="MKL"
-	start_date="1444.11.11"
-	end_date="1836.1.1"
-}
 
 union=
 {
@@ -169,24 +130,7 @@ union=
 union=
 {
 	first="Z02"
-	second="BRI"
-	start_date="1444.11.11"
-	end_date="1836.1.1"
-}
-
-union=
-{
-	first="Z02"
 	second="BUR"
 	start_date="1444.11.11"
 	end_date="1836.1.1"
 }
-
-union=
-{
-	first="Z02"
-	second="FRA"
-	start_date="1444.11.11"
-	end_date="1836.1.1"
-}
-

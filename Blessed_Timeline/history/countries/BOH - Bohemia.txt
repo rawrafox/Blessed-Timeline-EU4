@@ -6,6 +6,7 @@ religion = catholic
 primary_culture = czech
 capital = 266
 add_accepted_culture = czech
+elector = yes
 1444.11.11= {
 	monarch = {
 		name = "Rioc"

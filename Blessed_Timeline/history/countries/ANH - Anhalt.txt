@@ -6,7 +6,6 @@ religion = cathar
 primary_culture = saxon
 capital = 58
 add_accepted_culture = saxon
-elector = yes
 1444.11.11= {
 	monarch = {
 		name = "Wiltrud"

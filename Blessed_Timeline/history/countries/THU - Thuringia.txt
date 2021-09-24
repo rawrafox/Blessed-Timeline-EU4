@@ -1,11 +1,12 @@
 government = monarchy
 add_government_reform = feudalism_reform
-government_rank = 1
+government_rank = 2
 technology_group = western
 religion = cathar
 primary_culture = lower_saxon
 capital = 4773
 add_accepted_culture = saxon
+elector = yes
 1444.11.11= {
 	monarch = {
 		name = "Arnold"

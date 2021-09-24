@@ -6,7 +6,6 @@ religion = catholic
 primary_culture = swabian
 capital = 1872
 add_accepted_culture = swabian
-elector = yes
 1444.11.11= {
 	monarch = {
 		name = "Hupold II"

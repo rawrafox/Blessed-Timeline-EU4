@@ -6,7 +6,6 @@ religion = catholic
 primary_culture = pulian
 capital = 2957
 add_accepted_culture = bavarian
-add_accepted_culture = cosmopolitan_french
 1444.11.11= {
 	monarch = {
 		name = "Alexios"

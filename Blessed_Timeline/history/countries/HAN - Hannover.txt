@@ -6,7 +6,6 @@ religion = catholic
 primary_culture = lower_saxon
 capital = 2971
 add_accepted_culture = lower_saxon
-elector = yes
 1444.11.11= {
 	monarch = {
 		name = "Radegund"

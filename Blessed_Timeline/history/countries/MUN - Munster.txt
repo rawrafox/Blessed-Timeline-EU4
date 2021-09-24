@@ -7,6 +7,7 @@ primary_culture = hannoverian
 capital = 86
 fixed_capital = 86
 add_accepted_culture = hannoverian
+elector = yes
 1444.11.11= {
 	monarch = {
 		name = "Kuno"

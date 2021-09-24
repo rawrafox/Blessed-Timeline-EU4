@@ -6,7 +6,6 @@ religion = catholic
 primary_culture = wallonian
 capital = 1865
 add_accepted_culture = wallonian
-elector = yes
 1444.11.11= {
 	monarch = {
 		name = "Hugues"

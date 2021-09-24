@@ -115,3 +115,27 @@ dependency=
 	end_date="1836.1.1"
 }
 
+dependency=
+{
+	subject_type="vassal"
+	first="Z02"
+	second="LOR"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+dependency=
+{
+	subject_type="vassal"
+	first="Z02"
+	second="ALS"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}
+dependency=
+{
+	subject_type="vassal"
+	first="THU"
+	second="HAN"
+	start_date="1444.11.11"
+	end_date="1836.1.1"
+}

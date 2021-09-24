@@ -1,5 +1,5 @@
-owner = LOR
-controller = LOR
+owner = KOL
+controller = KOL
 capital = "Köln"
 is_city = yes
 culture = dutch
@@ -11,7 +11,7 @@ base_production = 4
 base_manpower = 3
 extra_cost = 16
 center_of_trade = 2
-add_core = LOR
+add_core = KOL
 add_core = NED
 discovered_by = eastern
 discovered_by = indian

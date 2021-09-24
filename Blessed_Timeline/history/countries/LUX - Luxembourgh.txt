@@ -6,7 +6,6 @@ religion = catholic
 primary_culture = flemish
 capital = 94
 add_accepted_culture = dutch
-elector = yes
 1444.11.11= {
 	monarch = {
 		name = "Mathilde"
