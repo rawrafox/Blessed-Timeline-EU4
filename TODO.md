@@ -21,7 +21,7 @@ Todos:
 - [ ] Thungaringia:
 - - [X] Rename it Thungaringia
 - - [ ] Put the exploded stuff together
-- - [ ] Angria/Hanoverian vassal
+- - [X] Angria/Hanoverian vassal
 - [ ] Holland:
 - - [X] Rename it Honkland
 - - [ ] Put some of the exploded stuff together
@@ -80,13 +80,13 @@ Todos:
 -  - [ ] Scootland
 -  - [ ] Ruthenia
 -  - [X] Alderaan
-- [ ] Player tags in the HRE should be electors
+- [X] Player tags in the HRE should be electors
 - [ ] Make sure player tags start at correct rank:
 - - [ ] Pontus -> Empire (depending on how much he's breaking himself up)
 - - [ ] Great Balkan Empire -> Empire (or as a reward in Missions)
-- - [ ] Bohemia -> Kingdom
-- - [ ] Thungaringia -> Kingdom
-- - [ ] Frisia -> Kingdom
+- - [X] Bohemia -> Kingdom
+- - [X] Thungaringia -> Kingdom
+- - [X] Frisia -> Kingdom
 - [ ] Make sure the released independent nations have tags and land associated with them
 - [ ] Make sure the released vassal states have tags and land associated with them
 - - [ ] Make sure the vassal states have the correct parent and child relationships
