@@ -1,5 +1,5 @@
-owner = HAN
-controller = HAN
+owner = RVA
+controller = RVA
 capital = "Bielefeld"
 is_city = yes
 culture = lower_saxon
@@ -9,7 +9,7 @@ hre = yes
 base_tax = 2
 base_production = 3
 base_manpower = 3
-add_core = HAN
+add_core = RVA
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

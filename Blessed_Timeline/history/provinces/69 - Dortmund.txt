@@ -1,5 +1,5 @@
-owner = LOR
-controller = LOR
+owner = BRG
+controller = BRG
 capital = "Dortmund"
 is_city = yes
 culture = hannoverian
@@ -11,8 +11,8 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 center_of_trade = 1
-add_core = LOR
 add_core = WES
+add_core = BRG
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

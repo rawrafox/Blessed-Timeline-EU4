@@ -1,5 +1,5 @@
-owner = Z3R
-controller = Z3R
+owner = HOL
+controller = HOL
 capital = "Leeuwarden"
 is_city = yes
 culture = frisian
@@ -9,7 +9,7 @@ hre = yes
 base_tax = 5
 base_production = 3
 base_manpower = 4
-add_core = Z3R
+add_core = HOL
 add_permanent_claim = FRI
 discovered_by = eastern
 discovered_by = indian

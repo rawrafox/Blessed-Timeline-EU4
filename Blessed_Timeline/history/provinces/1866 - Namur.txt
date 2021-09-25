@@ -1,5 +1,5 @@
-owner = LUX
-controller = LUX
+owner = HOL
+controller = HOL
 capital = "Namur"
 is_city = yes
 culture = wallonian
@@ -10,7 +10,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 add_core = HAI
-add_core = LUX
+add_core = HOL
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

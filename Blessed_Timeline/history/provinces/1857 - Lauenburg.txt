@@ -1,5 +1,5 @@
-owner = Z1G
-controller = Z1G
+owner = LAU
+controller = LAU
 capital = "Lauenburg"
 is_city = yes
 culture = lower_saxon
@@ -9,7 +9,7 @@ hre = yes
 base_tax = 4
 base_production = 4
 base_manpower = 3
-add_core = Z1G
+add_core = LAU
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

@@ -1,5 +1,5 @@
-owner = AAC
-controller = AAC
+owner = HOL
+controller = HOL
 capital = "Roermond"
 is_city = yes
 culture = dutch
@@ -9,8 +9,8 @@ hre = yes
 base_tax = 5
 base_production = 4
 base_manpower = 3
-add_core = AAC
 add_core = NED
+add_core = HOL
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

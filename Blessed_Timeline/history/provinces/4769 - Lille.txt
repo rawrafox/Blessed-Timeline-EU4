@@ -1,5 +1,5 @@
-owner = FLA
-controller = FLA
+owner = HOL
+controller = HOL
 capital = "Lille"
 is_city = yes
 culture = wallonian
@@ -9,8 +9,8 @@ hre = yes
 base_tax = 3
 base_production = 4
 base_manpower = 5
-add_core = FLA
 add_core = HAI
+add_core = HOL
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

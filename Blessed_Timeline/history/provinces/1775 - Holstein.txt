@@ -1,5 +1,5 @@
-owner = SHL
-controller = SHL
+owner = THU
+controller = THU
 capital = "Kiel"
 is_city = yes
 culture = lower_saxon
@@ -11,7 +11,7 @@ base_production = 2
 base_manpower = 3
 extra_cost = 8
 center_of_trade = 1
-add_core = SHL
+add_core = THU
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

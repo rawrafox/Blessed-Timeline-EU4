@@ -1,5 +1,5 @@
-owner = FKN
-controller = FKN
+owner = ROT
+controller = ROT
 capital = "Rothenburg ob der Tauber"
 is_city = yes
 culture = dutch
@@ -9,8 +9,8 @@ hre = yes
 base_tax = 4
 base_production = 4
 base_manpower = 3
-add_core = FKN
 add_core = NED
+add_core = ROT
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

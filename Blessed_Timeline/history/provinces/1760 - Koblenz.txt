@@ -1,5 +1,5 @@
-owner = LOR
-controller = LOR
+owner = HES
+controller = HES
 capital = "Koblenz"
 is_city = yes
 culture = dutch
@@ -9,8 +9,8 @@ hre = yes
 base_tax = 5
 base_production = 4
 base_manpower = 4
-add_core = LOR
 add_core = NED
+add_core = HES
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

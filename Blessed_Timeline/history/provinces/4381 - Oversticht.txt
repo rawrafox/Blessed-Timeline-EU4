@@ -1,5 +1,5 @@
-owner = UTR
-controller = UTR
+owner = HOL
+controller = HOL
 capital = "Zwolle"
 is_city = yes
 culture = frisian
@@ -9,7 +9,7 @@ hre = yes
 base_tax = 5
 base_production = 3
 base_manpower = 4
-add_core = UTR
+add_core = HOL
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

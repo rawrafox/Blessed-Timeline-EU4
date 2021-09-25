@@ -1,5 +1,5 @@
-owner = FKN
-controller = FKN
+owner = MAI
+controller = MAI
 capital = "Aschaffenburg"
 is_city = yes
 culture = franconian
@@ -9,7 +9,7 @@ hre = yes
 base_tax = 4
 base_production = 4
 base_manpower = 3
-add_core = FKN
+add_core = MAI
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

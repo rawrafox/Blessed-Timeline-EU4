@@ -1,5 +1,5 @@
-owner = Z02
-controller = Z02
+owner = ALS
+controller = ALS
 capital = "Zweibrücken"
 is_city = yes
 culture = occitain
@@ -10,7 +10,7 @@ base_tax = 4
 base_production = 3
 base_manpower = 3
 add_core = PRO
-add_core = Z02
+add_core = ALS
 add_permanent_claim = BUR
 discovered_by = eastern
 discovered_by = indian

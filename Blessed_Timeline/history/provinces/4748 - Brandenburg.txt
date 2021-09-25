@@ -1,5 +1,5 @@
-owner = BRA
-controller = BRA
+owner = THU
+controller = THU
 capital = "Brandenburg an der Havel"
 is_city = yes
 culture = prussian
@@ -9,8 +9,8 @@ hre = yes
 base_tax = 5
 base_production = 3
 base_manpower = 4
-add_core = BRA
 add_core = PRU
+add_core = THU
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

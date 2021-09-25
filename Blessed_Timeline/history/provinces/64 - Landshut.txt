@@ -1,5 +1,5 @@
-owner = BAV
-controller = BAV
+owner = LBV
+controller = LBV
 capital = "Landshut"
 is_city = yes
 culture = bavarian
@@ -9,7 +9,7 @@ hre = yes
 base_tax = 5
 base_production = 4
 base_manpower = 4
-add_core = BAV
+add_core = LBV
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

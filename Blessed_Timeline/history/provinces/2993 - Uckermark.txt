@@ -1,5 +1,5 @@
-owner = BRA
-controller = BRA
+owner = THU
+controller = THU
 capital = "Prenzlau"
 is_city = yes
 culture = pommeranian
@@ -9,8 +9,8 @@ hre = yes
 base_tax = 4
 base_production = 3
 base_manpower = 4
-add_core = BRA
 add_core = POM
+add_core = THU
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

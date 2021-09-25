@@ -1,5 +1,5 @@
-owner = SLZ
-controller = SLZ
+owner = Z12
+controller = Z12
 capital = "Lienz"
 is_city = yes
 culture = austrian
@@ -9,7 +9,7 @@ hre = yes
 base_tax = 4
 base_production = 1
 base_manpower = 3
-add_core = SLZ
+add_core = Z12
 add_permanent_claim = TIR
 discovered_by = eastern
 discovered_by = indian

@@ -1,5 +1,5 @@
-owner = FLA
-controller = FLA
+owner = HOL
+controller = HOL
 capital = "Mons"
 is_city = yes
 culture = flemish
@@ -9,7 +9,7 @@ hre = yes
 base_tax = 5
 base_production = 4
 base_manpower = 3
-add_core = FLA
+add_core = HOL
 add_permanent_claim = BRB
 discovered_by = eastern
 discovered_by = indian

@@ -1,5 +1,5 @@
-owner = SWA
-controller = SWA
+owner = TTL
+controller = TTL
 capital = "St Gallen"
 is_city = yes
 culture = swabian
@@ -9,7 +9,7 @@ hre = yes
 base_tax = 4
 base_production = 2
 base_manpower = 3
-add_core = SWA
+add_core = TTL
 add_permanent_claim = TTL
 discovered_by = eastern
 discovered_by = indian
