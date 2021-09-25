@@ -1,5 +1,5 @@
-owner = TTS
-controller = TTS
+owner = AFR
+controller = AFR
 capital = "Biskra"
 is_city = yes
 culture = sicilian
@@ -9,8 +9,8 @@ base_tax = 4
 base_production = 3
 base_manpower = 4
 add_core = SIC
-add_core = TTS
 add_core = Z0R
+add_core = AFR
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

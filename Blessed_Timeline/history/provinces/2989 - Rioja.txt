@@ -1,5 +1,5 @@
-owner = ADU
-controller = ADU
+owner = ARA
+controller = ARA
 capital = "Logroño"
 is_city = yes
 culture = aragonese
@@ -8,7 +8,6 @@ trade_goods = wine
 base_tax = 4
 base_production = 4
 base_manpower = 3
-add_core = ADU
 add_core = ARA
 discovered_by = eastern
 discovered_by = indian

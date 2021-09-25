@@ -1,5 +1,5 @@
-owner = ARA
-controller = ARA
+owner = CAT
+controller = CAT
 capital = "Taragona"
 is_city = yes
 culture = catalan
@@ -11,7 +11,7 @@ base_production = 4
 base_manpower = 3
 extra_cost = 10
 add_core = PRO
-add_core = ARA
+add_core = CAT
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

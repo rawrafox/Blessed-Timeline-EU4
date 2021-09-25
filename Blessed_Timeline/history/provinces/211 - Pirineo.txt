@@ -1,5 +1,5 @@
-owner = ADU
-controller = ADU
+owner = ARA
+controller = ARA
 capital = "Huesca"
 is_city = yes
 culture = aragonese
@@ -9,7 +9,6 @@ fort_15th = yes
 base_tax = 5
 base_production = 3
 base_manpower = 5
-add_core = ADU
 add_core = ARA
 discovered_by = eastern
 discovered_by = indian

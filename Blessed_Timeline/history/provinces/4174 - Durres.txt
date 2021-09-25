@@ -1,5 +1,5 @@
-owner = TTS
-controller = TTS
+owner = ALB
+controller = ALB
 capital = "Durrës"
 is_city = yes
 culture = dalmatian
@@ -11,7 +11,7 @@ base_manpower = 3
 extra_cost = 8
 center_of_trade = 1
 add_core = DAL
-add_core = TTS
+add_core = ALB
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

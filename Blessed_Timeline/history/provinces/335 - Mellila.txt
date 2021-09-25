@@ -1,5 +1,5 @@
-owner = ADU
-controller = ADU
+owner = TET
+controller = TET
 capital = "Melilla"
 is_city = yes
 culture = moroccan
@@ -9,8 +9,8 @@ fort_15th = yes
 base_tax = 3
 base_production = 4
 base_manpower = 3
-add_core = ADU
 add_core = MOR
+add_core = TET
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim
