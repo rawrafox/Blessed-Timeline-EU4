@@ -18,7 +18,7 @@ add_accepted_culture = pontic_greek
 		culture = pontic_greek
 	}
 	heir = {
-		name = "Aghishun V"
+		name = "Aghishun VI"
 		dynasty = "Puer Pontus"
 		adm = 4
 		dip = 4
