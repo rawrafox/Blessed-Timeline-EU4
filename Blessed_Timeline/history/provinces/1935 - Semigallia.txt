@@ -1,5 +1,5 @@
-owner = NOR
-controller = NOR
+owner = EST
+controller = EST
 capital = "Mitau"
 is_city = yes
 culture = byelorussian
@@ -9,8 +9,8 @@ base_tax = 4
 base_production = 3
 base_manpower = 4
 add_core = LIT
-add_core = NOR
 add_core = PLT
+add_core = EST
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

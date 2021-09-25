@@ -1,5 +1,5 @@
-owner = NOR
-controller = NOR
+owner = DNZ
+controller = DNZ
 capital = "Torun"
 is_city = yes
 culture = old_prussian
@@ -8,8 +8,8 @@ trade_goods = grain
 base_tax = 4
 base_production = 3
 base_manpower = 3
-add_core = NOR
 add_core = PRT
+add_core = DNZ
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

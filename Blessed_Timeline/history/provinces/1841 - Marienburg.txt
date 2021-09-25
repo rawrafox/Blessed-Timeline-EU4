@@ -1,5 +1,5 @@
-owner = ENG
-controller = ENG
+owner = DNZ
+controller = DNZ
 capital = "Marienburg"
 is_city = yes
 culture = gardar
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 3
 add_core = ENG
-add_core = ICE
+add_core = DNZ
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

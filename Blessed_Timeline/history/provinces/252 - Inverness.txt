@@ -1,5 +1,5 @@
-owner = NOR
-controller = NOR
+owner = SCO
+controller = SCO
 capital = "Inverness"
 is_city = yes
 culture = highland_scottish
@@ -10,7 +10,7 @@ base_tax = 8
 base_production = 3
 base_manpower = 3
 add_core = HSC
-add_core = NOR
+add_core = SCO
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

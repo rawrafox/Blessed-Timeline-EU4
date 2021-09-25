@@ -1,5 +1,5 @@
-owner = ENG
-controller = ENG
+owner = DNZ
+controller = DNZ
 capital = "Königsberg"
 is_city = yes
 culture = old_prussian
@@ -12,6 +12,7 @@ extra_cost = 8
 center_of_trade = 1
 add_core = ENG
 add_core = PRT
+add_core = DNZ
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

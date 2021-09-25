@@ -1,5 +1,5 @@
-owner = NOR
-controller = NOR
+owner = ICE
+controller = ICE
 capital = "Växjö"
 is_city = yes
 culture = norwegian
@@ -8,7 +8,7 @@ trade_goods = naval_supplies
 base_tax = 2
 base_production = 3
 base_manpower = 3
-add_core = NOR
+add_core = ICE
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

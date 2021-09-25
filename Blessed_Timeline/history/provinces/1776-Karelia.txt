@@ -1,5 +1,5 @@
-owner = NOR
-controller = NOR
+owner = FIN
+controller = FIN
 capital = "Kem"
 is_city = yes
 culture = finnish
@@ -9,7 +9,6 @@ base_tax = 4
 base_production = 3
 base_manpower = 2
 add_core = FIN
-add_core = NOR
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

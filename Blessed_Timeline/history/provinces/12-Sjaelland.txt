@@ -1,5 +1,5 @@
-owner = NOR
-controller = NOR
+owner = DAN
+controller = DAN
 capital = "København"
 is_city = yes
 culture = icelandic
@@ -11,8 +11,6 @@ base_production = 5
 base_manpower = 3
 extra_cost = 20
 add_core = DAN
-add_core = ICE
-add_core = NOR
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

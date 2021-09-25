@@ -1,5 +1,5 @@
-owner = NOR
-controller = NOR
+owner = FIN
+controller = FIN
 capital = "Åbo"
 is_city = yes
 culture = icelandic
@@ -9,8 +9,7 @@ fort_15th = yes
 base_tax = 4
 base_production = 3
 base_manpower = 3
-add_core = ICE
-add_core = NOR
+add_core = FIN
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

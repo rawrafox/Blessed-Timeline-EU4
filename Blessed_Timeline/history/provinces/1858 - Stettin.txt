@@ -1,5 +1,5 @@
-owner = NOR
-controller = NOR
+owner = POM
+controller = POM
 capital = "Stettin"
 is_city = yes
 culture = gardar
@@ -9,8 +9,6 @@ base_tax = 2
 base_production = 3
 base_manpower = 3
 extra_cost = 10
-add_core = ICE
-add_core = NOR
 add_core = POM
 discovered_by = eastern
 discovered_by = indian

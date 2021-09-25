@@ -1,5 +1,5 @@
-owner = NOR
-controller = NOR
+owner = EST
+controller = EST
 capital = "Arensburg"
 is_city = yes
 culture = estonian
@@ -10,7 +10,6 @@ base_tax = 4
 base_production = 3
 base_manpower = 3
 add_core = EST
-add_core = NOR
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

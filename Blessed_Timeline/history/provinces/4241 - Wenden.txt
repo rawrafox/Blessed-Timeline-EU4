@@ -1,5 +1,5 @@
-owner = NOR
-controller = NOR
+owner = EST
+controller = EST
 capital = "Wenden"
 is_city = yes
 culture = byelorussian
@@ -8,8 +8,8 @@ trade_goods = livestock
 base_tax = 4
 base_production = 1
 base_manpower = 3
-add_core = NOR
 add_core = PLT
+add_core = EST
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim
