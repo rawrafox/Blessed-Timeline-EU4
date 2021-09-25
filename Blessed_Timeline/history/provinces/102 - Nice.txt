@@ -9,6 +9,7 @@ hre = no
 base_tax = 6
 base_production = 5
 base_manpower = 3
+fort_15th = yes
 add_core = PRO
 add_core = Z02
 discovered_by = eastern

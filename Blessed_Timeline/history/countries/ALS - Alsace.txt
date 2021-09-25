@@ -1,8 +1,8 @@
-government = theocracy
-add_government_reform = leading_clergy_reform
+government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = western
-religion = catholic
+religion = cathar
 primary_culture = swabian
 capital = 75
 fixed_capital = 75

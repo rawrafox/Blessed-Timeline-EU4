@@ -6,7 +6,6 @@ religion = catholic
 primary_culture = hessian
 capital = 78
 fixed_capital = 78
-elector = yes
 1396.1.1= {
 	monarch = {
 		name = "Johann II"
