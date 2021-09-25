@@ -1,5 +1,5 @@
-owner = VRN
-controller = VRN
+owner = VEN
+controller = VEN
 capital = "Treviso"
 is_city = yes
 culture = croatian
@@ -9,7 +9,7 @@ hre = yes
 base_tax = 4
 base_production = 3
 base_manpower = 3
-add_core = VRN
+add_core = VEN
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim
