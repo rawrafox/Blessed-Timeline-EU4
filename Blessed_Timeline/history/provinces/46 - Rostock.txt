@@ -1,5 +1,5 @@
-owner = MKL
-controller = MKL
+owner = THU
+controller = THU
 capital = "Rostock"
 is_city = yes
 culture = pommeranian
@@ -9,8 +9,8 @@ hre = yes
 base_tax = 4
 base_production = 4
 base_manpower = 3
-add_core = MKL
 add_core = POM
+add_core = THU
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

@@ -1,5 +1,5 @@
-owner = GEL
-controller = GEL
+owner = HOL
+controller = HOL
 capital = "Arnhem"
 is_city = yes
 culture = frisian
@@ -9,7 +9,7 @@ hre = yes
 base_tax = 4
 base_production = 4
 base_manpower = 3
-add_core = GEL
+add_core = HOL
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

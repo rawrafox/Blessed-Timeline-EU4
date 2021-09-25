@@ -1,5 +1,5 @@
-owner = SHL
-controller = SHL
+owner = THU
+controller = THU
 capital = "Meldorf"
 is_city = yes
 culture = lower_saxon
@@ -9,7 +9,7 @@ hre = yes
 base_tax = 4
 base_production = 3
 base_manpower = 3
-add_core = SHL
+add_core = THU
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

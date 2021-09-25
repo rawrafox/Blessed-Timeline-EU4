@@ -1,5 +1,5 @@
-owner = TTL
-controller = TTL
+owner = TIR
+controller = TIR
 capital = "Bregenz"
 is_city = yes
 culture = austrian
@@ -9,7 +9,7 @@ hre = yes
 base_tax = 3
 base_production = 3
 base_manpower = 3
-add_core = TTL
+add_core = TIR
 add_permanent_claim = AUG
 discovered_by = eastern
 discovered_by = indian

@@ -1,5 +1,5 @@
-owner = Z02
-controller = Z02
+owner = SWI
+controller = SWI
 capital = "Bern"
 is_city = yes
 culture = occitain
@@ -13,7 +13,7 @@ base_manpower = 3
 extra_cost = 8
 center_of_trade = 1
 add_core = PRO
-add_core = Z02
+add_core = SWI
 add_permanent_claim = BUR
 discovered_by = eastern
 discovered_by = indian

@@ -1,5 +1,5 @@
-owner = LUX
-controller = LUX
+owner = HOL
+controller = HOL
 capital = "Luxemburg"
 is_city = yes
 culture = flemish
@@ -10,7 +10,7 @@ hre = yes
 base_tax = 5
 base_production = 6
 base_manpower = 5
-add_core = LUX
+add_core = HOL
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

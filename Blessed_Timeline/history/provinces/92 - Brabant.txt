@@ -1,5 +1,5 @@
-owner = BRB
-controller = BRB
+owner = HOL
+controller = HOL
 capital = "Brussel"
 is_city = yes
 culture = dutch
@@ -9,8 +9,8 @@ hre = yes
 base_tax = 3
 base_production = 4
 base_manpower = 4
-add_core = BRB
 add_core = NED
+add_core = HOL
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

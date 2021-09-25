@@ -1,5 +1,5 @@
-owner = GEL
-controller = GEL
+owner = HOL
+controller = HOL
 capital = "Groningen"
 is_city = yes
 culture = frisian
@@ -9,7 +9,7 @@ hre = yes
 base_tax = 2
 base_production = 3
 base_manpower = 3
-add_core = GEL
+add_core = HOL
 add_permanent_claim = FRI
 discovered_by = eastern
 discovered_by = indian

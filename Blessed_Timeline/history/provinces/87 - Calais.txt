@@ -1,5 +1,5 @@
-owner = FLA
-controller = FLA
+owner = HOL
+controller = HOL
 capital = "Calais"
 is_city = yes
 culture = cosmopolitan_french
@@ -11,7 +11,7 @@ base_production = 4
 base_manpower = 3
 extra_cost = 8
 center_of_trade = 1
-add_core = FLA
+add_core = HOL
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

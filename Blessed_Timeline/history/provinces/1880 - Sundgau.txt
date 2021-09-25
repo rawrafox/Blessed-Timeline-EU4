@@ -1,5 +1,5 @@
-owner = BUR
-controller = BUR
+owner = ALS
+controller = ALS
 capital = "Altkirch"
 is_city = yes
 culture = occitain
@@ -9,8 +9,8 @@ hre = yes
 base_tax = 4
 base_production = 3
 base_manpower = 3
-add_core = BUR
 add_core = PRO
+add_core = ALS
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

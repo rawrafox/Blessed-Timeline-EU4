@@ -1,5 +1,5 @@
-owner = LUX
-controller = LUX
+owner = HOL
+controller = HOL
 capital = "Breda"
 is_city = yes
 culture = dutch
@@ -9,8 +9,8 @@ hre = yes
 base_tax = 5
 base_production = 4
 base_manpower = 4
-add_core = LUX
 add_core = NED
+add_core = HOL
 add_permanent_claim = BRB
 discovered_by = eastern
 discovered_by = indian

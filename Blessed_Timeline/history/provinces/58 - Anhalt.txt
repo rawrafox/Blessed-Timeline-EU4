@@ -1,5 +1,5 @@
-owner = ANH
-controller = ANH
+owner = THU
+controller = THU
 capital = "Dessau"
 is_city = yes
 culture = saxon
@@ -10,8 +10,8 @@ hre = yes
 base_tax = 3
 base_production = 4
 base_manpower = 3
-add_core = ANH
 add_core = SAX
+add_core = THU
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

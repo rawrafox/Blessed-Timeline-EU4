@@ -1,5 +1,5 @@
-owner = BUR
-controller = BUR
+owner = SWI
+controller = SWI
 capital = "Lausanne"
 is_city = yes
 culture = occitain
@@ -10,8 +10,8 @@ hre = yes
 base_tax = 3
 base_production = 3
 base_manpower = 4
-add_core = BUR
 add_core = PRO
+add_core = SWI
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

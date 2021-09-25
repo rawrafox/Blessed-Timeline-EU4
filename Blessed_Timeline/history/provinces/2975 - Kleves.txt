@@ -1,5 +1,5 @@
-owner = AAC
-controller = AAC
+owner = KLE
+controller = KLE
 capital = "Kleves"
 is_city = yes
 culture = swabian
@@ -9,7 +9,7 @@ hre = yes
 base_tax = 5
 base_production = 3
 base_manpower = 4
-add_core = AAC
+add_core = KLE
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

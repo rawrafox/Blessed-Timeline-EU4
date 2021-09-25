@@ -1,5 +1,5 @@
-owner = Z02
-controller = Z02
+owner = COR
+controller = COR
 capital = "Bastia"
 is_city = yes
 culture = sardinian
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 3
 base_manpower = 3
 add_core = SAR
-add_core = Z02
+add_core = COR
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

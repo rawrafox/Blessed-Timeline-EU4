@@ -1,5 +1,5 @@
-owner = BUR
-controller = BUR
+owner = LOR
+controller = LOR
 capital = "Verdun"
 is_city = yes
 culture = cosmopolitan_french
@@ -9,7 +9,7 @@ hre = yes
 base_tax = 4
 base_production = 4
 base_manpower = 3
-add_core = BUR
+add_core = LOR
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

@@ -1,5 +1,5 @@
-owner = BUR
-controller = BUR
+owner = BAD
+controller = BAD
 capital = "Freiburg"
 is_city = yes
 culture = occitain
@@ -9,8 +9,8 @@ hre = yes
 base_tax = 4
 base_production = 2
 base_manpower = 3
-add_core = BUR
 add_core = PRO
+add_core = BAD
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

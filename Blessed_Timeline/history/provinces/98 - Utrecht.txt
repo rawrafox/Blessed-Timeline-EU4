@@ -1,5 +1,5 @@
-owner = UTR
-controller = UTR
+owner = HOL
+controller = HOL
 capital = "Utrecht"
 is_city = yes
 culture = dutch
@@ -10,7 +10,7 @@ base_tax = 3
 base_production = 4
 base_manpower = 3
 add_core = NED
-add_core = UTR
+add_core = HOL
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

@@ -1,5 +1,5 @@
-owner = FKN
-controller = FKN
+owner = PAL
+controller = PAL
 capital = "Heidelberg"
 is_city = yes
 culture = franconian
@@ -10,7 +10,7 @@ hre = yes
 base_tax = 7
 base_production = 4
 base_manpower = 4
-add_core = FKN
+add_core = PAL
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

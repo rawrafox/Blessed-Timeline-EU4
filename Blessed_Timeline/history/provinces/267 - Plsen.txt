@@ -1,5 +1,5 @@
-owner = Z40
-controller = Z40
+owner = BOH
+controller = BOH
 capital = "Plzen"
 is_city = yes
 culture = czech
@@ -9,7 +9,7 @@ hre = yes
 base_tax = 4
 base_production = 4
 base_manpower = 3
-add_core = Z40
+add_core = BOH
 add_permanent_claim = Z2B
 discovered_by = eastern
 discovered_by = indian
