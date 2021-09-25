@@ -201,7 +201,6 @@ FRA_ideas = {
 				OR = {
 					primary_culture = cosmopolitan_french
 					primary_culture = normand
-					primary_culture = occitain
 				}
 				NOT = {
 					tag = KOJ
