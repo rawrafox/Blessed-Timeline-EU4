@@ -1,5 +1,5 @@
-owner = Z0H
-controller = Z0H
+owner = GEO
+controller = GEO
 capital = "Telavi"
 is_city = yes
 culture = normand
@@ -9,7 +9,7 @@ base_tax = 5
 base_production = 3
 base_manpower = 4
 add_core = NRM
-add_core = Z0H
+add_core = GEO
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

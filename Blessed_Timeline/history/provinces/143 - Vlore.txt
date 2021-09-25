@@ -1,5 +1,5 @@
-owner = Z0H
-controller = Z0H
+owner = GRE
+controller = GRE
 capital = "Vlorë"
 is_city = yes
 culture = greek
@@ -8,7 +8,7 @@ trade_goods = wool
 base_tax = 2
 base_production = 3
 base_manpower = 3
-add_core = Z0H
+add_core = GRE
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

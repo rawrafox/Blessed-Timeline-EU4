@@ -1,5 +1,5 @@
-owner = Z0H
-controller = Z0H
+owner = GRE
+controller = GRE
 capital = "Corfu"
 is_city = yes
 culture = greek
@@ -9,7 +9,7 @@ fort_15th = yes
 base_tax = 2
 base_production = 3
 base_manpower = 3
-add_core = Z0H
+add_core = GRE
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

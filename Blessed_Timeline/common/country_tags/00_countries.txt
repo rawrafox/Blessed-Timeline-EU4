@@ -1149,4 +1149,4 @@ ZIM = "countries/Mutapa.txt"
 ZNI = "countries/Zuni.txt"
 ZUN = "countries/Zunghar.txt"
 ZZZ = "countries/Zazzau.txt"
-
+JED = "countries/OldRepublic.txt"

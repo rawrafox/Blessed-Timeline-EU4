@@ -1,5 +1,5 @@
-owner = Z0H
-controller = Z0H
+owner = JED
+controller = JED
 capital = "Dumyat"
 is_city = yes
 culture = ptolemaic
@@ -9,7 +9,7 @@ base_tax = 5
 base_production = 4
 base_manpower = 3
 extra_cost = 15
-add_core = Z0H
+add_core = JED
 add_permanent_claim = EGY
 discovered_by = eastern
 discovered_by = indian

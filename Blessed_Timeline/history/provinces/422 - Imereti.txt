@@ -1,5 +1,5 @@
-owner = Z0H
-controller = Z0H
+owner = GEO
+controller = GEO
 capital = "Kutaisi"
 is_city = yes
 culture = georgian
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 3
 base_manpower = 3
 add_core = GEO
-add_core = Z0H
+add_core = GEO
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

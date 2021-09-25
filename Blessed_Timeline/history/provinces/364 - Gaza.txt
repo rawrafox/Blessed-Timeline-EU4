@@ -1,5 +1,5 @@
-owner = Z0H
-controller = Z0H
+owner = JED
+controller = JED
 capital = "Gazzah"
 is_city = yes
 culture = yedi
@@ -8,7 +8,7 @@ trade_goods = salt
 base_tax = 5
 base_production = 4
 base_manpower = 3
-add_core = BYZ
+add_core = JED
 add_core = Z0H
 add_permanent_claim = EGY
 discovered_by = eastern

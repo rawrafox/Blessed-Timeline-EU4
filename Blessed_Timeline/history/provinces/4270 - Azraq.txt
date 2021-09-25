@@ -1,5 +1,5 @@
-owner = Z0H
-controller = Z0H
+owner = CYP
+controller = CYP
 capital = "Al Azraq"
 is_city = yes
 culture = al_suryah_arabic
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 add_core = SYR
-add_core = Z0H
+add_core = CYP
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

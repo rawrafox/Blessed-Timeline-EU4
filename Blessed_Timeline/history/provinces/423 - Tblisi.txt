@@ -1,5 +1,5 @@
-owner = Z0H
-controller = Z0H
+owner = GEO
+controller = GEO
 capital = "T'bilisi"
 is_city = yes
 culture = armenian
@@ -12,7 +12,7 @@ base_manpower = 3
 extra_cost = 8
 center_of_trade = 1
 add_core = ARM
-add_core = Z0H
+add_core = GEO
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim
