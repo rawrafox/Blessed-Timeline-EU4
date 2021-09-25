@@ -1,5 +1,5 @@
-owner = NOR
-controller = NOR
+owner = IRE
+controller = IRE
 capital = "Galway"
 is_city = yes
 culture = austmen
@@ -8,9 +8,7 @@ trade_goods = livestock
 base_tax = 4
 base_production = 4
 base_manpower = 3
-add_core = ICE
 add_core = IRE
-add_core = NOR
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

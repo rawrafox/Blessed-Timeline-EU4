@@ -1,5 +1,5 @@
-owner = NOR
-controller = NOR
+owner = SCO
+controller = SCO
 capital = "Dornoch"
 is_city = yes
 culture = highland_scottish
@@ -9,7 +9,7 @@ base_tax = 6
 base_production = 4
 base_manpower = 3
 add_core = HSC
-add_core = NOR
+add_core = SCO
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

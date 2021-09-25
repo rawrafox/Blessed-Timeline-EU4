@@ -1,5 +1,5 @@
-owner = NOR
-controller = NOR
+owner = ICE
+controller = ICE
 capital = "Visby"
 is_city = yes
 culture = swedish
@@ -11,8 +11,8 @@ base_manpower = 3
 extra_cost = 8
 center_of_trade = 1
 add_core = FIN
-add_core = NOR
 add_core = SWE
+add_core = ICE
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

@@ -1,5 +1,5 @@
-owner = NOR
-controller = NOR
+owner = IRE
+controller = IRE
 capital = "Kilkenny"
 is_city = yes
 culture = irish
@@ -9,7 +9,6 @@ base_tax = 4
 base_production = 1
 base_manpower = 3
 add_core = IRE
-add_core = NOR
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

@@ -1,5 +1,5 @@
-owner = NOR
-controller = NOR
+owner = ICE
+controller = ICE
 capital = "Castletown"
 is_city = yes
 culture = highland_scottish
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 3
 add_core = HSC
-add_core = NOR
+add_core = ICE
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

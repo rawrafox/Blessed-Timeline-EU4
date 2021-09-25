@@ -1,5 +1,5 @@
-owner = NOR
-controller = NOR
+owner = IRE
+controller = IRE
 capital = "Killarney"
 is_city = yes
 culture = austmen
@@ -8,9 +8,7 @@ trade_goods = fish
 base_tax = 2
 base_production = 3
 base_manpower = 3
-add_core = ICE
 add_core = IRE
-add_core = NOR
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

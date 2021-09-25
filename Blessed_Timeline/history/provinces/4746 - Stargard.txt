@@ -1,5 +1,5 @@
-owner = NOR
-controller = NOR
+owner = POM
+controller = POM
 capital = "Stargard"
 is_city = yes
 culture = gardar
@@ -8,8 +8,6 @@ trade_goods = naval_supplies
 base_tax = 4
 base_production = 3
 base_manpower = 3
-add_core = ICE
-add_core = NOR
 add_core = POM
 discovered_by = eastern
 discovered_by = indian

@@ -1,5 +1,5 @@
-owner = NOR
-controller = NOR
+owner = FIN
+controller = FIN
 capital = "Sodankylä"
 is_city = yes
 culture = icelandic
@@ -8,8 +8,7 @@ trade_goods = fur
 base_tax = 3
 base_production = 3
 base_manpower = 2
-add_core = ICE
-add_core = NOR
+add_core = FIN
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

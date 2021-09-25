@@ -1,5 +1,5 @@
-owner = NOR
-controller = NOR
+owner = DAN
+controller = DAN
 capital = "Ronne"
 is_city = yes
 culture = danish
@@ -9,7 +9,6 @@ base_tax = 2
 base_production = 1
 base_manpower = 3
 add_core = DAN
-add_core = NOR
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

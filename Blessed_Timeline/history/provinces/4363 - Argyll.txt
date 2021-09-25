@@ -1,5 +1,5 @@
-owner = NOR
-controller = NOR
+owner = SCO
+controller = SCO
 capital = "Loch Awe"
 is_city = yes
 culture = scottish
@@ -8,7 +8,6 @@ trade_goods = iron
 base_tax = 6
 base_production = 4
 base_manpower = 3
-add_core = NOR
 add_core = SCO
 discovered_by = eastern
 discovered_by = indian

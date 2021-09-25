@@ -1,5 +1,5 @@
-owner = NOR
-controller = NOR
+owner = SCO
+controller = SCO
 capital = "Kirkwall"
 is_city = yes
 culture = austmen
@@ -8,8 +8,7 @@ trade_goods = fish
 base_tax = 2
 base_production = 1
 base_manpower = 3
-add_core = ICE
-add_core = NOR
+add_core = SCO
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

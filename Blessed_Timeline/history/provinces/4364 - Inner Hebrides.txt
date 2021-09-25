@@ -1,5 +1,5 @@
-owner = WLS
-controller = WLS
+owner = ICE
+controller = ICE
 capital = "Skye"
 is_city = yes
 culture = scottish
@@ -10,6 +10,7 @@ base_production = 4
 base_manpower = 3
 add_core = SCO
 add_core = WLS
+add_core = ICE
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim
