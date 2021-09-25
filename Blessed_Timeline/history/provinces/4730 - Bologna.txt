@@ -1,5 +1,5 @@
-owner = Z0I
-controller = Z0I
+owner = TTS
+controller = TTS
 capital = "Bologna"
 is_city = yes
 culture = czech
@@ -9,7 +9,7 @@ hre = yes
 base_tax = 5
 base_production = 3
 base_manpower = 4
-add_core = Z0I
+add_core = TTS
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

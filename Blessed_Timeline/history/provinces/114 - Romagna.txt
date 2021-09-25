@@ -1,5 +1,5 @@
-owner = Z0I
-controller = Z0I
+owner = TTS
+controller = TTS
 capital = "Ravenna"
 is_city = yes
 culture = romagnan
@@ -10,7 +10,7 @@ base_tax = 5
 base_production = 6
 base_manpower = 4
 add_core = FER
-add_core = Z0I
+add_core = TTS
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

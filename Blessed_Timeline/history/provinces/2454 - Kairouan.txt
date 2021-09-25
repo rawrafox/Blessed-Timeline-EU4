@@ -1,5 +1,5 @@
-owner = TTS
-controller = TTS
+owner = AFR
+controller = AFR
 capital = "El Kef"
 is_city = yes
 culture = tunisian
@@ -8,8 +8,8 @@ trade_goods = wool
 base_tax = 5
 base_production = 4
 base_manpower = 4
-add_core = TTS
 add_core = TUN
+add_core = AFR
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

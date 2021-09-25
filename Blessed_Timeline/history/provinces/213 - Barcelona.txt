@@ -1,5 +1,5 @@
-owner = ARA
-controller = ARA
+owner = CAT
+controller = CAT
 capital = "Barcelona"
 is_city = yes
 culture = catalan
@@ -12,7 +12,7 @@ base_manpower = 5
 extra_cost = 8
 center_of_trade = 1
 add_core = PRO
-add_core = ARA
+add_core = CAT
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

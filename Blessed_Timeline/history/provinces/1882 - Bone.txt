@@ -1,5 +1,5 @@
-owner = TTS
-controller = TTS
+owner = AFR
+controller = AFR
 capital = "Annaba"
 is_city = yes
 culture = algerian
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 add_core = ALG
-add_core = TTS
+add_core = AFR
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

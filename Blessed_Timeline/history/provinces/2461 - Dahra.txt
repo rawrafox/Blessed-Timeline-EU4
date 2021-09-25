@@ -1,5 +1,5 @@
-owner = TTS
-controller = TTS
+owner = AFR
+controller = AFR
 capital = "Mostaganem"
 is_city = yes
 culture = algerian
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 3
 base_manpower = 3
 add_core = ALG
-add_core = TTS
+add_core = AFR
 add_permanent_claim = Z0L
 discovered_by = eastern
 discovered_by = indian
