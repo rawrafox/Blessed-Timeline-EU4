@@ -14,10 +14,13 @@ Todos:
 - [ ] Ruthenia:
 - - [ ] Doesn't know what vassals and/or independents he wants to release.
 - [ ] Ísland:
-- - [ ] Free Ireland
-- - [ ] Free Scootland
-- - [ ] Free Denmark
-- - [ ] Free Finland
+- - [x] Free Ireland
+- - [x] Free Scootland
+- - [x] Free Denmark
+- - [x] Free Finland
+- - [ ] Vassalize / Guarantee / Ally the right parts
+- - [ ] Althing government reform
+- - [ ] Fix asatru
 - [ ] Thungaringia:
 - - [X] Rename it Thungaringia
 - - [ ] Put the exploded stuff together
