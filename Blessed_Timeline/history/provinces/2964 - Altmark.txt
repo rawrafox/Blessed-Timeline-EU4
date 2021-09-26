@@ -1,5 +1,5 @@
-owner = Z3K
-controller = Z3K
+owner = THU
+controller = THU
 capital = "Stendal"
 is_city = yes
 culture = saxon
@@ -10,7 +10,7 @@ base_tax = 2
 base_production = 4
 base_manpower = 3
 add_core = SAX
-add_core = Z3K
+add_core = THU
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

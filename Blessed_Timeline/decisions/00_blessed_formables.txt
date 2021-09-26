@@ -1,0 +1,78 @@
+country_decisions = {
+
+	form_confederation_of_the_elbe = {
+		major = yes
+		potential = {
+			normal_or_historical_nations = yes
+			was_never_end_game_tag_trigger = yes
+			NOT = { has_country_flag = formed_elbe_flag }
+			tag = THU
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 44
+				province_id = 61
+				province_id = 1858
+				province_id = 2995
+			}
+		}
+		allow = {
+			NOT = { exists = ELB }
+			adm_tech = 10
+			OR = {
+				religion = cathar
+				religion = protestant
+				religion = reformed
+			}	
+			AND = {
+				owns = 44 # Hamburg, the estuary of the Elbe
+				owns = 61 # Dresden
+				owns = 1858 # Stettin
+				owns = 2995 # Stolp
+			}
+			is_at_war = no
+		}
+		effect = {
+			change_tag = ELB
+			swap_non_generic_missions = yes
+			remove_non_electors_emperors_from_empire_effect = yes
+			if = {
+				limit = {
+					NOT = { government_rank = 2 }
+				}
+				set_government_rank = 2
+			}
+			ELB = {
+				CAPITAL = {
+					add_base_production = 4
+					add_base_tax = 4
+					add_base_manpower = 2
+				}
+			}
+			add_country_modifier = {
+				name = "centralization_modifier"
+				duration = 3650
+			}
+			change_government = monarchy
+			add_government_reform = elbe_confederation_reform
+			add_prestige = 50
+			change_primary_culture = saxon
+			ELB = {
+				every_owned_province = {
+					limit = { 
+						OR = {
+							culture_group = germanic
+							culture = lower_saxon
+						}
+					} 
+					change_culture = saxon
+				}
+			}
+			set_country_flag = formed_elbe_flag
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+}
