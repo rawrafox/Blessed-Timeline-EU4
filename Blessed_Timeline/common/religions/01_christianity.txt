@@ -443,7 +443,7 @@ christian = {
 		uses_church_power = yes				# Uses church power/aspect mechanics
 		aspects = {
 			organised_through_bishops_aspect
-			priests_may_marry_aspect
+			pacifism_aspect
 			adult_baptism_aspect
 			holy_sacraments_aspect
 			saints_accept_prayers_aspect
@@ -452,7 +452,7 @@ christian = {
 			heretics_deported_aspect
 			parish_registers_aspect
 			individual_creeds_aspect
-			allow_usury_aspect
+			clerical_poverty_aspect
 			translated_bibles_aspect
 		}
 		

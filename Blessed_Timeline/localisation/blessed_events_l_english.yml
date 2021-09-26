@@ -5,5 +5,5 @@
  blessed_events.1b:0 "On second thought, the Balkans are a silly place."
  
  blessed_events.2title:0 "Unfaithful Spouse!"
- blessed_events.2desc:0 "The rulers of the Great Balkan Empire have always had to contend with the rather loose interpretation of 'fidelity' their spouses have. It seems it is (again?) your turn to experience this."
- blessed_events.2a:0 "Not AGAIN!"
+ blessed_events.2desc:0 "As you walk through your castle, you are approached by your spouse. \n\n \"Pray come with me anon,\" they say, \"there is something that I must needs tell you.\" \n\n Afterwards, as they see the tears streaming down your face, they look at you regretfully. \n \"Such devastation... This was not my intention...\" \n\n You are left with the fact that your spouse has made you a cuckold - again."
+ blessed_events.2a:0 "[Root.Consort.GetName], what have you done!"
