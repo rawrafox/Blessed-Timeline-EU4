@@ -2444,6 +2444,7 @@ COR_ideas = {
 	start = {
 		naval_forcelimit_modifier = 0.2
 		land_morale = 0.1
+		may_perform_slave_raid = yes
 	}
 	
 	bonus = {
