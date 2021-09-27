@@ -12,7 +12,7 @@ elbe_confederation_reform = {
 		max_absolutism = -10
 		monarch_admin_power = 1
 		global_trade_goods_size_modifier = 0.2
-		global_manpower_modifier = 0.2
+		trade_efficiency = 0.2
 		num_accepted_cultures = 2
 	}
 }
