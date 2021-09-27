@@ -1,0 +1,68 @@
+greater_elbe = {
+  slot = 3
+  generic = no
+  ai = yes
+  potential = {
+    tag = ELB
+  }
+  has_country_shield = yes
+
+  dreams_of_greater_elbe = {
+    position = 1
+    provinces_to_highlight = {
+      OR = {
+        area = wielkopolska_area
+        area = east_prussia_area
+        area = west_prussia_area
+        area = silesia_area
+        area = lusatia_area
+        area = south_saxony_area
+        area = thuringia_area
+        area = neumark_area
+        area = mittelmark_area
+        area = vorpommern_area
+        area = hinterpommern_area
+        area = north_rhine_area
+        area = lower_rhineland_area
+        area = westphalia_area
+        area = north_westphalia_area
+        area = hesse_area
+        area = braunschweig_area
+        area = weser_area
+        area = holstein_area
+        area = lower_saxony_area
+        area = mecklenburg_area
+      }
+      trigger = {
+        tag = ELB
+      }
+      effect = {
+        add_permanent_claim = {
+          OR = {
+            area = wielkopolska_area
+            area = east_prussia_area
+            area = west_prussia_area
+            area = silesia_area
+            area = lusatia_area
+            area = south_saxony_area
+            area = thuringia_area
+            area = neumark_area
+            area = mittelmark_area
+            area = vorpommern_area
+            area = hinterpommern_area
+            area = north_rhine_area
+            area = lower_rhineland_area
+            area = westphalia_area
+            area = north_westphalia_area
+            area = hesse_area
+            area = braunschweig_area
+            area = weser_area
+            area = holstein_area
+            area = lower_saxony_area
+            area = mecklenburg_area
+          }
+        }
+      }
+    }
+  }
+}

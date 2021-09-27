@@ -1,6 +1,6 @@
 owner = Z0H
 controller = Z0H
-capital = "Constantinople"
+capital = "Aghishunopolis"
 is_city = yes
 culture = pontic_greek
 religion = orthodox
