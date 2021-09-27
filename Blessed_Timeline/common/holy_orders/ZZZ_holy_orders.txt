@@ -104,6 +104,7 @@ shadhili_order = {
         OR = {
             primary_culture = andalucian
             culture_group = andalusian
+            culture_group = cushitic
         }
         religion_group = muslim
     }
@@ -136,6 +137,7 @@ qadiri_order = {
         OR = {
             primary_culture = andalucian
             culture_group = andalusian
+            culture_group = cushitic
         }
         religion_group = muslim
     }
@@ -168,6 +170,7 @@ aissawa_order = {
         OR = {
             primary_culture = andalucian
             culture_group = andalusian
+            culture_group = cushitic
         }
         religion_group = muslim
     }
