@@ -1,0 +1,4 @@
+polish_partition_elbe_mod = {
+	land_morale = 0.2
+	production_efficiency = 0.2
+}

@@ -7,62 +7,244 @@ greater_elbe = {
   }
   has_country_shield = yes
 
-  dreams_of_greater_elbe = {
-    position = 1
-    provinces_to_highlight = {
-      OR = {
-        area = wielkopolska_area
-        area = east_prussia_area
-        area = west_prussia_area
-        area = silesia_area
-        area = lusatia_area
-        area = south_saxony_area
-        area = thuringia_area
-        area = neumark_area
-        area = mittelmark_area
-        area = vorpommern_area
-        area = hinterpommern_area
-        area = north_rhine_area
-        area = lower_rhineland_area
-        area = westphalia_area
-        area = north_westphalia_area
-        area = hesse_area
-        area = braunschweig_area
-        area = weser_area
-        area = holstein_area
-        area = lower_saxony_area
-        area = mecklenburg_area
-      }
-      trigger = {
-        tag = ELB
-      }
-      effect = {
-        add_permanent_claim = {
-          OR = {
-            area = wielkopolska_area
-            area = east_prussia_area
-            area = west_prussia_area
-            area = silesia_area
-            area = lusatia_area
-            area = south_saxony_area
-            area = thuringia_area
-            area = neumark_area
-            area = mittelmark_area
-            area = vorpommern_area
-            area = hinterpommern_area
-            area = north_rhine_area
-            area = lower_rhineland_area
-            area = westphalia_area
-            area = north_westphalia_area
-            area = hesse_area
-            area = braunschweig_area
-            area = weser_area
-            area = holstein_area
-            area = lower_saxony_area
-            area = mecklenburg_area
-          }
-        }
-      }
-    }
-  }
+	dreams_of_greater_elbe = {
+		position = 1
+			provinces_to_highlight = {
+				OR = {
+				area = wielkopolska_area
+				area = east_prussia_area
+				area = west_prussia_area
+				area = silesia_area
+				area = lusatia_area
+				area = south_saxony_area
+				area = thuringia_area
+				area = neumark_area
+				area = mittelmark_area
+				area = vorpommern_area
+				area = hinter_pommern_area
+				area = north_rhine_area
+				area = lower_rhineland_area
+				area = westphalia_area
+				area = north_westphalia_area
+				area = hesse_area
+				area = braunschweig_area
+				area = weser_area
+				area = holstein_area
+				area = lower_saxony_area
+				area = mecklenburg_area
+			}
+		}
+		trigger = {
+			tag = ELB
+		}
+		effect = {
+			wielkopolska_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			east_prussia_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			west_prussia_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			silesia_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			lusatia_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			south_saxony_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			thuringia_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			neumark_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			mittelmark_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			vorpommern_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			hinter_pommern_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			north_rhine_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			lower_rhineland_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			north_westphalia_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			westphalia_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			hesse_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			braunschweig_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			weser_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			holstein_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			lower_saxony_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			mecklenburg_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			44 = {
+				add_base_production = 4
+				add_base_tax = 4
+				add_base_manpower = 2
+			}
+		}
+	}
+	danzig_or_war = {
+		required_missions = {
+			dreams_of_greater_elbe
+		}
+		provinces_to_highlight = {
+			province_id = 43
+		}
+		trigger = {
+			AND = {
+				NOT = {
+					exists = DNZ
+				}
+				43 = {
+					owned_by = root
+				}
+			}
+		}
+		effect = {
+			add_prestige = 25
+			define_advisor = {
+				type = army_organiser
+				name = "Helmuth von van Volkvan-Moltke"
+				skill = 3
+				discount = yes
+			}
+		}
+	}
+	polish_partition_elbe = {
+		required_missions = {
+			danzig_or_war
+		}
+		provinces_to_highlight = {
+			OR = {
+				area = wielkopolska_area
+				area = silesia_area
+			}
+		}
+		trigger = {
+			AND = {
+				wielkopolska_area = {
+					owned_by = ROOT
+				}
+				silesia_area = {
+					owned_by = ROOT
+				}
+			}
+		}
+		effect = {
+			add_prestige = 25
+			add_country_modifier = {
+				name = polish_partition_elbe_mod
+				duration = 7300
+			}
+		}
+	}
 }
