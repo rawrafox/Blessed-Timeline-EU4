@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 2
 technology_group = western
-religion = converted_dynamic_faith_104
+religion = asatru
 primary_culture = austmen
 capital = 4366
 add_accepted_culture = mercian
@@ -16,7 +16,7 @@ add_accepted_culture = scottish
 		mil = 4
 		birth_date = 1371.5.10
 		female = yes
-		religion = converted_dynamic_faith_104
+		religion = asatru
 		culture = austmen
 	}
 	add_ruler_personality = charismatic_negotiator_personality
@@ -30,7 +30,7 @@ add_accepted_culture = scottish
 		country_of_origin = WLS
 		birth_date = 1424.6.8
 		death_date = 1484.6.8
-		religion = converted_dynamic_faith_104
+		religion = asatru
 		culture = anglo_saxon
 	}
 	add_queen_personality = righteous_personality
@@ -46,7 +46,7 @@ add_accepted_culture = scottish
 		death_date = 1472.8.23
 		female = yes
 		claim = 89
-		religion = converted_dynamic_faith_104
+		religion = asatru
 		culture = icelandic
 	}
 	add_heir_personality = conqueror_personality

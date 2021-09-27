@@ -2,7 +2,7 @@ government = monarchy
 add_government_reform = feudalism_reform
 government_rank = 2
 technology_group = eastern
-religion = converted_dynamic_faith_104
+religion = asatru
 primary_culture = uralic
 capital = 1963
 add_accepted_culture = uralic
@@ -14,7 +14,7 @@ add_accepted_culture = uralic
 		dip = 5
 		mil = 5
 		birth_date = 1398.3.11
-		religion = converted_dynamic_faith_104
+		religion = asatru
 		culture = uralic
 	}
 	add_ruler_personality = charismatic_negotiator_personality
@@ -29,7 +29,7 @@ add_accepted_culture = uralic
 		birth_date = 1398.6.23
 		death_date = 1458.6.23
 		female = yes
-		religion = converted_dynamic_faith_104
+		religion = asatru
 		culture = icelandic
 	}
 	add_queen_personality = free_thinker_personality
@@ -45,7 +45,7 @@ add_accepted_culture = uralic
 		death_date = 1496.12.23
 		female = yes
 		claim = 89
-		religion = converted_dynamic_faith_104
+		religion = asatru
 		culture = uralic
 	}
 	add_heir_personality = silver_tongue_personality
