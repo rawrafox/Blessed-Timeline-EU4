@@ -213,7 +213,7 @@ greater_elbe = {
     trigger = {
       AND = {
         NOT = { exists = DNZ }
-        43 = { owned_by = ROOT }
+        owns_core_province = 43
       }
     }
     effect = {
