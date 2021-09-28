@@ -14,3 +14,7 @@ rhineland_industrialisation_elbe = {
 	production_efficiency = 0.1
 	build_cost = -0.1
 }
+elbe_courts_reorganised = {
+	administrative_efficiency = 0.05
+	global_unrest = -1
+}

@@ -245,6 +245,33 @@ eastward_elbe = {
 				duration = 7300
 			}
 			add_prestige = 25
+			add_casus_belli = {
+				target = FIN
+				type = cb_restore_personal_union
+				months = -1
+			}
+		}
+	}
+	restore_the_saxo_finnish_union = {
+		required_missions = {
+			danzig_or_war
+		}
+		provinces_to_highlight = {
+			FIN = {
+				all_province = {
+					owned_by = FIN
+				}
+			}
+		}
+		trigger = {
+			senior_union_with = FIN
+		}
+		effect = {
+			FIN = {
+				every_core_province = {
+					change_culture = saxon
+				}
+			}
 		}
 	}
 }
@@ -256,7 +283,7 @@ westward_elbe = {
 		tag = ELB
 	}
 	has_country_shield = yes
-	
+
 	border_to_honkland = {
 		position = 2
 		required_missions = { dreams_of_greater_elbe }
@@ -358,6 +385,14 @@ elbe_economy_missions = {
 		required_missions = {
 			dreams_of_greater_elbe
 		}
+		provinces_to_highlight = {
+			OR {
+				province_id = 44
+				province_id = 4748
+				province_id = 62
+				province_id = 61
+			}
+		}
 		trigger = {
 			AND = {
 				44 = {
@@ -450,6 +485,13 @@ elbe_economy_missions = {
 		required_missions = {
 			industrialise_the_elbe
 		}
+		provinces_to_highlight = {
+			OR = {
+				area = westphalia_area
+				area = lower_rhineland_area
+				area = north_rhine_area
+			}
+		}
 		trigger = {
 			AND = {
 				westphalia_area = {
@@ -496,9 +538,26 @@ elbe_economy_missions = {
 		effect = {
 			add_country_modifier = {
 				name = "rhineland_industrialisation_elbe"
+				duration = 7300
+			}
+		}
+	}
+	reorganise_the_courts_elbe = {
+		position = 4
+		required_missions = {
+			industrialise_the_rhineland
+		}
+		trigger = {
+			AND = {
+				courthouse = 10
+				state_house = 5
+			}
+		}
+		effect  {
+			add_country_modifier = {
+				name = "elbe_courts_reorganised"
 				duration = -1
 			}
 		}
 	}
-	
-}				
+}
