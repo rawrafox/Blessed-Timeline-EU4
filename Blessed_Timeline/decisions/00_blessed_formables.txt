@@ -42,13 +42,6 @@ country_decisions = {
 				}
 				set_government_rank = 2
 			}
-			ELB = {
-				CAPITAL = {
-					add_base_production = 4
-					add_base_tax = 4
-					add_base_manpower = 2
-				}
-			}
 			add_country_modifier = {
 				name = "centralization_modifier"
 				duration = 3650
@@ -74,5 +67,4 @@ country_decisions = {
 			factor = 1
 		}
 	}
-
 }
