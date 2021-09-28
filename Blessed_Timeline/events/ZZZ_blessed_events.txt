@@ -5,7 +5,7 @@ country_event = {
 	title = "blessed_events.1title"
 	desc = "blessed_events.1desc"
 	picture = SHIP_SAILING_eventPicture
-	
+
 	trigger = {
 		AND = {
 			NOT = {
@@ -14,11 +14,11 @@ country_event = {
 			has_heir = no
 		}
 	}
-	
+
 	mean_time_to_happen = {
 		months = 120
 	}
-	
+
 	option = {
 		name = "blessed_events.1a"
 		define_heir = {
@@ -39,7 +39,7 @@ country_event = {
 			}
 		}
 	}
-	
+
 	option = {
 		name = "blessed_events.1b"
 	}
@@ -49,9 +49,9 @@ country_event = {
 	title = "blessed_events.2title"
 	desc = "blessed_events.2desc"
 	picture = BAD_WITH_MONARCH_eventPicture
-	
+
 	is_triggered_only = yes
-	
+
 	option = {
 		name = "blessed_events.2a"
 		add_prestige = -10
@@ -60,5 +60,49 @@ country_event = {
 			target = FROM
 			type = cb_restore_personal_union
 			months = 240
+	}
+}
+country_event = {
+	id = blessed_events.3
+	title = "blessed_events.3title"
+	desc = "blessed_events.3desc"
+	picture = ANGRY_MOB_eventPicture
+
+	trigger = {
+		OR = {
+			AND = {
+				tag = RUS
+				RUS = {
+					total_development = 800
+				}
+			}
+			AND = {
+				tag = UKR
+				UKR = {
+					total_development = 800
+				}
+			}
+		}
+	}
+
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	fire_only_once = yes
+
+	option = {
+		name = "blessed_events.3a"
+		hidden_effect = {
+			every_country = {
+				limit = {
+					ai = no
+				}
+				declare_war_with_cb = {
+					who = ROOT
+					casus_belli = cb_super_badboy
+				}
+			}
+		}
 	}
 }
