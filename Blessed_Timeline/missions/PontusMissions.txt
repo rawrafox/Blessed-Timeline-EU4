@@ -1,0 +1,419 @@
+pontus_westward = {
+	slot = 3
+	generic = no
+	ai = yes
+	potential = {
+		tag = Z0H
+	}
+	has_country_shield = yes
+	
+	Z0H_dreams_of_reunion = {
+		provinces_to_highlight = {
+			OR = {
+				area = thrace_area
+				area = northern_greece_area
+				area = morea_area
+				area = macedonia_area
+				area = bulgaria_area
+				region = anatolia_region
+				region = caucasia_region
+				region = crimea_region
+				region = persia_region
+				region = egypt_region
+				region = mashriq_region
+			}
+		}
+		trigger = {
+			army_size_percentage = 1
+		}
+		effect = {
+			thrace_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			northern_greece_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			morea_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			macedonia_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			bulgaria_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			anatolia_region = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			caucasia_region = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			crimea_region = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			persia_region = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			egypt_region = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			mashriq_region = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+	Z0H_protect_greek_brethren = {
+		required_missions = {
+			Z0H_dreams_of_reunion
+		}
+		trigger = {
+			AND = {
+				has_guaranteed = GRE
+				has_won_war_against = {
+					who = CRO
+					max_years_since = 50
+				}
+			}
+		}
+		effect = {
+			set_country_flag = defended_greece
+			151 = {
+				add_base_tax = 5
+				add_base_production = 5
+				add_base_manpower = 3
+			}
+			add_country_modifier = {
+				name = "greek_independence_Z0H"
+				duration = 7300
+			}
+		}
+	}
+	Z0H_reunite_with_greece = {
+		required_missions = {
+			Z0H_protect_greek_brethren
+		}
+		trigger = {
+			senior_union_with = GRE
+			reverse_has_opinion = {
+				who = GRE
+				value = 190
+			}
+		}
+		effect = {
+			inherit = GRE
+			add_country_modifier = {
+				name = "greek_reunion_Z0H"
+				duration = -1
+			}
+		}
+	}
+	Z0H_the_slavic_menace = {
+		required_missions =  {
+			Z0H_reunite_with_greece
+		}
+		trigger = {
+			AND = {
+				army_strength = {
+					who = CRO
+					value = 1.5
+				}
+				army_strength = {
+					who = UKR
+					value = 0.8
+				}
+				army_strength = {
+					who = RUS
+					value = 0.7
+				}
+			}
+		}
+		effect = {
+			add_prestige = 25
+			add_army_professionalism = 0.2
+			add_army_tradition = 20
+		}
+	}				
+	Z0H_end_the_romans = {
+		required_missions = {
+			Z0H_the_slavic_menace
+			Z0H_smack_egypt
+			Z0H_too_far_go_back
+		}
+		trigger = {
+			AND = {
+				OR = {
+					RUS = {
+						great_power_rank = 8
+					}
+					NOT = {
+						exists = RUS
+					}
+				}
+				OR = {
+					UKR = {
+						great_power_rank = 8
+					}
+					NOT = {
+						exists = UKR
+					}
+				}
+			}
+		}
+		effect = {
+			add_prestige = 100
+			add_army_tradition = 100
+			add_army_professionalism = 1
+			add_country_modifier = {
+				name = "romans_removed_Z0H"
+				duration = -1
+			}
+		}
+	}
+}
+pontus_eastward = {
+	slot = 4
+	generic = no
+	ai = yes
+	potential = {
+		tag = Z0H
+	}
+	has_country_shield = yes
+	
+	Z0H_a_look_east = {
+		position = 2
+		required_missions = {
+			Z0H_dreams_of_reunion
+		}
+		provinces_to_highlight = {
+			superregion = persia_superregion
+		}
+		trigger = {
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				value = 15
+				superregion = persia_superregion
+			}
+		}
+		effect = {
+			add_prestige = 25
+			define_general = {
+				shock = 6
+				fire = 5
+				manuever = 6
+				siege = 5
+				name = "Károlos Andréa Puer Pontos"
+			}
+		}
+	}
+	Z0H_further_east = {
+		required_missions = {
+			Z0H_a_look_east
+		}
+		trigger = {
+			num_of_trade_companies = 3
+		}
+		effect = {
+			add_country_modifier = {
+				name = "pontic_trade_Z0H"
+				duration = -1
+			}
+		}
+	}
+	Z0H_too_far_go_back = {
+		required_missions = {
+			Z0H_further_east
+		}
+		trigger = {
+			AND = {
+				151 = {
+					num_of_times_improved = 15
+				}
+				num_of_owned_provinces_with = {
+					value = 20
+					OR = {
+						has_building = mills
+						has_building = farm_estate
+						has_building = tradecompany
+						has_building = plantations
+						has_building = textile
+						has_building = wharf
+						has_building = furnace
+					}
+				}
+			}
+		}
+		effect = {
+			add_prestige = 25
+			define_advisor = {
+				type = trader
+				name = "Scrooge McDucats"
+				skill = 3
+				discount = yes
+			}
+		}
+	}
+}
+pontus_order_66 = {
+	slot = 2
+	generic = no
+	ai = yes
+	potential = {
+		tag = Z0H
+	}
+	has_country_shield = yes
+	
+	Z0H_prepare_order_66 = {
+		position = 2
+		required_missions = {
+			Z0H_dreams_of_reunion
+		}
+		trigger = {
+			has_spy_network_in = {
+				who = JED
+				value = 50
+			}
+		}
+		effect = {
+			JED = {
+				add_corruption = 25
+			}
+			define_advisor = {
+				type = spymaster
+				name = "Anakinos Skai Gouoker"
+				skill = 3
+				discount = yes	
+			}
+			country_event = {
+				id = blessed_events.4
+			}
+		}
+	}
+	Z0H_execute_order_66 = {
+		required_missions = {
+			Z0H_prepare_order_66
+		}
+		trigger = {
+			AND = {
+				light_ship_fraction = 0.4
+				dip_power = JED
+				had_country_flag = {
+					flag = prepared_order_66_flag
+					days = 90
+				}
+			}
+		}
+		effect = {
+			JED = {
+				add_stability = -5
+				random_owned_province = {
+					spawn_rebels = {
+						type = noble_rebels
+						size = 2
+						friend = Z0H
+					}
+				}
+				random_owned_province = {
+					spawn_rebels = {
+						type = noble_rebels
+						size = 2
+						friend = Z0H
+					}
+				}
+				random_owned_province = {
+					spawn_rebels = {
+						type = noble_rebels
+						size = 2
+						friend = Z0H
+					}
+				}
+				random_owned_province = {
+					spawn_rebels = {
+						type = noble_rebels
+						size = 2
+						friend = Z0H
+					}
+				}
+				random_owned_province = {
+					spawn_rebels = {
+						type = noble_rebels
+						size = 2
+						friend = Z0H
+					}
+				}
+			}
+			declare_war_with_cb = {
+				who = JED
+				casus_belli = cb_imperial
+			}
+		}
+	}
+	Z0H_smack_egypt = {
+		required_missions = {
+			Z0H_execute_order_66
+		}
+		provinces_to_highlight = {
+			region = egypt_region
+		}
+		trigger = {
+			AND = {
+				num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+					value = 15
+					region = egypt_region
+				}
+				has_won_war_against = {
+					who = EGY
+					max_years_since = 50
+				}
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = "egypt_smacked_Z0H"
+				duration = 18250
+			}
+		}
+	}
+}

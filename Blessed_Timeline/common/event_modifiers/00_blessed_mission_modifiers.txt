@@ -18,3 +18,28 @@ elbe_courts_reorganised = {
 	administrative_efficiency = 0.05
 	global_unrest = -1
 }
+greek_independence_Z0H = {
+	land_morale = 0.15
+	global_trade_power = 0.2
+}
+greek_reunion_Z0H = {
+	diplomatic_reputation = 2
+	diplomatic_upkeep = 2
+}
+romans_removed_Z0H = {
+	army_tradition_decay = -0.05
+	land_morale = 0.2
+	fire_damage = 0.15
+	fire_damage_received = -0.15
+	discipline = 0.15
+	land_forcelimit_modifier = 0.33
+	global_manpower_modifier = 0.33
+}
+pontic_trade_Z0H = {
+	trade_efficiency = 0.2
+	global_trade_power = 0.1
+}
+egypt_smacked_Z0H = {
+	ae_impact = 0.5
+	province_warscore_cost = 0.25
+}

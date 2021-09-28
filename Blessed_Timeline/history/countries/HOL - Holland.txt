@@ -7,7 +7,7 @@ primary_culture = dutch
 capital = 4383
 add_accepted_culture = dutch
 elector = yes
-1444.11.11= {
+
 1444.11.11= {
 	monarch = {
 		name = "Adriaen"
@@ -51,7 +51,6 @@ elector = yes
 	}
 	add_heir_personality = malevolent_personality
 	add_heir_personality = obsessive_perfectionist_personality
-}
 	add_prestige = 88
 	add_treasury = 84
 }

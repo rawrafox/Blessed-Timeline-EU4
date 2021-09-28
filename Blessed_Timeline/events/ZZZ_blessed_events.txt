@@ -60,6 +60,7 @@ country_event = {
 			target = FROM
 			type = cb_restore_personal_union
 			months = 240
+		}
 	}
 }
 country_event = {
@@ -73,35 +74,36 @@ country_event = {
 			AND = {
 				tag = RUS
 				RUS = {
-					total_development = 800
+					total_development = 1200
 				}
 			}
 			AND = {
 				tag = UKR
 				UKR = {
-					total_development = 800
+					total_development = 1200
 				}
 			}
 		}
 	}
 
 	mean_time_to_happen = {
-		months = 1
+		months = 600
 	}
 
 	fire_only_once = yes
 
 	option = {
 		name = "blessed_events.3a"
-		hidden_effect = {
-			every_country = {
-				limit = {
-					ai = no
-				}
-				declare_war_with_cb = {
-					who = ROOT
-					casus_belli = cb_super_badboy
-				}
+		every_country = {
+			limit = {
+				ai = no
+			}
+			country_event = {
+				id = blessed_events.5
+			}
+			declare_war_with_cb = {
+				who = ROOT
+				casus_belli = cb_super_badboy
 			}
 		}
 	}

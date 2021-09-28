@@ -254,7 +254,7 @@ eastward_elbe = {
 	}
 	restore_the_saxo_finnish_union = {
 		required_missions = {
-			danzig_or_war
+			polish_partition_elbe
 		}
 		provinces_to_highlight = {
 			FIN = {
@@ -505,7 +505,6 @@ elbe_economy_missions = {
 						has_building = wharf
 						has_building = furnace
 					}
-					amount = 2
 				}
 				north_rhine_area = {
 					owned_by = ROOT
@@ -518,7 +517,6 @@ elbe_economy_missions = {
 						has_building = wharf
 						has_building = furnace
 					}
-					amount = 2
 				}
 				lower_rhineland_area = {
 					owned_by = ROOT
@@ -531,7 +529,6 @@ elbe_economy_missions = {
 						has_building = wharf
 						has_building = furnace
 					}
-					amount = 2
 				}
 			}
 		}
