@@ -1,5 +1,5 @@
-owner = CRO
-controller = CRO
+owner = MOL
+controller = MOL
 capital = "Bender"
 is_city = yes
 culture = hungarian
@@ -8,7 +8,7 @@ trade_goods = wine
 base_tax = 2
 base_production = 3
 base_manpower = 3
-add_core = CRO
+add_core = MOL
 add_permanent_claim = HUN
 discovered_by = eastern
 discovered_by = indian

@@ -1,5 +1,5 @@
-owner = CRO
-controller = CRO
+owner = MOL
+controller = MOL
 capital = "Iasi"
 is_city = yes
 culture = hungarian
@@ -8,7 +8,7 @@ trade_goods = wine
 base_tax = 2
 base_production = 1
 base_manpower = 3
-add_core = CRO
+add_core = MOL
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim
