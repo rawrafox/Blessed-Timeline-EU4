@@ -40,6 +40,24 @@ pontic_trade_Z0H = {
 	global_trade_power = 0.1
 }
 egypt_smacked_Z0H = {
-	ae_impact = 0.5
-	province_warscore_cost = 0.25
+	ae_impact = -0.5
+	province_warscore_cost = -0.25
+}
+arabian_nights_AJU = {
+	land_morale = 0.1
+	trade_efficiency = 0.2
+}
+altering_deal_AJU = {
+	fort_level = 2
+	local_development_cost = -0.2
+	province_trade_power_value = 15
+}
+horny_trade_AJU = {
+	global_trade_power = 0.15
+	merchant = 1
+	global_ship_trade_power = 0.25
+}
+coarse_and_irritating_AJU = {
+	diplomatic_upkeep = 1
+	global_missionary_strength = 0.05
 }

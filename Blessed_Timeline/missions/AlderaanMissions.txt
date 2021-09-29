@@ -1,0 +1,291 @@
+AJU_northwards_arabia = {
+	slot = 3
+	generic = no
+	ai = yes
+	potential = {
+		tag = AJU
+	}
+	has_country_shield = yes
+
+	AJU_fully_operational = {
+		provinces_to_highlight = {
+			OR = {
+				region = horn_of_africa_region
+				region = egypt_region
+				region = arabia_region
+				region = central_africa_region
+				region = east_africa_region
+			}
+		}
+		trigger = {
+			army_size_percentage = 1
+		}
+		effect = {
+			horn_of_africa_region = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			egypt_region = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			arabia_region = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			central_africa_region = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			east_africa_region = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+	AJU_arabian_nights = {
+		required_missions = {
+			AJU_fully_operational
+		}
+		provinces_to_highlight = {
+			region = arabia_region
+		}
+		trigger = {
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				value = 10
+				region = arabia_region
+			}
+		}
+		effect = {
+			add_prestige = 25
+			add_country_modifier = {
+				name = "arabian_nights_AJU"
+				duration = -1
+			}
+		}
+	}
+	AJU_meet_in_the_middle = {
+		required_missions = {
+			AJU_arabian_nights
+		}
+		trigger = {
+			NOT = {
+				border_distance = {
+					who = Z0H
+					distance = 1
+					}
+			}
+		}
+		effect = {
+			add_prestige = 25
+			add_army_tradition = 20
+			add_army_professionalism = 0.2
+			define_general = {
+				shock = 5
+				fire = 5
+				manuever = 5
+				siege = 3
+			}
+			set_country_flag = met_in_middle_AJU
+		}
+	}
+	AJU_deal_altered = {
+		required_missions = {
+			AJU_meet_in_the_middle
+		}
+		trigger = {
+			has_won_war_against = {
+				who = Z0H
+				max_years_since = 25
+			}
+		}
+		effect = {
+			capital_scope = {
+				add_base_production = 6
+				add_base_tax = 6
+				add_base_manpower = 3
+				add_permanent_province_modifier = {
+					name = altering_deal_AJU
+					duration = -1
+					desc = altering_deal_AJU_desc
+				}
+			}
+		}
+	}
+	AJU_pray_i_do_not_alter = {
+		required_missions = {
+			AJU_deal_altered
+			AJU_aiec
+			AJU_dont_get_cocky
+		}
+		trigger = {
+			OR = {
+				NOT = {
+					exists = Z0H
+				}
+				Z0H = {
+					great_power_rank = 8
+				}
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = deal_successfully_altered_AJU
+				duration = -1
+			}
+		}
+	}
+}
+AJU_trade_religion_missions = {
+	slot = 2
+	generic = no
+	ai = yes
+	potential = {
+		tag = AJU
+	}
+	has_country_shield = yes
+
+	AJU_me_a_caliph = {
+		position = 2
+		required_missions = {
+			AJU_fully_operational
+		}
+		provinces_to_highlight = {
+			province_id = 384
+		}
+		trigger = {
+			AND = {
+				384 = {
+					is_core = ROOT
+					has_building = temple
+					development = 25
+				}
+				reverse_has_opinion = {
+					who = ADU
+					value = 150
+				}
+			}
+		}
+		effect = {
+			add_prestige = 25
+			define_advisor = {
+				name = "Iznogoud"
+				skill = 3
+				type = theologian
+				discount = yes
+			}
+		}
+	}
+	AJU_trade_around_the_horn = {
+		required_missions = {
+			AJU_me_a_caliph
+		}
+		trigger = {
+			1212 = {
+				has_most_province_trade_power = ROOT
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = horny_trade_AJU
+				duration = -1
+			}
+		}
+	}
+	AJU_aiec = {
+		required_missions = {
+			AJU_trade_around_the_horn
+		}
+		trigger = {
+			num_of_strong_trade_companies = 2
+		}
+		effect = {
+			add_prestige = 25
+			define_advisor = {
+				name = "Kato Al-Neimoidia"
+				type = trader
+				skill = 3
+				discount = yes
+			}
+		}
+	}
+}
+AJU_economy_missions = {
+	slot = 4
+	generic = no
+	ai = yes
+	potential = {
+		tag = AJU
+	}
+	has_country_shield = yes
+
+	AJU_stuff_for_stuff_god = {
+		position = 2
+		required_missions = {
+			AJU_fully_operational
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 15
+				has_building = workshop
+			}
+		}
+		effect = {
+			add_prestige = 25
+			define_advisor = {
+				name = "Klaatu Al-Barada Nikto"
+				type = natural_scientist
+				skill = 3
+				discount = yes
+			}
+		}
+	}
+	AJU_i_hate_sand = {
+		required_missions = {
+			AJU_stuff_for_stuff_god
+		}
+		trigger = {
+			num_of_owned_provinces_with ={
+				value = 10
+				has_terrain = grasslands
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = coarse_and_irritating_AJU
+				duration = -1
+			}
+		}
+	}
+	AJU_dont_get_cocky = {
+		required_missions = {
+			AJU_i_hate_sand
+		}
+		trigger = {
+			ROOT = {
+				is_great_power = yes
+			}
+		}
+		effect = {
+			add_prestige = 25
+			add_adm_power = 250
+			add_mil_power = 250
+			add_dip_power = 250
+		}
+	}
+}
