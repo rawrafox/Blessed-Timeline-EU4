@@ -1,51 +1,51 @@
 Todos:
 - [X] Implement Newbie Protection
-- [ ] Arles:
-- - [ ] Stitch it all together 
-- - [ ] release Lorraine as a vassal
-- - [ ] release Swiss independent tag
-- - [ ] release Catalan independent tag
-- - [ ] release Corsican independent pirate tag
-- [ ] Pontus:
-- - [ ] release Greece with roughly modern day borders, independent
-- - [ ] release The Old Republic - Egypt up to Raqqa, independent
-- - [ ] release Georgia in the Caucasus, independent
-- - [ ] release Crimea, independent
-- [ ] Ruthenia:
-- - [ ] Doesn't know what vassals and/or independents he wants to release.
-- [ ] Ísland:
-- - [ ] Free Ireland
-- - [ ] Free Scootland
-- - [ ] Free Denmark
-- - [ ] Free Finland
-- [ ] Thungaringia:
+- [X] Arles:
+- - [X] Stitch it all together 
+- - [X] release Lorraine as a vassal
+- - [X] release Swiss independent tag
+- - [X] release Catalan independent tag
+- - [X] release Corsican independent pirate tag
+- [X] Pontus:
+- - [X] release Greece with roughly modern day borders, independent
+- - [X] release The Old Republic - Egypt up to Raqqa, independent
+- - [X] release Georgia in the Caucasus, independent
+- - [X] release Crimea, independent
+- [X] Ruthenia:
+- - [X] Doesn't know what vassals and/or independents he wants to release.
+- [X] Ísland:
+- - [X] Free Ireland
+- - [X] Free Scootland
+- - [X] Free Denmark
+- - [X] Free Finland
+- [X] Thungaringia:
 - - [X] Rename it Thungaringia
-- - [ ] Put the exploded stuff together
+- - [X] Put the exploded stuff together
 - - [X] Angria/Hanoverian vassal
-- [ ] Holland:
+- [X] Holland:
 - - [X] Rename it Honkland
-- - [ ] Put some of the exploded stuff together
-- - [ ] Use the rest of it to ensure Prince Density is high enough in the HRE
-- [ ] HRE:
-- - [ ] Punch the AI until Prince Density is high enough
-- [ ] Bohemia:
-- - [ ] add the single lost province back. 
-- [ ] Andalusia:
-- - [ ] More culture changes for some reason
-- - [ ] The three moroccan provinces are divided into two independent tags
-- - [ ] The Balearics are an independent pirate tag
-- - [ ] The Southern pyrenees are a vassal
-- [ ] Sicilies:
-- - [ ] release North African provinces into one or two independents
-- - [ ] release Dalmatian Albania, maybe vassal
-- - [ ] release something in Northern Italy as vassal
-- [ ] Poland and Hungary should probably be joined as a PU or very easily become one. Tag switch to Commonwealth at Admin Tech 10.
-- [ ] Remove Francien culture from the HRE
+- - [X] Put some of the exploded stuff together
+- - [X] Use the rest of it to ensure Prince Density is high enough in the HRE
+- [X] HRE:
+- - [X] Punch the AI until Prince Density is high enough
+- [X] Bohemia:
+- - [X] add the single lost province back. 
+- [X] Andalusia:
+- - [X] More culture changes for some reason
+- - [X] The three moroccan provinces are divided into two independent tags
+- - [X] The Balearics are an independent pirate tag
+- - [X] The Southern pyrenees are a vassal
+- [X] Sicilies:
+- - [X] release North African provinces into one or two independents
+- - [X] release Dalmatian Albania, maybe vassal
+- - [X] release something in Northern Italy as vassal
+- [X] Poland and Hungary should probably be joined as a PU or very easily become one. Tag switch to Commonwealth at Admin Tech 10.
+- [X] Remove Francien culture from the HRE
 - [X] Do something about the culture situation in Scandinavia
 - [X] Do something about the culture situation in Great Balkan Empire
 - [ ] Write personalised splash screens for player tags (this should be easy)
 -  - [X] Great Balkan Empire
--  - [ ] Pontus
+-  - [X] Pontus
 -  - [ ] Ísland
 -  - [X] Arles
 -  - [X] Andalusia
@@ -57,17 +57,17 @@ Todos:
 -  - [ ] Alderaan
 - [ ] Mission trees for player tags _if they don't want generic missions_
 -  - [ ] Great Balkan Empire
--  - [ ] Pontus
--  - [ ] Ísland
--  - [ ] Arles
+-  - [X] Pontus
+-  - [X] Ísland
+-  - [X] Arles
 -  - [ ] Andalusia
--  - [ ] Frisia
--  - [ ] Thungaringia
+-  - [/] Frisia
+-  - [X] Thungaringia
 -  - [ ] Bohemia
 -  - [ ] Scootland
 -  - [ ] Ruthenia
--  - [ ] Alderaan
--  [ ] Implement National Ideas for player tags
+-  - [X] Alderaan
+-  [X] Implement National Ideas for player tags
 -  - [ ] Hungaria
 -  - [X] Great Balkan Empire
 -  - [X] Pontus
@@ -81,15 +81,15 @@ Todos:
 -  - [ ] Ruthenia
 -  - [X] Alderaan
 - [X] Player tags in the HRE should be electors
-- [ ] Make sure player tags start at correct rank:
+- [X] Make sure player tags start at correct rank:
 - - [ ] Pontus -> Empire (depending on how much he's breaking himself up)
 - - [ ] Great Balkan Empire -> Empire (or as a reward in Missions)
 - - [X] Bohemia -> Kingdom
 - - [X] Thungaringia -> Kingdom
 - - [X] Frisia -> Kingdom
-- [ ] Make sure the released independent nations have tags and land associated with them
-- [ ] Make sure the released vassal states have tags and land associated with them
-- - [ ] Make sure the vassal states have the correct parent and child relationships
+- [X] Make sure the released independent nations have tags and land associated with them
+- [X] Make sure the released vassal states have tags and land associated with them
+- - [X] Make sure the vassal states have the correct parent and child relationships
 - [ ] Burn down provinces in Siberia
 - [ ] Consolidate Siberian tags into 4-6 tags
 - [ ] Do some cleanup in the Middle East/Mesopotamia, since there are probably too many tags right now.
