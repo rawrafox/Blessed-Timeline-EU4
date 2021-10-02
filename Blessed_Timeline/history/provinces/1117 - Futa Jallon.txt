@@ -1,5 +1,5 @@
-owner = FUL
-controller = FUL
+owner = KBU
+controller = KBU
 capital = "Timbo"
 is_city = yes
 culture = fulani
@@ -8,8 +8,7 @@ trade_goods = ivory
 base_tax = 2
 base_production = 3
 base_manpower = 3
-add_core = FUL
-add_permanent_claim = MAL
+add_core = KBU
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

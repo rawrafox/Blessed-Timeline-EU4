@@ -1,5 +1,5 @@
-owner = ZAF
-controller = ZAF
+owner = KBU
+controller = KBU
 capital = "Dia"
 is_city = yes
 culture = mali
@@ -8,7 +8,7 @@ trade_goods = wool
 base_tax = 2
 base_production = 3
 base_manpower = 3
-add_core = ZAF
+add_core = KBU
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

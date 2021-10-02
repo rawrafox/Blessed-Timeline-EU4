@@ -1,10 +1,11 @@
 owner = ICE
 controller = ICE
-capital = "Växjö"
+capital = "Vï¿½xjï¿½"
 is_city = yes
 culture = norwegian
 religion = asatru
 trade_goods = naval_supplies
+fort_15th = yes
 base_tax = 2
 base_production = 3
 base_manpower = 3

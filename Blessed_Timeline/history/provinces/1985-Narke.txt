@@ -1,10 +1,11 @@
 owner = ICE
 controller = ICE
-capital = "Örebro"
+capital = "ï¿½rebro"
 is_city = yes
 culture = icelandic
 religion = asatru
 trade_goods = iron
+fort_15th = yes
 base_tax = 4
 base_production = 3
 base_manpower = 3

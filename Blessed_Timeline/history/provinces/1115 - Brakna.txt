@@ -1,5 +1,5 @@
-owner = Z01
-controller = Z01
+owner = JOL
+controller = JOL
 capital = "Aligh"
 is_city = yes
 culture = berber
@@ -9,8 +9,7 @@ fort_15th = yes
 base_tax = 2
 base_production = 1
 base_manpower = 3
-add_core = TLC
-add_core = Z01
+add_core = JOL
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

@@ -1,5 +1,5 @@
-owner = Z42
-controller = Z42
+owner = KBU
+controller = KBU
 capital = "Mbissel"
 is_city = yes
 culture = senegambian
@@ -8,8 +8,7 @@ trade_goods = slaves
 base_tax = 3
 base_production = 1
 base_manpower = 2
-add_core = Z42
-add_permanent_claim = KBU
+add_core = KBU
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim
