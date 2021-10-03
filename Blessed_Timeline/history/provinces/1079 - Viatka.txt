@@ -1,5 +1,5 @@
-owner = UKR
-controller = UKR
+owner = MDV
+controller = MDV
 capital = "Hlynov"
 is_city = yes
 culture = meshchera
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 1
 base_manpower = 2
 add_core = MSH
-add_core = UKR
+add_core = MDV
 add_permanent_claim = PRM
 discovered_by = eastern
 discovered_by = indian

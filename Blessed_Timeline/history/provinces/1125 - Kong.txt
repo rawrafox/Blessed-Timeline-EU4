@@ -1,5 +1,5 @@
-owner = Z4L
-controller = Z4L
+owner = MAL
+controller = MAL
 capital = "Kong"
 is_city = yes
 culture = dyola
@@ -8,8 +8,7 @@ trade_goods = ivory
 base_tax = 3
 base_production = 3
 base_manpower = 2
-add_core = KNG
-add_core = Z4L
+add_core = MAL
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

@@ -1,5 +1,5 @@
-owner = Z0Z
-controller = Z0Z
+owner = MAL
+controller = MAL
 capital = "Tingrela"
 is_city = yes
 culture = bozo
@@ -8,8 +8,7 @@ trade_goods = dyes
 base_tax = 3
 base_production = 3
 base_manpower = 2
-add_core = Z0Z
-add_core = Z32
+add_core = MAL
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

@@ -1,5 +1,5 @@
-owner = Z34
-controller = Z34
+owner = Z0F
+controller = Z0F
 capital = "Ket"
 is_city = yes
 culture = kirgiz
@@ -8,8 +8,7 @@ trade_goods = unknown
 base_tax = 1
 base_production = 2
 base_manpower = 2
-add_core = CHG
-add_core = Z34
+add_core = Z0F
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

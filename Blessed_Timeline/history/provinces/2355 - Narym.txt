@@ -1,5 +1,5 @@
-owner = Z55
-controller = Z55
+owner = Z0C
+controller = Z0C
 capital = "Narym"
 is_city = yes
 culture = khazak
@@ -8,8 +8,7 @@ trade_goods = fish
 base_tax = 1
 base_production = 1
 base_manpower = 2
-add_core = KZH
-add_core = Z55
+add_core = Z0C
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim
