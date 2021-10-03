@@ -1,0 +1,343 @@
+Z02_slot_one_missions = {
+	slot = 1
+	generic = no
+	ai = yes
+	potential = {
+		tag = Z02
+	}
+	has_country_shield = yes
+	
+	Z02_will_have_electorate = {
+		trigger = {
+			AND = {
+				LOR = {
+					vassal_of = ROOT
+				}
+				has_won_war_against = {
+					who = BOH
+					max_years_since = 50
+				}
+			}
+		}
+		effect = {
+			add_prestige = 15
+			LOR = {
+				add_liberty_desire = -25
+			}
+			add_historical_rival = emperor
+		}
+	}
+	Z02_crush_the_catholic_league = {
+		required_missions = {
+			Z02_will_have_electorate
+		}
+		trigger = {
+			OR = {
+				NOT = {
+					hre_religion = catholic
+				}
+				hre_religion_treaty = yes
+			}
+		}
+		effect = {
+			add_prestige = 20
+			add_country_modifier = {
+				name = "catholic_league_crushed_Z02"
+				duration = -1
+			}
+		}
+	}
+	Z02_imperial_designs = {
+		required_missions = {
+			Z02_crush_the_catholic_league
+		}
+		trigger = {
+			AND = {
+				hre_religion_treaty = yes
+				ROOT = {
+					is_emperor = yes
+				}
+			}
+		}
+		effect = {
+			add_prestige = 15
+			add_country_modifier = {
+				name = "imperial_arles_Z02"
+				duration = 7300
+			}
+		}
+	}
+	Z02_a_better_europe = {
+		required_missions ={
+			Z02_imperial_designs
+		}
+		trigger = {
+			NOT = {
+				great_power_rank = 3
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = "building_better_europe_Z02"
+				duration = -1
+			}
+		}
+	}
+}
+Z02_slot_two_missions = {
+	slot = 2
+	generic = no
+	ai = yes
+	potential = {
+		tag = Z02
+	}
+	has_country_shield = yes
+	
+	Z02_catalan_independence = {
+		trigger = {
+			AND = {
+				has_guaranteed = CAT
+				has_won_war_against = {
+					who = ADU
+					max_years_since = 50
+				}
+			}
+		}
+		effect = {
+			add_prestige = 10
+		}
+	}
+	Z02_closer_integration = {
+		required_missions = {
+			Z02_catalan_independence
+		}
+		trigger = {
+			OR = {
+				AND = {
+					reverse_has_opinion = {
+						who = CAT
+						value = 190
+					}
+					dip = 5
+				}
+				AND = {
+					reverse_has_opinion = {
+						who = CAT
+						value = 190
+					}
+					army_strength = {
+						who = ADU
+						value = 1.25
+					}
+				}
+			}
+		}
+		effect = {
+			create_march = CAT
+			add_historical_rival = ADU
+			ADU = {
+				add_historical_rival = ROOT
+			}
+		}
+	}
+	Z02_imperator_esse_delendam = {
+		required_missions = {
+			Z02_crush_the_catholic_league
+		}
+		trigger = {
+			NOT = {
+				hre_size = 1
+			}
+		}
+		effect = {
+			capital_scope = {
+				add_base_production = 4
+				add_base_tax = 4
+				add_base_manpower = 2
+			}
+			add_country_modifier = {
+				name = "not_imperial_arles_Z02"
+				duration = 7300
+			}
+		}
+	}
+}
+Z02_third_slot_missions = {
+	slot = 3
+	generic = no
+	ai = yes
+	potential = {
+		tag = Z02
+	}
+	
+	has_country_shield = yes
+	
+	Z02_burgundian_system = {
+		trigger = {
+			senior_union_with = BUR
+			is_rival = emperor
+			grown_by_development = 150
+		}
+		effect = {
+			define_advisor = {
+				name = "Jean Marie de Dauphiné"
+				type = spymaster
+				female = yes
+				skill = 3
+				discount = yes
+			}
+			add_country_modifier = {
+				name = "adopt_burgundian_system_Z02"
+				duration = 7300
+			}
+		}
+	}
+	Z02_no_more_splitters = {
+		required_missions = {
+			Z02_burgundian_system
+		}
+		trigger = {
+			NOT = {
+				BUR = {
+					exists = yes
+				}
+			}
+		}
+		effect = {
+			lower_rhineland_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			north_rhine_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+	Z02_the_rhineland_matter = {
+		required_missions = {
+			Z02_no_more_splitters
+		}
+		trigger = {
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				value = 10
+				region = north_german_region
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = "rhineland_matter_settled_Z02"
+				duration = -1
+			}
+			picardy_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			flanders_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			wallonia_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}			
+		}
+	}
+	Z02_cathar_brothers = {
+		required_missions = {
+			Z02_the_rhineland_matter
+		}
+		trigger = {
+			OR = {
+				alliance_with = THU
+				alliance_with = ELB
+			}
+		}
+		effect = {
+			add_prestige = 25
+			add_country_modifier = {
+				name = "cathar_brothers_in_arms_Z02"
+				duration = -1
+			}
+			ELB = {
+				add_country_modifier = {
+					name = "cathar_brothers_in_arms_Z02"
+					duration = -1
+				}
+			}
+		}
+	}
+}
+Z02_fourth_slot_missions ={
+	slot = 4
+	generic = no
+	ai = yes
+	potential = {
+		tag = Z02
+	}
+	
+	has_country_shield = yes
+	
+	Z02_plan_our_vengeance = {
+		trigger = {
+			reverse_has_opinion = {
+				who = MLO
+				value = 140
+			}
+			reverse_has_opinion = {
+				who = MAN
+				value = 140
+			}
+		}
+		effect = {
+			piedmont_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			liguria_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+	Z02_avenge_the_crusade = {
+		required_missions = {
+			Z02_plan_our_vengeance
+		}
+		trigger = {
+			owns_all_provinces = {
+				area = piedmont_area
+			}
+			owns_all_provinces = {
+				area = liguria_area
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = "crusade_avenged_Z02"
+				duration = -1
+			}
+		}
+	}
+}

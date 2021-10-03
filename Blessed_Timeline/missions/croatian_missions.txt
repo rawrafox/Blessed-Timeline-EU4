@@ -1,0 +1,265 @@
+CRO_center_missions = {
+	slot = 3
+	generic = no
+	ai = yes
+	potential = {
+		tag = CRO
+	}
+	has_country_shield = yes
+  
+	CRO_dreams_of_an_empire = {
+		trigger = {
+			army_size_percentage = 1
+		}
+		effect = {
+			balkan_region = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			egypt_region = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			anatolia_region = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			carpathia_region = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			italy_region = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+	CRO_a_slice_of_parmesan = {
+		required_missions = {
+			CRO_dreams_of_an_empire
+		}
+		provinces_to_highlight = {
+			region = italy_region
+		}
+		trigger = {
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				value = 10
+				region = italy_region
+			}
+		}
+		effect = {
+			add_prestige = 25
+			define_advisor = {
+				name = "Slobodan Milosevic"
+				type = theologian
+				skill = 3
+				discount = yes
+			}
+		}
+	}
+	CRO_cheeky_gyros = {
+		required_missions = {
+			CRO_a_slice_of_parmesan
+		}
+		trigger = {
+			has_won_war_against = {
+				who = Z0H
+				max_years_since = 50
+			}
+			NOT = {
+				exists = GRE
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = "greek_campaigns_CRO"
+				duration = -1
+			}
+		}
+	}
+	CRO_an_egyptian_adventure = {
+		required_missions = {
+			CRO_cheeky_gyros
+		}
+		trigger = {
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				value = 10
+				region = egypt_region
+			}
+		}
+		effect = {
+			add_prestige = 25
+			add_army_tradition = 20
+		}
+	}
+	CRO_eat_the_greeks = {
+		required_missions = {
+			CRO_crush_the_false_patriarch
+			CRO_an_egyptian_adventure
+			CRO_a_slavic_union
+		}
+		trigger = {
+			OR = {
+				Z0H = {
+					great_power_rank = 8
+				}
+				NOT = {
+					exists = Z0H
+				}
+			}
+		}
+		effect = {
+			add_prestige = 100
+			add_army_tradition = 100
+			add_army_professionalism = 1
+			add_country_modifier = {
+				name = "greeks_removed_CRO"
+				duration = -1
+			}
+		}
+	}
+}
+CRO_left_slot_missions = {
+	slot = 2
+	generic = no
+	ai = yes
+	potential = {
+		tag = CRO
+	}
+	has_country_shield = yes
+	
+	CRO_hungry_hungarian_hippos = {
+		position = 2
+		required_missions = {
+			CRO_dreams_of_an_empire
+		}
+		trigger = {
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				value = 20
+				region = carpathia_region
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = "hungarian_campaigns_CRO"
+				duration = -1
+			}
+		}
+	}
+	CRO_expel_them_all = {
+		required_missions = {
+			CRO_hungry_hungarian_hippos
+		}
+		trigger = {
+			dominant_culture = yugoslav
+		}
+		effect = {
+			add_prestige = 25
+			define_advisor = {
+				name = "Ratko Mladic"
+				type = natural_scientist
+				skill = 3
+				discount = yes
+			}
+		}
+	}
+	CRO_crush_the_false_patriarch = {
+		required_missions = {
+			CRO_expel_them_all
+		}
+		trigger = {
+			NOT = {
+				exists = PAP
+			}
+		}
+		effect = {
+			add_prestige = 25
+			add_country_modifier = {
+				name = "false_patriarch_crushed_CRO"
+				duration = 7300
+			}
+		}
+	}
+}
+CRO_right_slot_missions = {
+	slot = 4
+	generic = no
+	ai = yes
+	potential = {
+		tag = CRO
+	}
+	has_country_shield = yes
+	
+	CRO_internal_stability = {
+		position = 2
+		required_missions = {
+			CRO_dreams_of_an_empire
+		}
+		trigger = {
+			stability = 2
+			estate_loyalty = {
+				estate = estate_nobles
+				loyalty = 60
+			}
+		}
+		effect = {
+			capital_scope = {
+				add_base_production = 4
+				add_base_tax = 4
+				add_base_manpower = 2
+			}
+		}
+	}
+	CRO_internal_prosperity = {
+		required_missions = {
+			CRO_internal_stability
+		}
+		trigger = {
+			share_of_starting_income = 2
+		}
+		effect = {
+			add_country_modifier = {
+				name = "a_modicum_prosperity_CRO"
+				duration = 7300
+			}
+		}
+	}
+	CRO_a_slavic_union = {
+		required_missions = {
+			CRO_internal_prosperity
+		}
+		trigger = {
+			OR = {
+				reverse_has_opinion = {
+					who = RUS
+					value = 190
+				}
+				reverse_has_opinion = {
+					who = UKR
+					value = 190
+				}
+			}
+		}
+		effect = {
+			add_prestige = 25
+			country_event = {
+				id = blessed_events.201
+			}
+		}
+	}
+}

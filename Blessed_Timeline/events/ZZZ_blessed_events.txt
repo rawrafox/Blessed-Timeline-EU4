@@ -1,3 +1,22 @@
+#########################################################
+# Reserved numberspaces:							  	#
+# 1-2 for the Cuckenings							  	#
+# 3 for the Smackening								  	#
+# 101-199 for the Pontic Order 66 events			  	#
+# 201-299 for the Slavic Union events.				  	#
+#														#
+#														#
+#														#
+#														#
+#														#
+#														#
+#														#
+#														#
+#														#
+#														#
+#														#
+#########################################################
+
 #fire an event if someone doesn't have an heir
 namespace = blessed_events
 country_event = {
@@ -8,10 +27,9 @@ country_event = {
 
 	trigger = {
 		AND = {
-			NOT = {
-				ai = yes
-			}
+			ai = no
 			has_heir = no
+			government = monarchy
 		}
 	}
 
@@ -63,6 +81,8 @@ country_event = {
 		}
 	}
 }
+
+#event to cause Great Smackening
 country_event = {
 	id = blessed_events.3
 	title = "blessed_events.3title"
@@ -97,9 +117,12 @@ country_event = {
 		every_country = {
 			limit = {
 				ai = no
+				NOT = {
+					tag = ROOT
+				}
 			}
 			country_event = {
-				id = blessed_events.5
+				id = blessed_events.4
 			}
 			declare_war_with_cb = {
 				who = ROOT

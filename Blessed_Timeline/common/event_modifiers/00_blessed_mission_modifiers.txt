@@ -52,12 +52,77 @@ altering_deal_AJU = {
 	local_development_cost = -0.2
 	province_trade_power_value = 15
 }
+deal_successfully_altered = {
+	army_tradition_decay = -0.05
+	land_morale = 0.2
+	fire_damage = 0.15
+	fire_damage_received = -0.15
+	discipline = 0.15
+	land_forcelimit_modifier = 0.33
+	global_manpower_modifier = 0.33
+}
 horny_trade_AJU = {
 	global_trade_power = 0.15
-	merchant = 1
+	merchants = 1
 	global_ship_trade_power = 0.25
 }
 coarse_and_irritating_AJU = {
 	diplomatic_upkeep = 1
 	global_missionary_strength = 0.05
+}
+catholic_league_crushed_Z02 = {
+	land_morale = 0.1
+	tolerance_heretic = 1
+	religious_unity = 0.1
+}
+imperial_arles_Z02 = {
+	diplomatic_reputation = 3
+	diplomatic_upkeep = 2
+}
+not_imperial_arles_Z02 = {
+	prestige = 2
+	ae_impact = -0.25
+}
+building_better_europe_Z02 = {
+	global_unrest = -2
+	num_accepted_cultures = 2
+}
+cathar_brothers_in_arms_Z02 = {
+	prestige = 1
+	global_missionary_strength = 0.05
+}
+rhineland_matter_settled_Z02 = {
+	land_morale = 0.1
+	discipline = 0.05
+}
+adopt_burgundian_system_Z02 = {
+	diplomatic_reputation = 2
+	diplomatic_upkeep = 1
+}
+crusade_avenged_Z02 = {
+	warscore_cost_vs_other_religion = -0.25
+	church_power_modifier = 0.1
+}
+greek_campaigns_CRO = {
+	land_morale = 0.1
+	infantry_power = 0.1
+}
+greeks_removed_CRO = {
+	core_creation = -0.25
+	administrative_efficiency = 0.2
+	all_power_cost = -0.1
+}
+hungarian_campaigns_CRO = {
+	culture_conversion_cost = -0.2
+	power_projection_from_insults = 0.5
+}
+false_patriarch_crushed_CRO = {
+	diplomatic_reputation = -1
+	tolerance_own = 2
+	yearly_patriarch_authority = 0.1
+	global_missionary_strength = 0.03
+}
+a_modicum_prosperity_CRO = {
+	build_cost = -0.2
+	development_cost = -0.2
 }

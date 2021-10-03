@@ -339,9 +339,11 @@ pontus_order_66 = {
 			AND = {
 				light_ship_fraction = 0.4
 				dip_power = JED
-				had_country_flag = {
-					flag = prepared_order_66_flag
-					days = 90
+				hidden_trigger = {
+					had_country_flag = {
+						flag = prepared_order_66_flag
+						days = 90
+					}
 				}
 			}
 		}
