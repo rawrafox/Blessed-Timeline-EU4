@@ -1,5 +1,5 @@
-owner = UKR
-controller = UKR
+owner = Z07
+controller = Z07
 capital = "Sary-Su"
 is_city = yes
 culture = cuman
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 add_core = CMN
-add_core = UKR
+add_core = Z07
 add_core = ZAZ
 discovered_by = eastern
 discovered_by = indian

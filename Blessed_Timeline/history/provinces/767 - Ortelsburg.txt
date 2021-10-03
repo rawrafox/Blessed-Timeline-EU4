@@ -1,5 +1,5 @@
-owner = UKR
-controller = UKR
+owner = DNZ
+controller = DNZ
 capital = "Ortelsburg"
 is_city = yes
 culture = old_prussian
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 1
 base_manpower = 3
 add_core = PRT
-add_core = UKR
+add_core = DNZ
 add_core = ZAZ
 discovered_by = eastern
 discovered_by = indian

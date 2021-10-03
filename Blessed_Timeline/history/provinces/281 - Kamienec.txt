@@ -1,5 +1,5 @@
-owner = UKR
-controller = UKR
+owner = VOL
+controller = VOL
 capital = "Kamieniec"
 is_city = yes
 culture = ruthenian
@@ -10,7 +10,7 @@ base_tax = 4
 base_production = 3
 base_manpower = 3
 add_core = KIE
-add_core = UKR
+add_core = VOL
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

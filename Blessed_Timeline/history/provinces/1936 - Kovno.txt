@@ -1,5 +1,5 @@
-owner = UKR
-controller = UKR
+owner = POL
+controller = POL
 capital = "Kovno"
 is_city = yes
 culture = byelorussian
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 3
 base_manpower = 3
 add_core = PLT
-add_core = UKR
+add_core = POL
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

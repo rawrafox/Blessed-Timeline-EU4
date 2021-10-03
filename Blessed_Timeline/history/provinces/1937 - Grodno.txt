@@ -1,5 +1,5 @@
-owner = UKR
-controller = UKR
+owner = POL
+controller = POL
 capital = "Grodno"
 is_city = yes
 culture = ruthenian
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 1
 base_manpower = 3
 add_core = KIE
-add_core = UKR
+add_core = POL
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim
