@@ -52,20 +52,20 @@ Todos:
 -  - [X] Frisia
 -  - [ ] Thungaringia
 -  - [X] Bohemia
--  - [ ] Scootland
+-  - [X] Scootland
 -  - [X] Ruthenia
 -  - [ ] Alderaan
 - [ ] Mission trees for player tags _if they don't want generic missions_
--  - [ ] Great Balkan Empire
+-  - [X] Great Balkan Empire
 -  - [X] Pontus
 -  - [X] Ísland
 -  - [X] Arles
 -  - [ ] Andalusia
--  - [/] Frisia
+-  - [X] Frisia
 -  - [X] Thungaringia
--  - [ ] Bohemia
--  - [ ] Scootland
--  - [ ] Ruthenia
+-  - [X] Bohemia
+-  - [X] Scootland
+-  - [X] Ruthenia
 -  - [X] Alderaan
 -  [X] Implement National Ideas for player tags
 -  - [ ] Hungaria
@@ -90,8 +90,8 @@ Todos:
 - [X] Make sure the released independent nations have tags and land associated with them
 - [X] Make sure the released vassal states have tags and land associated with them
 - - [X] Make sure the vassal states have the correct parent and child relationships
-- [ ] Burn down provinces in Siberia
-- [ ] Consolidate Siberian tags into 4-6 tags
+- [X] Burn down provinces in Siberia
+- [X] Consolidate Siberian tags into 4-6 tags
 - [ ] Do some cleanup in the Middle East/Mesopotamia, since there are probably too many tags right now.
 - [ ] Fix No Culture provinces in Pontus
-- [ ] Burn some coastline in Africa
+- [X] Burn some coastline in Africa
