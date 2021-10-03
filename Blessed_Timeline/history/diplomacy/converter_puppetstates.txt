@@ -154,3 +154,17 @@ dependency = {
 	start_date = "1444.11.11"
 	end_date = "1836.1.1"
 }
+dependency = {
+	subject_type = "vassal"
+	first = "Z0H"
+	second = "ARM"
+	start_date = "1444.11.11"
+	end_date = "1836.1.1"
+}
+dependency = {
+	subject_type = "vassal"
+	first = "Z0H"
+	second = "GEO"
+	start_date = "1444.11.11"
+	end_date = "1836.1.1"
+}

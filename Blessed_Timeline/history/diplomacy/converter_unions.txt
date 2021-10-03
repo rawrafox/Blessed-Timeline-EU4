@@ -8,22 +8,6 @@ union=
 
 union=
 {
-	first="TTS"
-	second="ITA"
-	start_date="1444.11.11"
-	end_date="1836.1.1"
-}
-
-union=
-{
-	first="TTS"
-	second="Z0I"
-	start_date="1444.11.11"
-	end_date="1836.1.1"
-}
-
-union=
-{
 	first="Z2N"
 	second="MAK"
 	start_date="1444.11.11"

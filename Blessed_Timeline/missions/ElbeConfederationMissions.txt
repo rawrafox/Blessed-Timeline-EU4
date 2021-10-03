@@ -3,7 +3,10 @@ eastward_elbe = {
   generic = no
   ai = yes
   potential = {
+	OR = {
     tag = ELB
+	tag = THU
+	}
   }
   has_country_shield = yes
 
@@ -35,7 +38,10 @@ eastward_elbe = {
 			}
 		}
 		trigger = {
+			OR = {
+			tag = THU
 			tag = ELB
+		}
 		}
 		effect = {
 			wielkopolska_area = {
