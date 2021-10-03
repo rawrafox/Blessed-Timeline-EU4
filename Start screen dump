@@ -1,13 +1,6 @@
 tag = CRO {
   text = {
-    The Great Balkan Empire
-   
-    Rome was not built in a day. The Great Balkan Empire was nearly not built at all. 
-    After centuries of civil war and turbulence, the Kingdom of Slovenia finally reached a moment of success in the early 15th century. 
-    With some (a lot, according to some people) of help from the Ruthenians, the Slovenians managed to unite the south Slavic peoples and proclaim the Empire, a goal that had been brewing in the Balkans since the 13th century and the legendary king Koloman the Great. 
-  
-    In 1444, the Slavs and the Balkan Empire are in a time of tough decisions. In the north, Hungarians and Poles are building strong armies, in the south the new Greek state is becoming a power in its own right, and even though the golden age of Pontus is over, the Pontics is still a power to be feared. 
-    Will the Balkan Empire go into a time of stability, or expansion? Can the Ruthenians be trusted to keep their promise of Slavic unity? And above all, why do your kids not even look like you?
+    "The Great Balkan Empire \n\nRome was not built in a day. The Great Balkan Empire was nearly not built at all. \n\nAfter centuries of civil war and turbulence, the Kingdom of Slovenia finally reached a moment of success in the early 15th century. With some (a lot, according to some people) of help from the Ruthenians, the Slovenians managed to unite the south Slavic peoples and proclaim the Empire, a goal that had been brewing in the Balkans since the 13th century and the legendary king Koloman the Great. \n\nIn 1444, the Slavs and the Balkan Empire are in a time of tough decisions. In the north, Hungarians and Poles are building strong armies, in the south the new Greek state is becoming a power in its own right, and even though the golden age of Pontus is over, the Pontics is still a power to be feared. \n\nWill the Balkan Empire go into a time of stability, or expansion? Can the Ruthenians be trusted to keep their promise of Slavic unity? And above all, why do your kids not even look like you?"
   }
 }
 tag = UKR {
@@ -22,7 +15,7 @@ tag = BOH {
 }
 tag = AND {
   text = {
-	"The Caliphate of Andalusia \n\n	After the battle of Poiters in 732, one could have believed that the Muslim expansion into Europe would go into a decline. Although this was true for the first centuries following the wars against Charles Martel, in the 11th and 12th century the Islam powers of Iberia started to unite under the fearful Sumadid banner, ecpecially under the rule of of Jyad Ibn Yahya in the early 12th century. \n\n	From this point, the Andalusians became a great European power, not only in terms of military might, but also in art, science and city building. \n\nIn the Catalonian Wars, a conflict against the archrival Arles that raged for 200 years, as well as the wars of the numerous Sicilies, the Andalusians got to show that they were indeed a force to be reckoned with. \n\nIn 1444, the Caliphate of the West is at a crossroad – the path to the east is a path of war, with the kingdoms of the Mediterranean sharpening their swords and hoisting their sails – or… has the time come for the great Muslim seafearers to answer the eternal question: \“What lies beyond that western horizon?\""
+	"The Caliphate of Andalusia \n\nAfter the battle of Poiters in 732, one could have believed that the Muslim expansion into Europe would go into a decline. Although this was true for the first centuries following the wars against Charles Martel, in the 11th and 12th century the Islam powers of Iberia started to unite under the fearful Sumadid banner, ecpecially under the rule of of Jyad Ibn Yahya in the early 12th century. \n\n	From this point, the Andalusians became a great European power, not only in terms of military might, but also in art, science and city building. \n\nIn the Catalonian Wars, a conflict against the archrival Arles that raged for 200 years, as well as the wars of the numerous Sicilies, the Andalusians got to show that they were indeed a force to be reckoned with. \n\nIn 1444, the Caliphate of the West is at a crossroad – the path to the east is a path of war, with the kingdoms of the Mediterranean sharpening their swords and hoisting their sails – or… has the time come for the great Muslim seafearers to answer the eternal question: \“What lies beyond that western horizon?\""
   }
 }
 tag = HOL {
