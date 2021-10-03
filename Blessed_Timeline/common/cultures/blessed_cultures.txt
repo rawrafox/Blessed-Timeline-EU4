@@ -6,6 +6,9 @@ byzantine = {
 	cypriot = {
 		primary = CYP
 	}
+	old_pontic = {
+		primary = Z0H
+	}
 }
 
 andalusian = {

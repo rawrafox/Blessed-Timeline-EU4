@@ -508,6 +508,42 @@ defined_text = {
 
 	#Later Start Dates
 	text = {
+		localisation_key = string_for_arles
+		trigger = {
+			tag = Z02
+		}
+	}
+	text = {
+		localisation_key = string_for_honkland
+		trigger = {
+			tag = HOL
+		}
+	}
+	text = {
+		localisation_key = string_for_andalusia
+		trigger = {
+			tag = ADU
+		}
+	}
+	text = {
+		localisation_key = string_for_bohemia
+		trigger = {
+			tag = BOH
+		}
+	}
+	text = {
+		localisation_key = string_for_ruthenia
+		trigger = {
+			tag = UKR
+		}
+	}
+	text = {
+		localisation_key = string_for_balkan_empire
+		trigger = {
+			tag = CRO
+		}
+	}
+	text = {
 		localisation_key = string_from_ck3
 		trigger = { always = yes }
 	}
