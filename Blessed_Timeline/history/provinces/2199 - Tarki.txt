@@ -1,5 +1,5 @@
-owner = Z14
-controller = Z14
+owner = CIR
+controller = CIR
 capital = "Tarku"
 is_city = yes
 culture = azerbaijani
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 3
 base_manpower = 3
 add_core = ARL
-add_core = Z14
+add_core = CIR
 add_permanent_claim = Z07
 discovered_by = eastern
 discovered_by = indian

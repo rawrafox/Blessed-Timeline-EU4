@@ -1,5 +1,5 @@
-owner = Z29
-controller = Z29
+owner = Z0C
+controller = Z0C
 capital = "Chelyaba"
 is_city = yes
 culture = cuman
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 2
 base_manpower = 2
 add_core = CMN
-add_core = Z29
+add_core = Z0C
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

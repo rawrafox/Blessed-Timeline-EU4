@@ -1,5 +1,5 @@
-owner = Z50
-controller = Z50
+owner = IRQ
+controller = IRQ
 capital = "Tikrit"
 is_city = yes
 culture = assyrian
@@ -9,7 +9,7 @@ base_tax = 5
 base_production = 4
 base_manpower = 4
 add_core = SYR
-add_core = Z50
+add_core = IRQ
 add_permanent_claim = IRQ
 discovered_by = eastern
 discovered_by = indian

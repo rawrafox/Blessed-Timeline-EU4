@@ -1,5 +1,5 @@
-owner = Z0N
-controller = Z0N
+owner = BSH
+controller = BSH
 capital = "Samara"
 is_city = yes
 culture = cuman
@@ -10,7 +10,7 @@ base_production = 3
 base_manpower = 2
 add_core = CMN
 add_core = Z06
-add_core = Z0N
+add_core = BSH
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

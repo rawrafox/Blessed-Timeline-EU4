@@ -1,5 +1,5 @@
-owner = Z0N
-controller = Z0N
+owner = BSH
+controller = BSH
 capital = "Bolgar"
 is_city = yes
 culture = kazani
@@ -10,7 +10,7 @@ base_tax = 4
 base_production = 3
 base_manpower = 4
 add_core = KAZ
-add_core = Z0N
+add_core = BSH
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

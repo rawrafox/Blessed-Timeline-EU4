@@ -1,5 +1,5 @@
-owner = Z2R
-controller = Z2R
+owner = KSH
+controller = KSH
 capital = "Samarkand"
 is_city = yes
 culture = tajik
@@ -10,7 +10,7 @@ base_production = 3
 base_manpower = 3
 extra_cost = 16
 center_of_trade = 2
-add_core = Z2R
+add_core = KSH
 add_permanent_claim = TRS
 discovered_by = eastern
 discovered_by = indian

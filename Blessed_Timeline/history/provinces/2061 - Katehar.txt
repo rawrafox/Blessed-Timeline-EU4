@@ -1,5 +1,5 @@
-owner = DLH
-controller = DLH
+owner = GUJ
+controller = GUJ
 capital = "Badayun"
 is_city = yes
 culture = pahari
@@ -9,7 +9,7 @@ fort_15th = yes
 base_tax = 5
 base_production = 4
 base_manpower = 4
-add_core = DLH
+add_core = GUJ
 add_core = GHR
 discovered_by = eastern
 discovered_by = indian

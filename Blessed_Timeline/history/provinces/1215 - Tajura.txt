@@ -1,5 +1,5 @@
-owner = Z2J
-controller = Z2J
+owner = MHR
+controller = MHR
 capital = "Tajura"
 is_city = yes
 culture = amhara
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 1
 base_manpower = 2
 add_core = ETH
-add_core = Z2J
+add_core = MHR
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

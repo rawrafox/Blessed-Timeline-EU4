@@ -1,5 +1,5 @@
-owner = Z1T
-controller = Z1T
+owner = PUN
+controller = PUN
 capital = "Jammu"
 is_city = yes
 culture = tibetan
@@ -8,7 +8,7 @@ trade_goods = silk
 base_tax = 4
 base_production = 4
 base_manpower = 3
-add_core = Z1T
+add_core = PUN
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

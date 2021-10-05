@@ -1,5 +1,5 @@
-owner = DLH
-controller = DLH
+owner = GUJ
+controller = GUJ
 capital = "Khairabad"
 is_city = yes
 culture = avadhi
@@ -8,7 +8,7 @@ trade_goods = cloth
 base_tax = 5
 base_production = 4
 base_manpower = 3
-add_core = DLH
+add_core = GUJ
 add_permanent_claim = Z2K
 discovered_by = eastern
 discovered_by = indian

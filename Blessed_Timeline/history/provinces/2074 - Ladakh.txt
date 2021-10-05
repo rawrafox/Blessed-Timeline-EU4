@@ -1,5 +1,5 @@
-owner = Z0E
-controller = Z0E
+owner = KSH
+controller = KSH
 capital = "Leh"
 is_city = yes
 culture = tibetan
@@ -8,7 +8,7 @@ trade_goods = wool
 base_tax = 5
 base_production = 3
 base_manpower = 4
-add_core = Z0E
+add_core = KSH
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

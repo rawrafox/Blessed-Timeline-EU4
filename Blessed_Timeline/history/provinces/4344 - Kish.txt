@@ -1,5 +1,5 @@
-owner = Z2R
-controller = Z2R
+owner = KSH
+controller = KSH
 capital = "Shahrisabz"
 is_city = yes
 culture = tajik
@@ -8,7 +8,7 @@ trade_goods = wool
 base_tax = 5
 base_production = 5
 base_manpower = 5
-add_core = Z2R
+add_core = KSH
 add_permanent_claim = TRS
 discovered_by = eastern
 discovered_by = indian

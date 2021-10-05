@@ -1,5 +1,5 @@
-owner = Z1D
-controller = Z1D
+owner = MHR
+controller = MHR
 capital = "Qishn"
 is_city = yes
 culture = mahri_culture
@@ -8,7 +8,7 @@ trade_goods = incense
 base_tax = 3
 base_production = 3
 base_manpower = 2
-add_core = Z1D
+add_core = MHR
 add_permanent_claim = MHR
 discovered_by = eastern
 discovered_by = indian

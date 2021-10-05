@@ -1,5 +1,5 @@
-owner = Z17
-controller = Z17
+owner = IRQ
+controller = IRQ
 capital = "Al Mawsil"
 is_city = yes
 culture = seleucian
@@ -8,7 +8,7 @@ trade_goods = cloth
 base_tax = 5
 base_production = 4
 base_manpower = 4
-add_core = Z17
+add_core = IRQ
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

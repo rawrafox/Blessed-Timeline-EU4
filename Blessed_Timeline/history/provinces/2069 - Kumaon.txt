@@ -1,5 +1,5 @@
-owner = Z1Y
-controller = Z1Y
+owner = PUN
+controller = PUN
 capital = "Champawat"
 is_city = yes
 culture = nepali
@@ -10,7 +10,7 @@ base_tax = 5
 base_production = 4
 base_manpower = 4
 add_core = NPL
-add_core = Z1Y
+add_core = PUN
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

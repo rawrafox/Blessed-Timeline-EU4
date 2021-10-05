@@ -1,5 +1,5 @@
-owner = Z49
-controller = Z49
+owner = MGE
+controller = MGE
 capital = "Keriya"
 is_city = yes
 culture = uyghur
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 1
 base_manpower = 3
 add_core = KAS
-add_core = Z49
+add_core = MGE
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

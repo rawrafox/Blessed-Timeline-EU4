@@ -1,5 +1,5 @@
-owner = DLH
-controller = DLH
+owner = GUJ
+controller = GUJ
 capital = "Zaranj"
 is_city = yes
 culture = baluchi
@@ -10,7 +10,7 @@ base_tax = 2
 base_production = 3
 base_manpower = 3
 add_core = BAL
-add_core = DLH
+add_core = GUJ
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

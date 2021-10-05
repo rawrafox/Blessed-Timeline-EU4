@@ -1,5 +1,5 @@
-owner = DLH
-controller = DLH
+owner = GUJ
+controller = GUJ
 capital = "Qannauj"
 is_city = yes
 culture = avadhi
@@ -10,7 +10,7 @@ base_production = 4
 base_manpower = 5
 extra_cost = 8
 center_of_trade = 1
-add_core = DLH
+add_core = GUJ
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

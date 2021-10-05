@@ -1,5 +1,5 @@
-owner = Z1D
-controller = Z1D
+owner = MHR
+controller = MHR
 capital = "Hafun"
 is_city = yes
 culture = somali
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 add_core = ADA
-add_core = Z1D
+add_core = MHR
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

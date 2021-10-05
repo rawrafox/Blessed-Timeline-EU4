@@ -1,5 +1,5 @@
-owner = Z0X
-controller = Z0X
+owner = KSH
+controller = KSH
 capital = "Balkh"
 is_city = yes
 culture = tajik
@@ -8,7 +8,7 @@ trade_goods = cotton
 base_tax = 2
 base_production = 1
 base_manpower = 3
-add_core = Z0X
+add_core = KSH
 add_permanent_claim = KHO
 discovered_by = eastern
 discovered_by = indian

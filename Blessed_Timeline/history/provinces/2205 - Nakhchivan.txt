@@ -1,5 +1,5 @@
-owner = CIR
-controller = CIR
+owner = GEO
+controller = GEO
 capital = "Nakhchevani"
 is_city = yes
 culture = armenian
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 3
 base_manpower = 3
 add_core = ARM
-add_core = CIR
+add_core = GEO
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

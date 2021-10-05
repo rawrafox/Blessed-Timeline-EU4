@@ -1,5 +1,5 @@
-owner = DLH
-controller = DLH
+owner = GUJ
+controller = GUJ
 capital = "Bareily"
 is_city = yes
 culture = pahari
@@ -8,7 +8,7 @@ trade_goods = cotton
 base_tax = 5
 base_production = 4
 base_manpower = 5
-add_core = DLH
+add_core = GUJ
 add_core = GHR
 discovered_by = eastern
 discovered_by = indian

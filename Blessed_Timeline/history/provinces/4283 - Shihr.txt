@@ -1,5 +1,5 @@
-owner = Z1D
-controller = Z1D
+owner = MHR
+controller = MHR
 capital = "As Shihr"
 is_city = yes
 culture = mahri_culture
@@ -10,7 +10,7 @@ base_production = 3
 base_manpower = 2
 extra_cost = 8
 center_of_trade = 1
-add_core = Z1D
+add_core = MHR
 add_permanent_claim = MHR
 discovered_by = eastern
 discovered_by = indian

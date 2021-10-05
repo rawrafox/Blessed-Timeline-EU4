@@ -1,5 +1,5 @@
-owner = DLH
-controller = DLH
+owner = GUJ
+controller = GUJ
 capital = "Bust"
 is_city = yes
 culture = afghani
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 3
 base_manpower = 3
 add_core = AFG
-add_core = DLH
+add_core = GUJ
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

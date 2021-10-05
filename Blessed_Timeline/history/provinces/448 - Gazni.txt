@@ -1,5 +1,5 @@
-owner = Z5G
-controller = Z5G
+owner = KHO
+controller = KHO
 capital = "Gazni"
 is_city = yes
 culture = afghani
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 3
 base_manpower = 3
 add_core = AFG
-add_core = Z5G
+add_core = KHO
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

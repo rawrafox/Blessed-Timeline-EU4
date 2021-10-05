@@ -1,5 +1,5 @@
-owner = Z3F
-controller = Z3F
+owner = Z0O
+controller = Z0O
 capital = "Monkhkhairkhan"
 is_city = yes
 culture = khazak
@@ -9,7 +9,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 2
 add_core = KZH
-add_core = Z3F
+add_core = Z0O
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

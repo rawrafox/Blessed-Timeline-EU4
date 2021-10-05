@@ -1,5 +1,5 @@
-owner = Z2I
-controller = Z2I
+owner = DAW
+controller = DAW
 capital = "Sahda"
 is_city = yes
 culture = yemeni_culture
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 3
 base_manpower = 3
 add_core = ADE
-add_core = Z2I
+add_core = DAW
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

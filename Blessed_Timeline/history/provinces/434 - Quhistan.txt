@@ -1,5 +1,5 @@
-owner = Z1I
-controller = Z1I
+owner = PER
+controller = PER
 capital = "Bampur"
 is_city = yes
 culture = baluchi
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 3
 base_manpower = 3
 add_core = BAL
-add_core = Z1I
+add_core = PER
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

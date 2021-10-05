@@ -1,5 +1,5 @@
-owner = Z4M
-controller = Z4M
+owner = BRT
+controller = BRT
 capital = "Angara"
 is_city = yes
 culture = buryat
@@ -8,7 +8,7 @@ trade_goods = unknown
 base_tax = 3
 base_production = 2
 base_manpower = 2
-add_core = Z4M
+add_core = BRT
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

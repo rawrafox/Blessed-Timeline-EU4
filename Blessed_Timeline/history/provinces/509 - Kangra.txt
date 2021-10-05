@@ -1,5 +1,5 @@
-owner = Z1T
-controller = Z1T
+owner = PUN
+controller = PUN
 capital = "Kangra"
 is_city = yes
 culture = rajput
@@ -9,7 +9,7 @@ base_tax = 7
 base_production = 2
 base_manpower = 5
 add_core = MER
-add_core = Z1T
+add_core = PUN
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

@@ -1,5 +1,5 @@
-owner = Z26
-controller = Z26
+owner = KHO
+controller = KHO
 capital = "Ahangaran"
 is_city = yes
 culture = afghani
@@ -10,7 +10,7 @@ base_production = 3
 base_manpower = 3
 add_core = AFG
 add_core = Z19
-add_core = Z26
+add_core = KHO
 add_permanent_claim = KHO
 discovered_by = eastern
 discovered_by = indian

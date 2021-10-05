@@ -1,5 +1,5 @@
-owner = DLH
-controller = DLH
+owner = GUJ
+controller = GUJ
 capital = "Jalor"
 is_city = yes
 culture = avadhi
@@ -8,7 +8,7 @@ trade_goods = cotton
 base_tax = 5
 base_production = 3
 base_manpower = 4
-add_core = DLH
+add_core = GUJ
 add_core = MLW
 discovered_by = eastern
 discovered_by = indian
