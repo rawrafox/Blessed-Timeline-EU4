@@ -7,6 +7,8 @@ primary_culture = qurtuban
 capital = 225
 mercantilism = 15
 religious_school = maliki_school
+
+	
 1444.11.11= {
 	monarch = {
 		name = "Umar"

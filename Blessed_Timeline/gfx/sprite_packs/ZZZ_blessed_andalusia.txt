@@ -1,0 +1,27 @@
+dlc098_gra_sprite_pack = {
+	# Tests against every tag in game
+	country_trigger = {
+		primary_culture = qurtuban
+	}
+
+	sprite_infantry = {
+		0 = GRA_INFANTRY_1
+		1 = GRA_INFANTRY_2
+		2 = GRA_INFANTRY_3
+		3 = GRA_INFANTRY_4
+	}
+
+	sprite_cavalry = {
+		0 = GRA_CAVALRY_1
+		1 = GRA_CAVALRY_2
+		2 = GRA_CAVALRY_3
+		3 = GRA_CAVALRY_4
+	}
+
+	sprite_artillery = {
+		0 = GRA_ARTILLERY_1
+		1 = GRA_ARTILLERY_2
+		2 = GRA_ARTILLERY_3
+		3 = GRA_ARTILLERY_4
+	}
+}
