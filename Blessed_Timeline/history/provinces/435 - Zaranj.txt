@@ -1,5 +1,5 @@
-owner = GUJ
-controller = GUJ
+owner = PER
+controller = PER
 capital = "Zaranj"
 is_city = yes
 culture = baluchi
@@ -10,7 +10,7 @@ base_tax = 2
 base_production = 3
 base_manpower = 3
 add_core = BAL
-add_core = GUJ
+add_core = PER
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

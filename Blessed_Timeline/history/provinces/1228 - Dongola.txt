@@ -1,5 +1,5 @@
-owner = MAK
-controller = MAK
+owner = Z2M
+controller = Z2M
 capital = "Dunqula"
 is_city = yes
 culture = nubian
@@ -8,7 +8,7 @@ trade_goods = grain
 base_tax = 5
 base_production = 3
 base_manpower = 4
-add_core = MAK
+add_core = Z2M
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

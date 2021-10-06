@@ -1,5 +1,5 @@
-owner = BNG
-controller = BNG
+owner = PHA
+controller = PHA
 capital = "Purang"
 is_city = yes
 culture = tibetan
@@ -8,7 +8,7 @@ trade_goods = wool
 base_tax = 5
 base_production = 4
 base_manpower = 4
-add_core = BNG
+add_core = PHA
 add_core = NPL
 discovered_by = eastern
 discovered_by = indian

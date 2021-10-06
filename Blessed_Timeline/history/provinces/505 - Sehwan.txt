@@ -1,5 +1,5 @@
-owner = GUJ
-controller = GUJ
+owner = JSL
+controller = JSL
 capital = "Sehwan"
 is_city = yes
 culture = gujarati
@@ -8,7 +8,7 @@ trade_goods = silk
 base_tax = 4
 base_production = 3
 base_manpower = 3
-add_core = GUJ
+add_core = JSL
 add_core = SND
 discovered_by = eastern
 discovered_by = indian

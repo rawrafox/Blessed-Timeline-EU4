@@ -1,5 +1,5 @@
-owner = Z0S
-controller = Z0S
+owner = KAM
+controller = KAM
 capital = "Gyegu"
 is_city = yes
 culture = tibetan
@@ -8,7 +8,7 @@ trade_goods = wool
 base_tax = 4
 base_production = 3
 base_manpower = 3
-add_core = Z0S
+add_core = KAM
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

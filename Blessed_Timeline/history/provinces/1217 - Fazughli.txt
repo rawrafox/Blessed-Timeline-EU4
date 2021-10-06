@@ -1,5 +1,5 @@
-owner = Z3Y
-controller = Z3Y
+owner = Z2M
+controller = Z2M
 capital = "Alays"
 is_city = yes
 culture = nubian
@@ -8,7 +8,7 @@ trade_goods = unknown
 base_tax = 4
 base_production = 4
 base_manpower = 3
-add_core = Z3Y
+add_core = Z2M
 add_permanent_claim = Z2M
 discovered_by = eastern
 discovered_by = indian

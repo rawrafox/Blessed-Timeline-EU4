@@ -1,5 +1,5 @@
-owner = Z0M
-controller = Z0M
+owner = CEY
+controller = CEY
 capital = "Negapatam"
 is_city = yes
 culture = tamil
@@ -10,7 +10,7 @@ base_tax = 6
 base_production = 5
 base_manpower = 7
 add_core = MAD
-add_core = Z0M
+add_core = CEY
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

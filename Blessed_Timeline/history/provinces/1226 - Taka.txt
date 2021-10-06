@@ -1,5 +1,5 @@
-owner = Z47
-controller = Z47
+owner = Z1B
+controller = Z1B
 capital = "Qoz Rajab"
 is_city = yes
 culture = nubian
@@ -8,7 +8,7 @@ trade_goods = livestock
 base_tax = 4
 base_production = 3
 base_manpower = 3
-add_core = Z47
+add_core = Z1B
 add_permanent_claim = BEJ
 discovered_by = eastern
 discovered_by = indian

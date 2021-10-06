@@ -1,5 +1,5 @@
-owner = Z4R
-controller = Z4R
+owner = ODH
+controller = ODH
 capital = "Jumbla"
 is_city = yes
 culture = tibetan
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 4
 base_manpower = 3
 add_core = JML
-add_core = Z4R
+add_core = ODH
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

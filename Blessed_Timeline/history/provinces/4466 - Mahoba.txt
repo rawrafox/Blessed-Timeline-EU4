@@ -1,5 +1,5 @@
-owner = BND
-controller = BND
+owner = GDW
+controller = GDW
 capital = "Mahoba"
 is_city = yes
 culture = vindhyan
@@ -8,7 +8,7 @@ trade_goods = grain
 base_tax = 5
 base_production = 4
 base_manpower = 5
-add_core = BND
+add_core = GDW
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

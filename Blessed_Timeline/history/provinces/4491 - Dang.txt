@@ -1,5 +1,5 @@
-owner = DNG
-controller = DNG
+owner = ODH
+controller = ODH
 capital = "Dang"
 is_city = yes
 culture = tibetan
@@ -8,7 +8,7 @@ trade_goods = wool
 base_tax = 4
 base_production = 2
 base_manpower = 3
-add_core = DNG
+add_core = ODH
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

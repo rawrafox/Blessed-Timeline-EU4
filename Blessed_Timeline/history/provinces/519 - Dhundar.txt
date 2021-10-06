@@ -1,5 +1,5 @@
-owner = Z4U
-controller = Z4U
+owner = JAN
+controller = JAN
 capital = "Amber"
 is_city = yes
 culture = rajput
@@ -11,7 +11,7 @@ base_manpower = 3
 extra_cost = 8
 center_of_trade = 1
 add_core = MER
-add_core = Z4U
+add_core = JAN
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

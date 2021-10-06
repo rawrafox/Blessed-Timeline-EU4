@@ -8,9 +8,9 @@ CRO_center_missions = {
 	has_country_shield = yes
 
 	CRO_dreams_of_an_empire = {
-	#	trigger = {
-	#		army_size_percentage = 1
-	#	}
+		trigger = {
+			army_size_percentage = 1
+		}
 		effect = {
 			balkan_region = {
 				limit = {
@@ -210,12 +210,12 @@ CRO_right_slot_missions = {
 		required_missions = {
 			CRO_dreams_of_an_empire
 		}
-	#	trigger = {
-	#		stability = 2
-	#		estate_loyalty = {
-	#			estate = estate_nobles
-	#			loyalty = 60
-	#		}
+		trigger = {
+			stability = 2
+			estate_loyalty = {
+				estate = estate_nobles
+				loyalty = 60
+			}
 		}
 		effect = {
 			capital_scope = {
@@ -229,9 +229,9 @@ CRO_right_slot_missions = {
 		required_missions = {
 			CRO_internal_stability
 		}
-	#	trigger = {
-	#		share_of_starting_income = 2
-	#	}
+		trigger = {
+			share_of_starting_income = 2
+		}
 		effect = {
 			add_country_modifier = {
 				name = "a_modicum_prosperity_CRO"

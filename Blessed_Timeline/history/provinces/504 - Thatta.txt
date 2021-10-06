@@ -1,5 +1,5 @@
-owner = GUJ
-controller = GUJ
+owner = JSL
+controller = JSL
 capital = "Thatta"
 is_city = yes
 culture = gujarati
@@ -9,7 +9,7 @@ base_tax = 5
 base_production = 5
 base_manpower = 4
 extra_cost = 10
-add_core = GUJ
+add_core = JSL
 add_core = SND
 discovered_by = eastern
 discovered_by = indian

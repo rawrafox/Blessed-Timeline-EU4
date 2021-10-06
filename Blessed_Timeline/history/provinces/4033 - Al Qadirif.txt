@@ -1,5 +1,5 @@
-owner = Z4X
-controller = Z4X
+owner = Z1B
+controller = Z1B
 capital = "Al-Qadarif"
 is_city = yes
 culture = beja
@@ -8,7 +8,7 @@ trade_goods = ivory
 base_tax = 4
 base_production = 3
 base_manpower = 3
-add_core = Z4X
+add_core = Z1B
 add_permanent_claim = BEJ
 discovered_by = eastern
 discovered_by = indian

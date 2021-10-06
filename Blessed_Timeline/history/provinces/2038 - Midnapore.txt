@@ -1,5 +1,5 @@
-owner = AVA
-controller = AVA
+owner = ORI
+controller = ORI
 capital = "Midnapore"
 is_city = yes
 culture = bengali
@@ -8,7 +8,7 @@ trade_goods = spices
 base_tax = 3
 base_production = 2
 base_manpower = 3
-add_core = AVA
+add_core = ORI
 add_permanent_claim = BNG
 discovered_by = eastern
 discovered_by = indian

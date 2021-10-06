@@ -1,5 +1,5 @@
-owner = ALH
-controller = ALH
+owner = PER
+controller = PER
 capital = "Yasuj"
 is_city = yes
 culture = luri
@@ -8,7 +8,7 @@ trade_goods = cloth
 base_tax = 2
 base_production = 3
 base_manpower = 3
-add_core = ALH
+add_core = PER
 add_core = LRI
 add_permanent_claim = PER
 discovered_by = eastern

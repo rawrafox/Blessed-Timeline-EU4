@@ -26,10 +26,11 @@ country_event = {
 	picture = SHIP_SAILING_eventPicture
 
 	trigger = {
-		AND = {
-			ai = no
-			has_heir = no
-			government = monarchy
+		ai = no
+		has_heir = no
+		government = monarchy
+		NOT = {
+			tag = CRO
 		}
 	}
 

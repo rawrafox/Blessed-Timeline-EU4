@@ -1,5 +1,5 @@
-owner = GUJ
-controller = GUJ
+owner = PER
+controller = PER
 capital = "Bust"
 is_city = yes
 culture = afghani
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 3
 base_manpower = 3
 add_core = AFG
-add_core = GUJ
+add_core = PER
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

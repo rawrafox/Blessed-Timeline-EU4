@@ -1,5 +1,5 @@
-owner = KRM
-controller = KRM
+owner = IRQ
+controller = IRQ
 capital = "Ilam"
 is_city = yes
 culture = kurdish
@@ -9,7 +9,7 @@ base_tax = 5
 base_production = 3
 base_manpower = 4
 add_core = ARD
-add_core = KRM
+add_core = IRQ
 add_permanent_claim = PER
 discovered_by = eastern
 discovered_by = indian

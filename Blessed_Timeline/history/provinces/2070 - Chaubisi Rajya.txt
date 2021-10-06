@@ -1,5 +1,5 @@
-owner = Z4H
-controller = Z4H
+owner = PHA
+controller = PHA
 capital = "Ghurka"
 is_city = yes
 culture = tibetan
@@ -8,7 +8,7 @@ trade_goods = naval_supplies
 base_tax = 4
 base_production = 3
 base_manpower = 3
-add_core = Z4H
+add_core = PHA
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

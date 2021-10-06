@@ -1,5 +1,5 @@
-owner = Z4S
-controller = Z4S
+owner = KAM
+controller = KAM
 capital = "Markam"
 is_city = yes
 culture = nepali
@@ -9,7 +9,7 @@ base_tax = 4
 base_production = 3
 base_manpower = 3
 add_core = NPL
-add_core = Z4S
+add_core = KAM
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

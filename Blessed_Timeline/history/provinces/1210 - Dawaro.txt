@@ -1,5 +1,5 @@
-owner = Z15
-controller = Z15
+owner = DAM
+controller = DAM
 capital = "Gende Belo"
 is_city = yes
 culture = harari
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 add_core = HAR
-add_core = Z15
+add_core = DAM
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

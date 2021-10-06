@@ -1,5 +1,5 @@
-owner = UTS
-controller = UTS
+owner = PHA
+controller = PHA
 capital = "Tsurphu"
 is_city = yes
 culture = tibetan
@@ -8,7 +8,7 @@ trade_goods = livestock
 base_tax = 1
 base_production = 1
 base_manpower = 3
-add_core = UTS
+add_core = PHA
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

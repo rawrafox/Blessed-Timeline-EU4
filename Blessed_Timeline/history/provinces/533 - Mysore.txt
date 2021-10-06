@@ -1,5 +1,5 @@
-owner = Z0M
-controller = Z0M
+owner = CEY
+controller = CEY
 capital = "Ummatur"
 is_city = yes
 culture = tamil
@@ -10,7 +10,7 @@ base_tax = 5
 base_production = 4
 base_manpower = 4
 add_core = MAD
-add_core = Z0M
+add_core = CEY
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

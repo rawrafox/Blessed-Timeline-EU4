@@ -1,5 +1,5 @@
-owner = Z0M
-controller = Z0M
+owner = CEY
+controller = CEY
 capital = "Cannanore"
 is_city = yes
 culture = malayalam
@@ -11,7 +11,7 @@ base_manpower = 4
 extra_cost = 8
 center_of_trade = 1
 add_core = VND
-add_core = Z0M
+add_core = CEY
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

@@ -1,5 +1,5 @@
-owner = Z4U
-controller = Z4U
+owner = JAN
+controller = JAN
 capital = "Alwar"
 is_city = yes
 culture = rajput
@@ -9,7 +9,7 @@ base_tax = 3
 base_production = 4
 base_manpower = 3
 add_core = MER
-add_core = Z4U
+add_core = JAN
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

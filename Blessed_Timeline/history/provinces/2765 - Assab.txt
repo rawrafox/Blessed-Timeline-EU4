@@ -1,5 +1,5 @@
-owner = Z3I
-controller = Z3I
+owner = AJU
+controller = AJU
 capital = "Assab"
 is_city = yes
 culture = afar
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 3
 base_manpower = 2
 add_core = AFA
-add_core = Z3I
+add_core = AJU
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

@@ -1,5 +1,5 @@
-owner = GUJ
-controller = GUJ
+owner = PUN
+controller = PUN
 capital = "Dera Ghazi Khan"
 is_city = yes
 culture = sindhi
@@ -8,7 +8,7 @@ trade_goods = wool
 base_tax = 4
 base_production = 3
 base_manpower = 3
-add_core = GUJ
+add_core = PUN
 add_core = SND
 discovered_by = eastern
 discovered_by = indian

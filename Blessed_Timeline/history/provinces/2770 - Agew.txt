@@ -1,5 +1,5 @@
-owner = Z1A
-controller = Z1A
+owner = Z1B
+controller = Z1B
 capital = "Dangila"
 is_city = yes
 culture = amhara
@@ -9,7 +9,7 @@ base_tax = 2
 base_production = 2
 base_manpower = 3
 add_core = ETH
-add_core = Z1A
+add_core = Z1B
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

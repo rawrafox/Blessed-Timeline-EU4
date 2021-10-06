@@ -1,5 +1,5 @@
-owner = Z0M
-controller = Z0M
+owner = CEY
+controller = CEY
 capital = "Kumari"
 is_city = yes
 culture = malayalam
@@ -9,7 +9,7 @@ base_tax = 5
 base_production = 4
 base_manpower = 4
 add_core = VND
-add_core = Z0M
+add_core = CEY
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim
