@@ -115,9 +115,11 @@ country_event = {
 				}
 			}
 		}
+		ai_chance = { factor = 100 }
 	}
 	option = {
 		name = "blessed_events.201b"
+		ai_chance = { factor = 1 }
 	}
 }
 
@@ -150,6 +152,7 @@ country_event = {
 				}
 			}
 		}
+		ai_chance = { factor = 100 }
 	}
 	option = {
 		name = "blessed_events.202b"
@@ -160,6 +163,7 @@ country_event = {
 		}
 		add_prestige = -50
 		add_stability = -2
+		ai_chance = { factor = 1 }
 	}
 }
 
@@ -181,9 +185,11 @@ country_event = {
 			type = cb_super_badboy
 			months = 300
 		}
+		ai_chance = { factor = 100 }
 	}
 	option = {
 		name = "blessed_events.203b"
+		ai_chance = { factor = 1 }
 	}
 }
 
