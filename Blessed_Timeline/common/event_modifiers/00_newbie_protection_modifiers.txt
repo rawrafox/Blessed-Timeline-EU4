@@ -1,19 +1,10 @@
 greater_noob_protection = { #placeholder effects
 	land_morale = 0.1 #probably too much
-	global_tax_modifier = 0.15 #slightly more money
-	global_unrest = -2 #less rebels
-	build_cost = -0.1 #not that much honestly
-	manpower_recovery_speed = 0.2 #slightly faster
-	idea_cost = -0.1 #slightly cheaper
-	diplomatic_reputation = 3 #AI will love them perhaps too much
-	development_cost = -0.1 #slightly cheaper
+	diplomatic_reputation = 2 #AI will love them perhaps too much
 	advisor_cost = -0.1 #slightly cheaper
-	technology_cost = -0.1 #bigly cheaper
 	interest = -1 #yeah probably not
 }
-lesser_noob_protection = { #placeholder effects
-	land_morale = 0.1
+lesser_noob_protection = {
 	advisor_cost = -0.1
-	technology_cost = -0.05
-	global_tax_modifier = 0.1
+	interest = -1
 }
