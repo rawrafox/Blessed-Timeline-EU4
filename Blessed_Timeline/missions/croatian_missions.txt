@@ -6,7 +6,7 @@ CRO_center_missions = {
 		tag = CRO
 	}
 	has_country_shield = yes
-  
+
 	CRO_dreams_of_an_empire = {
 		trigger = {
 			army_size_percentage = 1
@@ -142,7 +142,7 @@ CRO_left_slot_missions = {
 		tag = CRO
 	}
 	has_country_shield = yes
-	
+
 	CRO_hungry_hungarian_hippos = {
 		position = 2
 		required_missions = {
@@ -204,7 +204,7 @@ CRO_right_slot_missions = {
 		tag = CRO
 	}
 	has_country_shield = yes
-	
+
 	CRO_internal_stability = {
 		position = 2
 		required_missions = {
@@ -244,10 +244,19 @@ CRO_right_slot_missions = {
 			CRO_internal_prosperity
 		}
 		trigger = {
-			OR = {
+			if = {
+				limit = {
+					exists = RUS
+				}
 				reverse_has_opinion = {
 					who = RUS
 					value = 190
+				}
+			}
+
+			if = {
+				limit = {
+					exists = UKR
 				}
 				reverse_has_opinion = {
 					who = UKR
