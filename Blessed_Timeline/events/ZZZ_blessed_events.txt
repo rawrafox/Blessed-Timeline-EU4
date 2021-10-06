@@ -178,7 +178,7 @@ country_event = {
 		form_coalition_against = FROM
 		add_casus_belli = {
 			target = FROM
-			type = cb_super_bad_boy
+			type = cb_super_badboy
 			months = 300
 		}
 	}
