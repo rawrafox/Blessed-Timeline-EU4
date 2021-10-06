@@ -21,10 +21,6 @@ historical_units = {
 	muslim_dragoon
 	muslim_mass_infantry
 }
-sprite_packs = {
-	"dlc098_gra_sprite_pack"
-	"dlc097_golden_century_berber_ship_pack"
-}
 monarch_names = {
 	"Abd-al-Rahman #5" = 10
 	"Abdallah #1" = 10
