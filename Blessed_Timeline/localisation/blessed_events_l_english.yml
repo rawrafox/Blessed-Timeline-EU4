@@ -1,9 +1,29 @@
 ﻿l_english:
- blessed_events.1title:0 "A trip to the Balkans."
+ blessed_events.1title:0 "A trip to the Balkans"
  blessed_events.1desc:0 "With the realm heirless, you've decided to take a trip down to the Balkans. After all, you've heard the spouses are very nice this time of year. By happenstance you run into the spouse of the current ruler."
  blessed_events.1a:0 "How you doin'?"
  blessed_events.1b:0 "On second thought, the Balkans are a silly place."
  
  blessed_events.2title:0 "Unfaithful Spouse!"
- blessed_events.2desc:0 "As you walk through your castle, you are approached by your spouse. \n\n \"Pray come with me anon,\" they say, \"there is something that I must needs tell you.\" \n\n Afterwards, as they see the tears streaming down your face, they look at you regretfully. \n \"Such devastation... This was not my intention...\" \n\n You are left with the fact that your spouse has made you a cuckold - again."
+ blessed_events.2desc:0 "As you walk through your castle, you are approached by your spouse. \n\n 'Pray come with me anon,' they say, 'there is something that I must needs tell you.' \n\n Afterwards, as they see the tears streaming down your face, they look at you regretfully. \n 'Such devastation... This was not my intention...' \n\n You are left with the fact that your spouse has made you a cuckold - again."
  blessed_events.2a:0 "[Root.Consort.GetName], what have you done!"
+
+ blessed_events.201title:0 "A Modest Proposal"
+ blessed_events.201desc:0 "Our realm has stabilised over the past years. The risk of civil conflict should be significantly lessened as we have now won the loyalty of the nobles. But an idea has formed - a formal union with our slavic neighours and recurring protectors. Though we would give up some of our independence in submitting to the Tsar, our nobles have made clear they think the cost is worth it."
+ blessed_events.201a:0 "Suggest the union to our bigger brother."
+ blessed_events.201b:0 "This sounds like a bad idea."
+
+ blessed_events.202title:0 "A Modest Proposal"
+ blessed_events.202desc:0 "Our little brothers and sisters in the Balkans have declared themselves ready and willing to submit to our rule."
+ blessed_events.202a:0 "Excellent."
+ blessed_events_202a_tt:0 "This choice may have unintended consequences."
+ blessed_events.202b:0 "Forget it."
+
+ blessed_events.203title:0 "Slaying the Two-Headed Dragon"
+ blessed_events.203desc:0 "With the formation of the Russo-Balkan Union, the security calculus in Europe shifts markedly. Talk is spreading of the possibility of forming a coalition - a Contra-Slavic League - to ensure the independence of the Balkans."
+ blessed_events.203a:0 "They shall have our axe."
+ blessed_events.203b:0 "They shall not have our axe."
+
+ blessed_events.204title:0 "Daddy Rejects Us"
+ blessed_events.204desc:0 "Daddy has calculated the risk of forming a Russo-Balkan Union to be too great, and thus rejected our modest proposal."
+ blessed_events.204a:= "aww"

@@ -82,52 +82,124 @@ country_event = {
 	}
 }
 
-#event to cause Great Smackening
+#an event series for Ruthenia/Russia to get a PU on Great Balkan Empire
+#this choice may have unintended consequences.
+
 country_event = {
-	id = blessed_events.3
-	title = "blessed_events.3title"
-	desc = "blessed_events.3desc"
-	picture = ANGRY_MOB_eventPicture
+	id = blessed_events.201
+	title = "blessed_events.201title"
+	desc = "blessed_events.201desc"
+	picture = GOOD_WITH_MONARCH_eventPicture
 
-	trigger = {
-		OR = {
-			AND = {
-				tag = RUS
-				RUS = {
-					total_development = 1200
-				}
-			}
-			AND = {
-				tag = UKR
-				UKR = {
-					total_development = 1200
-				}
-			}
-		}
-	}
-
-	mean_time_to_happen = {
-		months = 600
-	}
-
-	fire_only_once = yes
+	is_triggered_only = yes
 
 	option = {
-		name = "blessed_events.3a"
-		every_country = {
+		name = "blessed_events.201a"
+		if = {
 			limit = {
-				ai = no
-				NOT = {
-					tag = ROOT
+				exists = RUS
+			}
+			RUS = {
+				country_event = {
+					id = blessed_events.202
 				}
 			}
-			country_event = {
-				id = blessed_events.4
+		}
+		if = {
+			limit = {
+				exists = UKR
 			}
-			declare_war_with_cb = {
-				who = ROOT
-				casus_belli = cb_super_badboy
+			UKR = {
+				country_event = {
+					id = blessed_events.202
+				}
 			}
 		}
+	}
+	option = {
+		name = "blessed_events.201b"
+	}
+}
+
+#an event for Russiathenia to accept the union
+
+country_event = {
+	id = blessed_events.202
+	title = "blessed_events.202title"
+	desc = "blessed_events.202desc"
+	picture = GOOD_WITH_MONARCH_eventPicture
+
+	is_triggered_only = yes
+
+	option = {
+		name = "blessed_events.202a"
+		create_union = FROM
+		custom_tooltip = blessed_events_202a_tt
+		add_prestige = 50
+		hidden_effect = {
+			every_counry = {
+				limit {
+					ai = no
+					NOT = {
+						tag = ROOT
+						tag = FROM
+					}
+				}
+				country_event = {
+					id = blessed_events.203 #coalition time
+				}
+			}
+		}
+	}
+	option = {
+		name = "blessed_events.202b"
+		FROM = {
+			country_event = {
+				id = blessed_events.204
+			}
+		}
+		add_prestige = -50
+		add_stability = -2
+	}
+}
+
+#an event for everyone else to form a coalition
+
+country_event = {
+	id = blessed_events.203
+	title = "blessed_events.203title"
+	desc = "blessed_events.203desc"
+	picture = ANGRY_MOB_eventPicture
+
+	is_triggered_only = yes
+
+	option = {
+		name = "blessed_events.203a"
+		form_coalition_against = FROM
+		add_casus_belli = {
+			target = FROM
+			type = cb_super_bad_boy
+			months = 300
+		}
+	}
+	option = {
+		name = "blessed_events.203b"
+	}
+}
+
+#an event for GBE if they get rejected
+
+country_event = {
+	id = blessed_events.204
+	title = "blessed_events.204title"
+	desc = "blessed_events.204desc"
+	picture = BAD_WITH_MONARCH_eventPicture
+
+	is_triggered_only = yes
+
+	option = {
+		name = "blessed_events.204a"
+		add_prestige = -50
+		add_stability = -2
 	}
 }
