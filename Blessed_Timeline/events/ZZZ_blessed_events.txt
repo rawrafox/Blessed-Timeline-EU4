@@ -137,7 +137,7 @@ country_event = {
 		custom_tooltip = blessed_events_202a_tt
 		add_prestige = 50
 		hidden_effect = {
-			every_counry = {
+			every_country = {
 				limit {
 					ai = no
 					NOT = {
