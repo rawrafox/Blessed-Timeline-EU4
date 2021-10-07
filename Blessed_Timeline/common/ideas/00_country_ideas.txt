@@ -14959,42 +14959,44 @@ GNV_ideas = {
 
 ICE_ideas = {
 	start = {
-		may_explore = yes
-		hostile_attrition = 1
+		trade_steering = 0.15
+		trade_efficiency = 0.10
 	}
 	
 	bonus = {
-		colonists = 1
+		advisor_cost = -0.15
 	}	
 
 	trigger = {
 		tag = ICE
 	}
+
 	free = yes
-	
+
+	ICE_call_of_our_forefathers = {
+		colonist_placement_chance = 0.2
+	}
+
+	ICE_shield_maidens = {
+		land_morale = 0.10
+	}
+
 	ICE_althingi = {
-		global_unrest = -1
-		reform_progress_growth = 0.15
+		reelection_cost = -0.30
 	}
-	ICE_hrafna_floki = {
-		global_ship_recruit_speed = -0.2
-	}
-	ICE_christian_identity = {
-		papal_influence = 1
-		monthly_fervor_increase = 0.25
-		church_power_modifier = 0.1
-		global_missionary_strength = 0.01
-	}
-	ICE_merchant_navy = {
-		light_ship_power = 0.15
-	}
-	ICE_fire_and_ice = {
-		discipline = 0.05
-	}
+
 	ICE_natural_builders = {
-		build_cost = -0.1
-		development_cost = -0.05
+		development_cost = -0.20
 	}
+
+	ICE_seize_the_opportunity = {
+		global_trade_goods_size_modifier = 0.10
+	}
+
+	ICE_write_new_sagas = {
+		all_power_cost = -0.05
+	}
+
 	ICE_nationalism = {
 		culture_conversion_cost = -0.2
 	}

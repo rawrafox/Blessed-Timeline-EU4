@@ -13,6 +13,8 @@ pagan = {
 			meritocracy = 0.5
 			republican_tradition = 0.5
 			heir_chance = 1.00
+			may_recruit_female_generals = yes
+			female_advisor_chance = 0.9
 		}
 
 		country_as_secondary = {
