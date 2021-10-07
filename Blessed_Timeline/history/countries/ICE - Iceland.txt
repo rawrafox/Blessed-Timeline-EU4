@@ -20,40 +20,7 @@ capital = 370
 	}
 
 	add_ruler_personality = free_thinker_personality
-	add_ruler_personality = tactical_genius_personality
-
-	queen = {
-		name = "Athanasios"
-		dynasty = "Puer Pontus"
-		adm = 3
-		dip = 3
-		mil = 2
-		country_of_origin = ICE
-		birth_date = 1402.2.24
-		death_date = 1462.2.24
-		religion = orthodox
-		culture = greek
-	}
-
-	add_queen_personality = free_thinker_personality
-	add_queen_personality = intricate_web_weaver_personality
-
-	heir = {
-		name = "Nikarete"
-		monarch_name = "Nikarete"
-		dynasty = "Puer Pontus"
-		adm = 4
-		dip = 5
-		mil = 3
-		birth_date = 1432.4.17
-		death_date = 1497.4.17
-		female = yes
-		claim = 89
-		religion = asatru
-		culture = icelandic
-	}
-	add_heir_personality = malevolent_personality
-	add_heir_personality = obsessive_perfectionist_personality
+	add_ruler_personality = well_connected_personality
 }
 
 1444.11.11= {

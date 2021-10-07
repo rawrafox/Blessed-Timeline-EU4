@@ -1,17 +1,22 @@
 ck2_converter_generated = yes
 graphical_culture = westerngfx
+
 color = { 43 60 117 }
 revolutionary_colors = { 15 16 15 }
+
+preferred_religion = asatru
+
 historical_idea_groups = {
-	aristocracy_ideas
-	trade_ideas
-	defensive_ideas
-	offensive_ideas
-	economic_ideas
-	diplomatic_ideas
+	exploration_ideas
+	expansion_ideas
+	quantity_ideas
 	innovativeness_ideas
-	maritime_ideas
+	plutocracy_ideas
+	economic_ideas
+	trade_ideas
+	religious_ideas
 }
+
 historical_score = 25
 historical_units = {
 	dutch_maurician
@@ -29,14 +34,15 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
+
 monarch_names = {
 	"Aigidia #0" = -1
 	"Athanasios #0" = 0
-	"Björg #0" = 0
+	"Björg #0" = -1
 	"Brita #1" = -1
 	"Bóthildr #1" = -1
 	"Eiríkr #3" = 10
-	"Ellinor #0" = 0
+	"Ellinor #0" = -1
 	"Freyja #0" = -1
 	"Glóð #1" = -1
 	"Grim #0" = 0
@@ -58,14 +64,15 @@ monarch_names = {
 	"Ragnhildr #2" = -1
 	"Rasa #1" = -1
 	"Skjaldvör #1" = -1
-	"Sophia #0" = -1
+	"Sofia #0" = -1
 	"Sveinn #3" = 10
 	"Sága #1" = -1
 	"Viviana #0" = -1
-	"Yrsa #0" = 0
+	"Yrsa #0" = -1
 	"Ástríðr #1" = -1
 	"Þuriðr #1" = -1
 }
+
 leader_names = {
 	"Amundsen"
 	"Arason"
@@ -86,6 +93,7 @@ leader_names = {
 	"Sverresson"
 	"Torgeirsson"
 }
+
 ship_names = {
 	"Drangajökull"
 	"Eiríksjökull"
@@ -98,4 +106,3 @@ ship_names = {
 	"Tungnafellsjökull"
 	"Vattnajökul"
 }
-preferred_religion = protestant
