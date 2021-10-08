@@ -69,5 +69,9 @@ spriteTypes = {
 		effectFile = "gfx/FX/buttonstate.lua"
 		loadType = "INGAME"
 	}
-	
+
+	spriteType = {
+		name = "GFX_great_project_heddal_temple"	
+		texturefile = "gfx//interface//great_projects//great_project_heddal_stave_church.dds"
+	}	
 }

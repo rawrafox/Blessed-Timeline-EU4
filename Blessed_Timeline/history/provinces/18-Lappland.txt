@@ -10,6 +10,7 @@ base_production = 3
 base_manpower = 3
 add_core = SMI
 add_core = ICE
+add_core = SWE
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

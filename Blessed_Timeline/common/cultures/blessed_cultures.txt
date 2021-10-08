@@ -54,6 +54,10 @@ andalusian = {
 }
 
 scandinavian = {
+	vinlandic = {
+		primary = ICE
+	}
+
 	austmen = {
 		primary = ICE
 	}

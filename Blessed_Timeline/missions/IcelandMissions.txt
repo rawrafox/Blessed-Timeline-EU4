@@ -1,0 +1,1077 @@
+blessed_iceland_1 = {
+  slot = 1
+  generic = no
+  ai = yes
+
+  potential = {
+    tag = ICE
+  }
+
+  has_country_shield = yes
+
+  find_greenland = {
+    icon = mission_establish_high_seas_navy
+
+    trigger = {
+      num_of_explorers = 1
+      greenland_area = {
+        has_discovered = ROOT
+      }
+    }
+
+    effect = {
+      add_country_modifier = {
+        name = "escape_to_vinland"
+        duration = 7300
+      }
+    }
+  }
+
+  colonize_eiriksfjord = {
+    icon = mission_rb_colonise_canada
+
+    required_missions = { find_greenland }
+
+    provinces_to_highlight = {
+      province_id = 1104
+      province_id = 1105
+      NOT = { country_or_non_sovereign_subject_holds = ROOT }
+      has_discovered = ROOT
+    }
+
+    trigger = {
+      owns = 1104
+      owns = 1105
+    }
+
+    effect = {
+      add_country_modifier = {
+        name = "the_unknown_frontier"
+        duration = 7300
+      }
+
+      1104 = {
+        add_base_production = 3
+        add_base_manpower = 3
+      }
+
+      1105 = {
+        add_base_production = 2
+        add_base_manpower = 2
+      }
+
+      colonial_canada = {
+        limit = {
+          NOT = { is_core = ROOT }
+          NOT = { is_permanent_claim = ROOT }
+        }
+        add_permanent_claim = ROOT
+      }
+    }
+  }
+
+  rediscover_vinland = {
+    icon = mission_launch_a_flagship
+
+    required_missions = { colonize_eiriksfjord }
+
+    trigger = {
+      newfoundland_area = {
+        has_discovered = ROOT
+      }
+    }
+
+    effect = {
+      add_dip_power = 100
+      add_country_modifier = {
+        name = "colonial_enthusiasm"
+        duration = 5475
+      }
+    }
+  }
+
+  recover_straumfjord = {
+    icon = mission_settlers_north_america
+
+    required_missions = { rediscover_vinland }
+
+    provinces_to_highlight = {
+      province_id = 981
+      NOT = { country_or_non_sovereign_subject_holds = ROOT }
+      has_discovered = ROOT
+    }
+
+    trigger = {
+      owns = 981
+    }
+
+    effect = {
+      add_country_modifier = {
+        name = "icelandic_colonial_enthusiasm"
+        duration = 7300
+      }
+
+      981 = {
+        change_province_name = Straumfjörð
+        rename_capital = Straumfjörð
+
+        add_province_modifier = {
+          name = "recovered_straumfjord"
+        }
+      }
+    }
+  }
+
+  explore_kariba = {
+    icon = mission_establish_high_seas_navy
+
+    required_missions = { recover_straumfjord }
+
+    trigger = {
+      colonial_the_carribean = {
+        has_discovered = ROOT
+      }
+    }
+
+    effect = {
+      add_country_modifier = {
+        name = "spa_hispaniola_discovered"
+        duration = 7300
+      }
+    }
+  }
+
+  colonize_kariba = {
+    icon = mission_iberian_conquistador
+
+    required_missions = { explore_kariba }
+
+    provinces_to_highlight = {
+      colonial_region = colonial_the_carribean
+      NOT = { country_or_non_sovereign_subject_holds = ROOT }
+      has_discovered = ROOT
+    }
+
+    trigger = {
+      num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+        value = 1
+        colonial_region = colonial_the_carribean
+        is_city = yes
+      }
+    }
+
+    effect = {
+      add_prestige = 15
+      add_country_modifier = {
+        name = "the_unknown_frontier"
+        duration = 7300
+      }
+    }
+  }
+
+  found_havana = {
+    icon = mission_found_havana
+
+    required_missions = { colonize_kariba }
+
+    provinces_to_highlight = {
+      OR = {
+        area = cuba_area
+        area = east_cuba_area
+      }
+      NOT = { country_or_non_sovereign_subject_holds = ROOT }
+      has_discovered = ROOT
+    }
+    
+    trigger = {
+      484 = {
+        country_or_non_sovereign_subject_holds = ROOT
+        OR = {
+          has_building = workshop
+          has_building = counting_house
+        }
+      }
+      num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+        value =  5
+        OR = {
+          area = cuba_area
+          area = east_cuba_area
+        }
+      }
+    }
+    
+    effect = {
+      484 = {
+        add_province_modifier = {
+          name = vinlandic_entrepot
+          duration = -1
+        }
+      }
+
+      central_america_region = {
+        limit = {
+          NOT = { is_core = ROOT }
+          NOT = { is_permanent_claim = ROOT }
+        }
+
+        add_permanent_claim = ROOT
+      }
+    }
+  }
+
+  vinlandic_mayan_conquest = {
+    icon = mission_mayan_conquest
+
+    required_missions = { found_havana }
+    
+    provinces_to_highlight = {
+      region = central_america_region
+      NOT = { country_or_non_sovereign_subject_holds = ROOT }
+      has_discovered = ROOT
+    }
+
+    trigger = {
+      central_america_region = {
+        type = all
+        OR = {
+          is_empty = yes
+          country_or_non_sovereign_subject_holds = ROOT
+        }
+      }
+    }
+
+    effect = {
+      add_dip_power = 100
+      add_country_modifier = {
+        name = "assimilated_maya"
+        duration = 9125
+      }
+    }
+  }
+
+  southern_vinland = {
+    icon = mission_kingdom_of_new_spain
+
+    required_missions = { vinlandic_mayan_conquest vinlandic_aztec_conquest }
+
+    provinces_to_highlight = {
+      region = mexico_region
+      NOT = { country_or_non_sovereign_subject_holds = ROOT }
+      has_discovered = ROOT
+    }
+
+    trigger = {
+      num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+        religion = ROOT
+        region = mexico_region
+        value = 25
+      }
+      mexico_region = {
+        type = all
+        country_or_non_sovereign_subject_holds = ROOT
+      }
+    }
+
+    effect = {
+      add_country_modifier = {
+        name = "adu_native_concord"
+        duration = 18250
+      }
+      colonial_mexico = {
+        limit = {
+          NOT = { is_permanent_claim = ROOT }
+          NOT = { is_core = ROOT	}
+        }
+        add_permanent_claim = ROOT
+      }
+    }
+  }
+
+  vinlandic_california = {
+    icon = mission_colonize_california
+
+    required_missions = { southern_vinland }
+
+    provinces_to_highlight = {
+      colonial_region = colonial_california
+      NOT = { country_or_non_sovereign_subject_holds = ROOT }
+      has_discovered = ROOT
+    }
+
+    trigger = {
+      2021 = {
+        country_or_non_sovereign_subject_holds = ROOT
+        religion = ROOT
+      }
+      num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+        value = 5
+        colonial_region = colonial_california
+        is_city = yes
+      }
+    }
+
+    effect = {
+      2021 = {
+        add_base_production = 3
+      }
+      colonial_california = {
+        limit = {
+          NOT = { is_core = ROOT }
+          NOT = { is_permanent_claim = ROOT }
+        }
+        add_permanent_claim = ROOT
+      }
+      hidden_effect = {
+        every_owned_province = {
+          limit = {
+            has_owner_culture = yes
+            NOT = { nationalism = 1 }
+          }
+          random_list = {
+            1 = { add_base_production = 1 }
+            1 = { add_base_manpower = 1 }
+          }
+        }
+      }
+    }
+  }
+}
+
+blessed_iceland_2 = {
+  slot = 2
+  generic = no
+  ai = yes
+
+  potential = {
+    tag = ICE
+  }
+
+  has_country_shield = yes
+
+  fleet_worthy_hrafna_floki = {
+    icon = mission_sea_battles
+
+    trigger = {
+      navy_size_percentage = 1
+    }
+
+    effect = {
+      add_dip_power = 50
+      add_mercantilism = 5
+      add_country_modifier = {
+        name = "icelandic_merchant_navy"
+        duration = 7300
+      }
+    }
+  }
+
+  icelandic_trade_dominance = {
+    icon = mission_dominate_home_trade_node
+
+    required_missions = { fleet_worthy_hrafna_floki }
+
+    trigger = {
+      home_trade_node = {
+        is_strongest_trade_power = ROOT
+      }
+    }
+
+    effect = {
+      add_dip_power = 50
+      add_mercantilism = 10
+    }
+  }
+
+  icelandic_trade_supremacy = {
+    icon = mission_high_income
+
+    required_missions = { icelandic_trade_dominance }
+
+    trigger = {
+      home_trade_node = {
+        highest_value_trade_node = yes
+        is_strongest_trade_power = ROOT
+      }
+      any_owned_province = {
+      	province_has_center_of_trade_of_level = 3
+      }
+    }
+
+    effect = {
+      add_dip_power = 100
+      add_mercantilism = 10
+
+      370 = {
+        add_province_modifier = {
+          name = "dominant_trade_hub"
+          duration = -1
+        }
+      }
+    }
+  }
+
+  # 4: EMPTY
+  # 5: EMPTY
+
+  grow_our_new_capital = {
+    position = 6
+
+    icon = mission_rb_colonise_canada
+
+    required_missions = { foothold_in_vinland }
+
+    provinces_to_highlight = {
+      province_id = 981
+    }
+    
+    trigger = {
+      981 = {
+        owned_by = ROOT
+        development = 30
+      }
+    }
+
+    effect = {
+      add_adm_power = 100
+      add_dip_power = 100
+
+      981 = {
+        add_province_modifier = {
+          name = "strategic_port"
+          duration = -1
+        }
+      }
+    }
+  }
+
+  vinlandic_hispaniola = {
+    icon = mission_claim_hispaniola
+
+    required_missions = { colonize_kariba }
+
+    provinces_to_highlight = {
+      OR = {
+        AND = {
+          OR = {
+            area = hispaniola_area
+            area = dominica_area
+          }
+          NOT = { country_or_non_sovereign_subject_holds = ROOT }
+
+        }
+        province_id = 490
+      }
+      has_discovered = ROOT
+    }
+
+    trigger = {
+      490 = {
+        country_or_non_sovereign_subject_holds = ROOT
+        OR = {
+          has_building = temple
+          has_building = cathedral
+        }
+      }
+      num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+        value = 5
+        OR = {
+          area = hispaniola_area
+          area = dominica_area
+        }
+        is_city = yes
+      }
+    }
+
+    effect = {
+      set_country_flag = encourage_cash_crops_flag
+      490 = {
+        add_base_production = 3
+        if = {
+          limit = {
+            NOT = {
+              trade_goods = sugar
+            }
+          }
+          change_trade_goods = sugar
+        }
+      }
+      mexico_area = {
+        limit = {
+          NOT = { is_permanent_claim = ROOT	}
+          NOT = { is_core = ROOT	}
+        }
+        add_permanent_claim = ROOT
+      }
+      eastern_mexico_area = {
+        limit = {
+          NOT = { is_permanent_claim = ROOT	}
+          NOT = { is_core = ROOT	}
+        }
+        add_permanent_claim = ROOT
+      }
+      puebla_area = {
+        limit = {
+          NOT = { is_permanent_claim = ROOT	}
+          NOT = { is_core = ROOT	}
+        }
+        add_permanent_claim = ROOT
+      }
+    }
+  }
+
+  vinlandic_aztec_conquest = {
+    icon = mission_iberian_conquistador
+
+    required_missions = { vinlandic_hispaniola }
+
+    provinces_to_highlight = {
+      OR = {
+        area = mexico_area
+        area = eastern_mexico_area
+        area = puebla_area
+      }
+      NOT = { country_or_non_sovereign_subject_holds = ROOT }
+      has_discovered = ROOT
+    }
+
+    trigger = {
+      mexico_area = {
+        type = all
+        country_or_non_sovereign_subject_holds = ROOT
+      }
+      eastern_mexico_area = {
+        type = all
+        country_or_non_sovereign_subject_holds = ROOT
+      }
+      puebla_area = {
+        type = all
+        country_or_non_sovereign_subject_holds = ROOT
+      }
+    }
+
+    effect = {
+      add_country_modifier = {
+        name = "colonial_enthusiasm"
+        duration = 18250
+      }
+      mexico_region = {
+        limit = {
+          NOT = { is_permanent_claim = ROOT	}
+          NOT = { is_core = ROOT	}
+        }
+        add_permanent_claim = ROOT
+      }
+    }
+
+  }
+
+  # 9: EMPTY
+
+  vinlandic_florida = {
+    position = 10
+
+    icon = mission_colonize_florida
+
+    required_missions = { southern_vinland }
+
+    provinces_to_highlight = {
+      OR = {
+        region = southeast_america_region
+        area = west_florida_area
+      }
+      NOT = { country_or_non_sovereign_subject_holds = ROOT }
+      has_discovered = ROOT
+    }
+
+    trigger = {
+      932 = {
+        country_or_non_sovereign_subject_holds = ROOT
+        religion = ROOT
+      }
+      num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+        value = 5
+        OR = {
+          region = southeast_america_region
+          area = west_florida_area
+        }
+        is_city = yes
+      }
+    }
+
+    effect = {
+      add_dip_power = 100
+      932 = {
+        add_base_production = 3
+      }
+      add_country_modifier = {
+        name = "unknown_frontier"
+        duration = 18250
+      }
+    }
+  }
+}
+
+blessed_iceland_3 = {
+  slot = 3
+  generic = no
+  ai = yes
+
+  potential = {
+    tag = ICE
+  }
+
+  has_country_shield = yes
+
+  # 1: EMPTY
+
+  grow_reykjavik = {
+    position = 2
+
+    icon = mission_early_game_buildings
+
+    required_missions = { strengthen_althing }
+
+    provinces_to_highlight = {
+      province_id = 370
+    }
+
+    trigger = {
+      370 = {
+        owned_by = ROOT
+        development = 30
+      }
+    }
+
+    effect = {
+      add_adm_power = 100
+      add_dip_power = 100
+      
+      370 = {
+        center_of_trade = 1
+        add_province_modifier = {
+          name = "strategic_port"
+          duration = -1
+        }
+      }
+    }
+
+  }
+
+  # 3: EMPTY
+
+  defeat_the_ruthenians = {
+    position = 4
+
+    icon = mission_protect_albania
+
+    required_missions = { icelandic_allies }
+
+    trigger = {
+      UKR = {
+        is_great_power = no
+      }
+      RUS = {
+        is_great_power = no
+      }
+    }
+
+    effect = {
+      add_country_modifier = {
+        name = "ruthenian_reveletions"
+        duration = -1
+      }
+    }
+  }
+
+  foothold_in_vinland = {
+    icon = mission_hanseatic_city
+
+    required_missions = { recover_straumfjord }
+
+    provinces_to_highlight = {
+      province_id = 980
+      province_id = 981
+      province_id = 2573
+      NOT = { country_or_non_sovereign_subject_holds = ROOT }
+      has_discovered = ROOT
+    }
+
+    trigger = {
+      owns = 980
+      owns = 981
+      owns = 2573
+    }
+
+    effect = {
+      981 = {
+        center_of_trade = 1
+        add_province_modifier = {
+          name = "strategic_port"
+          duration = -1
+        }
+      }
+
+      set_capital = 981
+      override_country_name = VINLAND
+    }
+  }
+
+  found_vinlandic_universities = {
+    icon = mission_rb_renovate_oxbridge
+
+    required_missions = { foothold_in_vinland }
+
+    provinces_to_highlight = {
+      province_id = 370
+      province_id = 981
+    }
+
+    trigger = {
+      owns_core_province = 370
+      owns_core_province = 981
+      370 = {
+        development = 30
+        has_building = university
+      }
+      981 = {
+        development = 30
+        has_building = university
+      }
+    }
+
+    effect = {
+      add_country_modifier = {
+        name = icelandic_universities
+        duration = -1
+      }
+    }
+  }
+
+  manufactories_in_vinland = {
+    icon = mission_have_manufactories
+
+    required_missions = { found_vinlandic_universities }
+
+    trigger = {
+      num_of_owned_provinces_with = {
+        value = 20
+        has_manufactory_trigger = yes
+      }
+    }
+
+    effect = {
+      add_country_modifier = {
+        name = itm_merchant_princes_prosper
+        duration = -1
+      }
+    }
+  }
+
+  industrialize_vinland = {
+    icon = industrialized_rhineland
+
+    required_missions = { manufactories_in_vinland }
+
+    trigger = {
+      num_of_owned_provinces_with = {
+        value = 50
+        has_manufactory_trigger = yes
+      }
+    }
+
+    effect = {
+      every_owned_province = {
+        limit = {
+          has_manufactory_trigger = yes
+        }
+        add_province_modifier = {
+          name = "industrialized_vinland"
+          duration = -1
+        }
+      }
+    }
+  }
+
+  vinlandic_culture = {
+    icon = mission_establish_high_seas_navy
+
+    required_missions = { industrialize_vinland }
+
+    provinces_to_highlight = {
+      province_id = 981
+    }
+
+    trigger = {
+      owns_core_province = 981
+
+      981 = {
+        development = 50
+        has_building = university
+      }
+    }
+
+    effect = {
+      hidden_effect = {
+        every_owned_province = {
+          limit = {
+            has_owner_culture = yes
+          }
+          change_culture = vinlandic
+        }
+      }
+
+      change_primary_culture = vinlandic
+      add_country_modifier = {
+        name = "vinlandic_culture_born"
+        duration = 18250
+      }
+    }
+  }
+}
+
+blessed_iceland_4 = {
+  slot = 4
+  generic = no
+  ai = yes
+
+  potential = {
+    tag = ICE
+  }
+
+  has_country_shield = yes
+
+  strengthen_althing = {
+    icon = assert_our_sovereignty
+
+    trigger = {
+      NOT = { num_of_loans = 1 }
+      has_mil_advisor = yes
+      has_adm_advisor = yes
+      has_dip_advisor = yes
+    }
+
+    effect = {
+      add_adm_power = 50
+      add_dip_power = 50
+      add_mil_power = 50
+    }
+  }
+
+  let_sweden_go = {
+    icon = mission_monarch_in_throne_room
+
+    required_missions = { strengthen_althing }
+
+    trigger = {
+      exists = SWE
+    }
+
+    effect = {
+      add_adm_power = 200
+      add_dip_power = 200
+      add_mil_power = 200
+
+      370 = {
+        change_trade_goods = paper
+      }
+    }
+  }
+
+  icelandic_allies = {
+    position = 3
+
+    icon = mission_alliances
+
+    trigger = {
+      num_of_allies = 2
+      calc_true_if = {
+        all_ally = {
+          has_opinion = {
+            who = ROOT
+            value = 150
+          }
+        }
+        amount = 2
+      }
+    }
+
+    effect = {
+      create_general = { tradition = 75 }
+      add_country_modifier = {
+        name = "influential_diplomacy"
+        duration = 9125
+      }
+    }
+  }
+
+  defeat_al_andalus = {
+    icon = mission_mare_nostrum
+
+    required_missions = { icelandic_allies }
+
+    trigger = {
+      ADU = {
+        is_great_power = no
+      }
+    }
+
+    effect = {
+      add_country_modifier = {
+        name = "andalusian_inspiration"
+        duration = -1
+      }
+    }
+  }
+
+  # 5: EMPTY
+
+  secure_the_vinlandic_coast = {
+    position = 6
+
+    icon = mission_rb_the_thirteen_colonies
+
+    required_missions = { foothold_in_vinland }
+
+    provinces_to_highlight = {
+      region = colonial_eastern_america
+      NOT = {
+        country_or_non_sovereign_subject_holds = ROOT
+      }
+      has_discovered = ROOT
+    }
+
+    trigger = {
+      num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+        value = 5
+        colonial_region = colonial_eastern_america
+        is_city = yes
+      }
+    }
+
+    effect = {
+      add_adm_power = 100
+      add_dip_power = 100
+      add_mil_power = 100
+      colonial_eastern_america = {
+        limit = {
+          NOT = { is_core = ROOT }
+          NOT = { is_permanent_claim = ROOT }
+        }
+        add_permanent_claim = ROOT
+      }
+    }
+  }
+
+  colonize_central_vinland = {
+    icon = mission_cannons_firing
+
+    required_missions = { secure_the_vinlandic_coast }
+
+    provinces_to_highlight = {
+      region = colonial_louisiana
+      NOT = {
+        country_or_non_sovereign_subject_holds = ROOT
+      }
+      has_discovered = ROOT
+    }
+
+    trigger = {
+      num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+        value = 5
+        colonial_region = colonial_louisiana
+        is_city = yes
+      }
+    }
+
+    effect = {
+      add_adm_power = 100
+      add_dip_power = 100
+      add_mil_power = 100
+      colonial_louisiana = {
+        limit = {
+          NOT = { is_core = ROOT }
+          NOT = { is_permanent_claim = ROOT }
+        }
+        add_permanent_claim = ROOT
+      }
+    }
+  }
+
+  # 8: EMPTY
+  # 9: EMPTY
+  # 10: EMPTY
+}
+
+blessed_iceland_5 = {
+  slot = 5
+  generic = no
+  ai = yes
+
+  potential = {
+    tag = ICE
+  }
+
+  has_country_shield = yes
+
+  # 1: EMPTY
+
+  let_norway_go = {
+    position = 2
+
+    icon = mission_have_two_subjects
+
+    required_missions = { strengthen_althing }
+
+    trigger = {
+      exists = NOR
+    }
+
+    effect = {
+      370 = {
+        set_province_flag = "stolen_stave_church"
+      }
+    }
+  }
+
+  # 3: EMPTY
+
+  long_iceland_ice_tea = {
+    position = 4
+
+    icon = mission_rb_control_the_hansa
+
+    required_missions = { icelandic_allies }
+
+    provinces_to_highlight = {
+      province_id = 28
+      province_id = 236
+      province_id = 484
+      province_id = 491
+      province_id = 2624
+      NOT = { country_or_non_sovereign_subject_holds = ROOT }
+      has_discovered = ROOT
+    }
+
+    trigger = {
+      owns = 28
+      owns = 236
+      owns = 484
+      owns = 491
+      owns = 2624
+    }
+
+    effect = {
+      add_country_modifier = {
+        name = "long_iceland"
+        duration = -1
+      }
+    }
+  }
+
+  # 5: EMPTY
+  # 6: EMPTY
+  # 7: EMPTY
+  # 8: EMPTY
+  # 9: EMPTY
+  # 10: EMPTY
+}

@@ -126,6 +126,7 @@ a_modicum_prosperity_CRO = {
 	build_cost = -0.2
 	development_cost = -0.2
 }
+
 brave_mujahideen_ADU = {
 	local_hostile_attrition = 1
 	local_defensiveness = 0.2
@@ -155,4 +156,78 @@ secure_our_borders_ADU = {
 }
 eastern_trade_ADU = {
 	global_ship_trade_power = 0.2
+}
+
+escape_to_vinland = {
+  colonist_placement_chance = 0.20
+  range = 0.5
+}
+
+icelandic_merchant_navy = {
+  global_ship_trade_power = 0.25
+}
+
+icelandic_colonial_enthusiasm = {
+  colonist_placement_chance = 0.05
+  global_colonial_growth = 25
+}
+
+icelandic_vinlandic_coast = {
+  colonist_placement_chance = 0.05
+  global_colonial_growth = 25
+}
+
+good_native_relations = {
+  native_uprising_chance = -0.5
+  improve_relation_modifier = 0.15
+  trade_efficiency = 0.1
+}
+
+recovered_straumfjord = {
+  province_trade_power_value = 10
+
+  local_development_cost = -0.25
+  local_defensiveness = 0.25
+
+  picture = "province_trade_power_value"
+}
+
+vinlandic_entrepot = {
+  colonist_placement_chance = 0.1
+  global_colonial_growth = 5
+}
+
+assimilated_maya = {
+  development_cost = -0.1
+  culture_conversion_cost = -0.25
+}
+
+strategic_port = {
+	province_trade_power_value = 25
+}
+
+vinlandic_culture_born = {
+  culture_conversion_cost = -0.25
+  missionaries = 1
+  global_missionary_strength = 0.03
+}
+
+icelandic_universities = {
+  advisor_cost = -0.20
+}
+
+industrialized_vinland = {
+  trade_goods_size_modifier = 0.15
+}
+
+andalusian_inspiration = {
+  colonists = 1
+}
+
+ruthenian_reveletions = {
+  development_cost = -0.1
+}
+
+long_iceland = {
+  all_power_cost = -0.05
 }

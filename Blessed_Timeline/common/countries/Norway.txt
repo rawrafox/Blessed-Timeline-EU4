@@ -440,4 +440,4 @@ ship_names = {
 	"Øibuen"
 	"Ørn"
 }
-preferred_religion = protestant
+preferred_religion = asatru
