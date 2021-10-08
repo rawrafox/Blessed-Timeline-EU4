@@ -1,0 +1,199 @@
+ADU_pyrenees_missions = {
+	slot = 2
+	generic = no
+	ai = yes
+	potential = {
+		tag = ADU
+	}
+	
+	has_country_shield = yes
+	
+	ADU_integrate_aragon = {
+		trigger = {
+			aragon_area = {
+				type = all
+				owned_by = ROOT
+			}
+			basque_country = {
+				type = all
+				owned_by = ROOT
+			}
+		}
+		effect = {
+			aragon_area = {
+				type = all
+				limit = {
+					culture = aragonese 
+				}
+				add_base_tax = 1
+			}
+			basque_country = {
+				type = all
+				limit = {
+					culture = aragonese
+				}
+				add_base_tax = 1
+			}
+		}
+	}
+	ADU_support_sufis = {
+		required_missions = {
+			ADU_integrate_aragon
+		}
+		trigger = {
+			basque_country = {
+				has_holy_order_trigger = yes
+			}
+			aragon_area = {
+				has_holy_order_trigger = yes
+			}
+		}
+		effect = {
+			ROOT = {
+				every_province = {
+					limit = {
+						area = basque_country
+						culture = aragonese
+					}
+					add_base_production = 1
+				}
+				every_province = {
+					limit = {
+						area = aragon_area
+						culture = aragonese
+					}
+					add_base_production = 1
+				}
+			}
+		}
+	}
+	ADU_pyreneean_guerillas = {
+		required_missions = {
+			ADU_support_sufis
+		}
+		trigger = {
+			basque_country = {
+				type = all
+				OR = {
+					religion = sunni
+					religion = shiite
+				}
+			}
+			aragon_area = {
+				type = all
+				OR = {
+					religion = sunni
+					religion = shiite
+				}
+			}
+		}
+		effect = {
+			basque_country = {
+				type = all
+				add_province_modifier = {
+					name = "brave_mujahideen_ADU"
+					duration = -1
+				}
+				add_base_manpower = 1
+			}
+			aragon_area = {
+				type = all
+				add_province_modifier = {
+					name = "brave_mujahideen_ADU"
+					duration = -1
+				}
+				add_base_manpower = 1
+			}
+		}
+	}
+	ADU_retake_africa = {
+		required_missions = {
+			ADU_control_mediterranean
+		}
+		trigger = {
+			owns_all_provinces = {
+				area = baleares_area
+			}
+		}
+		effect = {
+		}
+	}
+}
+
+ADU_sevilla_missions = {
+	slot = 4
+	generic = no
+	ai = yes
+	potential = {
+		tag = ADU
+	}
+	
+	has_country_shield = yes
+	
+	ADU_port_of_sevilla = {
+	}
+	ADU_alhambran_splendor = {
+		required_missions = {
+			ADU_port_of_sevilla
+		}
+	}
+	ADU_metropolis_barcelona = {
+		required_missions = {
+			ADU_iberian_dominance
+		}
+	}
+	ADU_to_the_west = {
+		position = 6
+		required_missions = {
+			ADU_prepare_expeditions
+		}
+	}
+	ADU_landfall = {
+		required_missions = {
+			ADU_to_the_west
+		}
+	}
+	ADU_a_new_world = {
+		required_missions = {
+			ADU_landfall
+		}
+	}
+}
+ADU_iberia_missions = {
+	slot = 3
+	generic = no
+	ai = yes
+	potential = {
+		tag = ADU
+	}
+	
+	has_country_shield = yes
+	
+	ADU_iberian_dominance = {
+		position = 2
+	}
+	ADU_control_mediterranean = {
+		required_missions = {
+			ADU_iberian_dominance
+		}
+	}
+	ADU_liberate_suez = {
+		required_missions = {
+			ADU_control_mediterranean
+		}
+	}
+	ADU_prepare_expeditions = {
+		position = 5
+	}
+	ADU_to_the_east = {
+		required_missions = {
+			ADU_prepare_expeditions
+		}
+	}
+	ADU_eastern_trade = {
+		required_missions = {
+			ADU_to_the_east
+		}
+	}
+}
+		

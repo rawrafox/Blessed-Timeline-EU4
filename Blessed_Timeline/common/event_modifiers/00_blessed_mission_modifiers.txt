@@ -126,3 +126,7 @@ a_modicum_prosperity_CRO = {
 	build_cost = -0.2
 	development_cost = -0.2
 }
+brave_mujahideen_ADU = {
+	local_hostile_attrition = 1
+	local_defensiveness = 0.2
+}
