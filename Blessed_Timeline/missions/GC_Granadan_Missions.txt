@@ -5,9 +5,9 @@ ADU_pyrenees_missions = {
 	potential = {
 		tag = ADU
 	}
-	
+
 	has_country_shield = yes
-	
+
 	ADU_integrate_aragon = {
 		trigger = {
 			aragon_area = {
@@ -23,7 +23,7 @@ ADU_pyrenees_missions = {
 			aragon_area = {
 				type = all
 				limit = {
-					culture = aragonese 
+					culture = aragonese
 				}
 				add_base_tax = 1
 			}
@@ -111,11 +111,19 @@ ADU_pyrenees_missions = {
 			ADU_control_mediterranean
 		}
 		trigger = {
-			owns_all_provinces = {
-				area = baleares_area
+			tunisia_area = {
+				type = all
+				owned_by = ROOT
 			}
 		}
 		effect = {
+			create_vassal = TUN
+			create_march = TUN
+			TUN = {
+				define_ruler = {
+					dynasty = "Sumadid"
+				}
+			}
 		}
 	}
 }
@@ -127,19 +135,67 @@ ADU_sevilla_missions = {
 	potential = {
 		tag = ADU
 	}
-	
+
 	has_country_shield = yes
-	
+
 	ADU_port_of_sevilla = {
+		trigger = {
+			224 = {
+				province_has_center_of_trade_of_level = 3
+			}
+		}
+		effect = {
+			224 = {
+				add_province_modifier = {
+					name = "port_of_the_west_ADU"
+					duration = -1
+				}
+			}
+			set_capital = 224
+		}
 	}
 	ADU_alhambran_splendor = {
 		required_missions = {
 			ADU_port_of_sevilla
 		}
+		trigger = {
+			223 = {
+				has_great_project = {
+					type = any
+					tier = 3
+					}
+				}
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = "link_of_europe_ADU"
+				duration = -1
+			}
+		}
 	}
 	ADU_metropolis_barcelona = {
 		required_missions = {
 			ADU_iberian_dominance
+		}
+		trigger = {
+			catalonia_area = {
+				has_holy_order_trigger = yes
+			}
+			current_age = age_of_absolutism
+		}
+		effect = {
+			catalonia_area = {
+				type = all
+				add_province_modifer = {
+					name = "sufi_presence_ADU"
+					duration = 5475
+				}
+				add_province_modifier = {
+					name = "regional_defense_councils_ADU"
+					duration = -1
+				}
+			}
 		}
 	}
 	ADU_to_the_west = {
@@ -166,9 +222,9 @@ ADU_iberia_missions = {
 	potential = {
 		tag = ADU
 	}
-	
+
 	has_country_shield = yes
-	
+
 	ADU_iberian_dominance = {
 		position = 2
 	}
@@ -196,4 +252,3 @@ ADU_iberia_missions = {
 		}
 	}
 }
-		
