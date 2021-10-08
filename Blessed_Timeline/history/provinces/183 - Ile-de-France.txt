@@ -8,7 +8,7 @@ trade_goods = paper
 base_tax = 6
 base_production = 5
 base_manpower = 6
-add_core = PRO
+
 add_core = Z02
 add_permanent_claim = FRA
 discovered_by = eastern

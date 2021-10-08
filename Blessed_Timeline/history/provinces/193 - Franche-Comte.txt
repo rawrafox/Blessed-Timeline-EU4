@@ -1,6 +1,6 @@
 owner = BUR
 controller = BUR
-capital = "Besançon"
+capital = "Besanï¿½on"
 is_city = yes
 culture = occitain
 religion = cathar
@@ -9,7 +9,7 @@ hre = no
 base_tax = 3
 base_production = 4
 base_manpower = 3
-add_core = PRO
+
 add_core = BUR
 discovered_by = eastern
 discovered_by = indian

@@ -9,7 +9,7 @@ hre = no
 base_tax = 5
 base_production = 4
 base_manpower = 4
-add_core = PRO
+
 add_core = Z02
 discovered_by = eastern
 discovered_by = indian

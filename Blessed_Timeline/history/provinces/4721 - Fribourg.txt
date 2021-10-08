@@ -9,7 +9,7 @@ hre = yes
 base_tax = 2
 base_production = 3
 base_manpower = 3
-add_core = PRO
+
 add_core = SWI
 add_permanent_claim = BUR
 discovered_by = eastern

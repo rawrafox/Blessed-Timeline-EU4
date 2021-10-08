@@ -1,6 +1,6 @@
 owner = ALS
 controller = ALS
-capital = "Straßburg"
+capital = "Straï¿½burg"
 is_city = yes
 culture = alsatian
 religion = cathar
@@ -12,7 +12,7 @@ base_production = 2
 base_manpower = 3
 extra_cost = 8
 center_of_trade = 1
-add_core = PRO
+
 add_core = ALS
 discovered_by = eastern
 discovered_by = indian

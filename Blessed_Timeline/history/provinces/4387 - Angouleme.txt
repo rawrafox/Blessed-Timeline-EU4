@@ -1,6 +1,6 @@
 owner = Z02
 controller = Z02
-capital = "Angoulême"
+capital = "Angoulï¿½me"
 is_city = yes
 culture = occitain
 religion = cathar
@@ -8,7 +8,7 @@ trade_goods = livestock
 base_tax = 4
 base_production = 4
 base_manpower = 3
-add_core = PRO
+
 add_core = Z02
 discovered_by = eastern
 discovered_by = indian

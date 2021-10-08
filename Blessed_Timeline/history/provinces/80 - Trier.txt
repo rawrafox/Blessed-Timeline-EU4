@@ -9,7 +9,7 @@ hre = yes
 base_tax = 3
 base_production = 4
 base_manpower = 3
-add_core = PRO
+
 add_core = LOR
 discovered_by = eastern
 discovered_by = indian

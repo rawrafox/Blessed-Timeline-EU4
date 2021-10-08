@@ -12,7 +12,7 @@ base_production = 4
 base_manpower = 4
 extra_cost = 10
 center_of_trade = 1
-add_core = PRO
+
 add_core = Z02
 discovered_by = eastern
 discovered_by = indian

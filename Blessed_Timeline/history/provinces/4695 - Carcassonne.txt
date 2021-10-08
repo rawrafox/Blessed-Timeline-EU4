@@ -10,7 +10,7 @@ base_tax = 2
 base_production = 3
 base_manpower = 3
 add_core = Z02
-add_core = PRO
+
 discovered_by = eastern
 discovered_by = indian
 discovered_by = muslim

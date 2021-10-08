@@ -1,6 +1,6 @@
 owner = Z02
 controller = Z02
-capital = "Orléans"
+capital = "Orlï¿½ans"
 is_city = yes
 culture = occitain
 religion = cathar
@@ -10,7 +10,7 @@ base_tax = 5
 base_production = 4
 base_manpower = 5
 center_of_trade = 1
-add_core = PRO
+
 add_core = Z02
 discovered_by = eastern
 discovered_by = indian
