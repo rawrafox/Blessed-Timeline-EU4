@@ -163,7 +163,6 @@ ADU_sevilla_missions = {
 				has_great_project = {
 					type = any
 					tier = 3
-					}
 				}
 			}
 		}
@@ -187,7 +186,7 @@ ADU_sevilla_missions = {
 		effect = {
 			catalonia_area = {
 				type = all
-				add_province_modifer = {
+				add_province_modifier = {
 					name = "sufi_presence_ADU"
 					duration = 5475
 				}
@@ -203,15 +202,52 @@ ADU_sevilla_missions = {
 		required_missions = {
 			ADU_prepare_expeditions
 		}
+		trigger = {
+			new_world = { has_discovered = ROOT }
+		}
+		effect = {
+			add_country_modifier = {
+				name = "to_new_lands_ADU"
+				duration = 5475
+			}
+		}
 	}
 	ADU_landfall = {
 		required_missions = {
 			ADU_to_the_west
 		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 1
+				OR = {
+					continent = north_america
+					continent = south_america
+				}
+			}
+		}
+		effect = {
+			define_conquistador = {
+				name = "Mustafa Azemmouri"
+				shock = 4
+				fire = 5
+				manuever = 4
+				siege = 1
+			}
+		}
 	}
 	ADU_a_new_world = {
 		required_missions = {
 			ADU_landfall
+		}
+		trigger = {
+			colony = 6
+		}
+		effect = {
+			add_dip_power = 100
+			add_country_modifier = {
+				name = "colonial_shipping_lanes_ADU"
+				duration = 5475
+			}
 		}
 	}
 }
@@ -227,28 +263,148 @@ ADU_iberia_missions = {
 
 	ADU_iberian_dominance = {
 		position = 2
+		trigger = {
+			iberia_region = {
+				type = all
+				owned_by = root
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = "secure_our_borders_ADU"
+				duration = -1
+			}
+			corsica_sardinia_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+		}
 	}
 	ADU_control_mediterranean = {
 		required_missions = {
 			ADU_iberian_dominance
+		}
+		trigger = {
+			corsica_sardinia_area = {
+				type = all
+				owns_or_non_sovereign_subject_of = ADU
+			}
+		}
+		effect = {
+			egypt_region = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			tunisia_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			palestine_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
 		}
 	}
 	ADU_liberate_suez = {
 		required_missions = {
 			ADU_control_mediterranean
 		}
+		trigger = {
+			egypt_region = {
+				type = all
+				owner = {
+					religion_group = muslim
+				}
+			}
+			palestine_area = {
+				type = all
+				owner = {
+					religion_group = muslim
+				}
+			}
+		}
+		effect = {
+			if = {
+				limit = {
+					exists = EGY
+				}
+				egypt_region = {
+					type = all
+					limit = {
+						owned_by = ROOT
+					}
+					cede_province = EGY
+				}
+				palestine_area = {
+					type = all
+					limit = {
+						owned_by = ROOT
+					}
+					cede_province = EGY
+				}
+				add_splendor = 800
+			}
+			if = {
+				limit = {
+					NOT = {
+						exists = EGY
+					}
+				}
+				add_splendor = 400
+			}
+		}
 	}
 	ADU_prepare_expeditions = {
 		position = 5
+		trigger = {
+			navy_size_percentage = 1
+		}
+		effect = {
+			create_explorer = { tradition = 75 }
+		}
 	}
 	ADU_to_the_east = {
 		required_missions = {
 			ADU_prepare_expeditions
 		}
+		trigger = {
+			cape_of_good_hope_area = { has_discovered = ROOT }
+			somaliland_area = { has_discovered = ROOT }
+		}
+		effect = {
+			every_province = {
+				limit = {
+					owned_by = AJU
+				}
+				discover_country = root
+			}
+			add_dip_power = 100
+		}
 	}
 	ADU_eastern_trade = {
 		required_missions = {
 			ADU_to_the_east
+		}
+		trigger = {
+			num_of_trade_companies = 6
+		}
+		effect = {
+			add_country_modifier = {
+				name = "eastern_trade_ADU"
+				duration = 5475
+			}
 		}
 	}
 }
