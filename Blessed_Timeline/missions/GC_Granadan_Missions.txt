@@ -9,6 +9,12 @@ ADU_pyrenees_missions = {
 	has_country_shield = yes
 
 	ADU_integrate_aragon = {
+		provinces_to_highlight = {
+		OR = {
+			area = basque_country
+			area = aragon_area
+		}
+		}
 		trigger = {
 			aragon_area = {
 				type = all
@@ -37,6 +43,12 @@ ADU_pyrenees_missions = {
 		}
 	}
 	ADU_support_sufis = {
+		provinces_to_highlight = {
+		OR = {
+			area = aragon_area
+			area = basque_country
+		}
+		}
 		required_missions = {
 			ADU_integrate_aragon
 		}
@@ -70,6 +82,12 @@ ADU_pyrenees_missions = {
 	ADU_pyreneean_guerillas = {
 		required_missions = {
 			ADU_support_sufis
+		}
+		provinces_to_highlight = {
+		OR = {
+			area = basque_country
+			area = aragon_area
+		}
 		}
 		trigger = {
 			basque_country = {
@@ -110,6 +128,9 @@ ADU_pyrenees_missions = {
 		required_missions = {
 			ADU_control_mediterranean
 		}
+		provinces_to_highlight ={
+			area = tunisia_area
+		}
 		trigger = {
 			tunisia_area = {
 				type = all
@@ -139,6 +160,9 @@ ADU_sevilla_missions = {
 	has_country_shield = yes
 
 	ADU_port_of_sevilla = {
+		provinces_to_highlight = {
+			id = 224
+		}
 		trigger = {
 			224 = {
 				province_has_center_of_trade_of_level = 3
@@ -158,6 +182,9 @@ ADU_sevilla_missions = {
 		required_missions = {
 			ADU_port_of_sevilla
 		}
+		provinces_to_highlight = {
+			id = 223
+		}
 		trigger = {
 			223 = {
 				has_great_project = {
@@ -169,13 +196,16 @@ ADU_sevilla_missions = {
 		effect = {
 			add_country_modifier = {
 				name = "link_of_europe_ADU"
-				duration = -1
+				duration = 5475
 			}
 		}
 	}
 	ADU_metropolis_barcelona = {
 		required_missions = {
 			ADU_iberian_dominance
+		}
+		provinces_to_highlight = {
+			area = catalonia_area
 		}
 		trigger = {
 			catalonia_area = {
@@ -219,10 +249,7 @@ ADU_sevilla_missions = {
 		trigger = {
 			num_of_owned_provinces_with = {
 				value = 1
-				OR = {
-					continent = north_america
-					continent = south_america
-				}
+				continent = new_world
 			}
 		}
 		effect = {
@@ -263,6 +290,9 @@ ADU_iberia_missions = {
 
 	ADU_iberian_dominance = {
 		position = 2
+		provinces_to_highlight = {
+			region = iberia_region
+		}
 		trigger = {
 			iberia_region = {
 				type = all
@@ -287,10 +317,12 @@ ADU_iberia_missions = {
 		required_missions = {
 			ADU_iberian_dominance
 		}
+		provinces_to_highlight = {
+			area = corsica_sardinia_area
+		}
 		trigger = {
-			corsica_sardinia_area = {
-				type = all
-				owns_or_non_sovereign_subject_of = ADU
+			owns_all_provinces = {
+				area = corsica_sardinia_area
 			}
 		}
 		effect = {
@@ -320,6 +352,12 @@ ADU_iberia_missions = {
 	ADU_liberate_suez = {
 		required_missions = {
 			ADU_control_mediterranean
+		}
+		provinces_to_highlight = {
+		OR = {
+			region = egypt_region
+			area = palestine_area
+		}
 		}
 		trigger = {
 			egypt_region = {

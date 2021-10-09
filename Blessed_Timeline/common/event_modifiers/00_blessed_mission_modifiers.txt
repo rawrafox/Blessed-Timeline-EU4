@@ -54,12 +54,12 @@ altering_deal_AJU = {
 }
 deal_successfully_altered = {
 	army_tradition_decay = -0.05
-	land_morale = 0.2
-	fire_damage = 0.15
+	land_morale = 0.1
+	shock_damage_received = -0.15
 	fire_damage_received = -0.15
-	discipline = 0.15
-	land_forcelimit_modifier = 0.33
-	global_manpower_modifier = 0.33
+	discipline = 0.05
+	land_forcelimit_modifier = 0.25
+	global_manpower_modifier = 0.25
 }
 horny_trade_AJU = {
 	global_trade_power = 0.15
@@ -119,8 +119,8 @@ hungarian_campaigns_CRO = {
 false_patriarch_crushed_CRO = {
 	diplomatic_reputation = -1
 	tolerance_own = 2
-	yearly_patriarch_authority = 0.1
-	global_missionary_strength = 0.03
+	yearly_patriarch_authority = 0.25
+	global_missionary_strength = 0.05
 }
 a_modicum_prosperity_CRO = {
 	build_cost = -0.2
@@ -129,4 +129,30 @@ a_modicum_prosperity_CRO = {
 brave_mujahideen_ADU = {
 	local_hostile_attrition = 1
 	local_defensiveness = 0.2
+}
+port_of_the_west_ADU = {
+	development_cost = -0.1
+	supply_limit = 3
+}
+link_of_europe_ADU = {
+	diplomatic_reputation = 1
+}
+sufi_presence_ADU = {
+	local_missionary_strength = 0.02
+}
+regional_defense_councils_ADU = {
+	local_hostile_attrition = 1
+	local_defensiveness = 0.2
+}
+to_new_lands_ADU = {
+	global_colonial_growth = 15
+}
+colonial_shipping_lanes_ADU = {
+	global_tariffs = 0.15
+}
+secure_our_borders_ADU = {
+	rival_border_fort_maintenance = -0.5
+}
+eastern_trade_ADU = {
+	global_ship_trade_power = 0.2
 }

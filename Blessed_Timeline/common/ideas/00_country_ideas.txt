@@ -14321,7 +14321,7 @@ ADU_ideas = {
 		allowed_marine_fraction = 0.1
 	}
 	ADU_nasis_al_isbunah = {
-		inflation_reduction = -0.1
+		inflation_reduction = 0.1
 	}
 }
 
